@@ -1,0 +1,3087 @@
+gatsby-starter-hello-world@0.1.0 /home/dan/gatsby-starter-hello-world
+├─┬ UNMET DEPENDENCY gatsby@2.19.45
+│ ├─┬ UNMET DEPENDENCY @babel/code-frame@7.8.3
+│ │ └─┬ UNMET DEPENDENCY @babel/highlight@7.8.3
+│ │   ├── UNMET DEPENDENCY chalk@2.4.2
+│ │   ├── UNMET DEPENDENCY esutils@2.0.3
+│ │   └── UNMET DEPENDENCY js-tokens@4.0.0
+│ ├─┬ UNMET DEPENDENCY @babel/core@7.8.7
+│ │ ├── UNMET DEPENDENCY @babel/code-frame@7.8.3
+│ │ ├─┬ UNMET DEPENDENCY @babel/generator@7.8.8
+│ │ │ ├── UNMET DEPENDENCY @babel/types@7.8.7
+│ │ │ ├── UNMET DEPENDENCY jsesc@2.5.2
+│ │ │ ├── UNMET DEPENDENCY lodash@4.17.15
+│ │ │ └── UNMET DEPENDENCY source-map@0.5.7
+│ │ ├─┬ UNMET DEPENDENCY @babel/helpers@7.8.4
+│ │ │ ├── UNMET DEPENDENCY @babel/template@7.8.6
+│ │ │ ├── UNMET DEPENDENCY @babel/traverse@7.8.6
+│ │ │ └── UNMET DEPENDENCY @babel/types@7.8.7
+│ │ ├── UNMET DEPENDENCY @babel/parser@7.8.8
+│ │ ├─┬ UNMET DEPENDENCY @babel/template@7.8.6
+│ │ │ ├── UNMET DEPENDENCY @babel/code-frame@7.8.3
+│ │ │ ├── UNMET DEPENDENCY @babel/parser@7.8.8
+│ │ │ └── UNMET DEPENDENCY @babel/types@7.8.7
+│ │ ├── UNMET DEPENDENCY @babel/traverse@7.8.6
+│ │ ├─┬ UNMET DEPENDENCY @babel/types@7.8.7
+│ │ │ ├── UNMET DEPENDENCY esutils@2.0.3
+│ │ │ ├── UNMET DEPENDENCY lodash@4.17.15
+│ │ │ └── UNMET DEPENDENCY to-fast-properties@2.0.0
+│ │ ├─┬ UNMET DEPENDENCY convert-source-map@1.7.0
+│ │ │ └── UNMET DEPENDENCY safe-buffer@5.1.2
+│ │ ├─┬ UNMET DEPENDENCY debug@4.1.1
+│ │ │ └── UNMET DEPENDENCY ms@2.1.2
+│ │ ├── UNMET DEPENDENCY gensync@1.0.0-beta.1
+│ │ ├─┬ UNMET DEPENDENCY json5@2.1.2
+│ │ │ └── UNMET DEPENDENCY minimist@1.2.5
+│ │ ├── UNMET DEPENDENCY lodash@4.17.15
+│ │ ├─┬ UNMET DEPENDENCY resolve@1.15.1
+│ │ │ └── UNMET DEPENDENCY path-parse@1.0.6
+│ │ ├── UNMET DEPENDENCY semver@5.7.1
+│ │ └── UNMET DEPENDENCY source-map@0.5.7
+│ ├── UNMET DEPENDENCY @babel/parser@7.8.8
+│ ├─┬ UNMET DEPENDENCY @babel/polyfill@7.8.7
+│ │ ├── UNMET DEPENDENCY core-js@2.6.11
+│ │ └── UNMET DEPENDENCY regenerator-runtime@0.13.5
+│ ├─┬ UNMET DEPENDENCY @babel/runtime@7.8.7
+│ │ └── UNMET DEPENDENCY regenerator-runtime@0.13.5
+│ ├─┬ UNMET DEPENDENCY @babel/traverse@7.8.6
+│ │ ├── UNMET DEPENDENCY @babel/code-frame@7.8.3
+│ │ ├── UNMET DEPENDENCY @babel/generator@7.8.8
+│ │ ├─┬ UNMET DEPENDENCY @babel/helper-function-name@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/helper-get-function-arity@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/types@7.8.7
+│ │ │ ├── UNMET DEPENDENCY @babel/template@7.8.6
+│ │ │ └── UNMET DEPENDENCY @babel/types@7.8.7
+│ │ ├─┬ UNMET DEPENDENCY @babel/helper-split-export-declaration@7.8.3
+│ │ │ └── UNMET DEPENDENCY @babel/types@7.8.7
+│ │ ├── UNMET DEPENDENCY @babel/parser@7.8.8
+│ │ ├── UNMET DEPENDENCY @babel/types@7.8.7
+│ │ ├─┬ UNMET DEPENDENCY debug@4.1.1
+│ │ │ └── UNMET DEPENDENCY ms@2.1.2
+│ │ ├── UNMET DEPENDENCY globals@11.12.0
+│ │ └── UNMET DEPENDENCY lodash@4.17.15
+│ ├─┬ UNMET DEPENDENCY @hapi/joi@15.1.1
+│ │ ├── UNMET DEPENDENCY @hapi/address@2.1.4
+│ │ ├── UNMET DEPENDENCY @hapi/bourne@1.3.2
+│ │ ├── UNMET DEPENDENCY @hapi/hoek@8.5.1
+│ │ └─┬ UNMET DEPENDENCY @hapi/topo@3.1.6
+│ │   └── UNMET DEPENDENCY @hapi/hoek@8.5.1
+│ ├── UNMET DEPENDENCY @mikaelkristiansson/domready@1.0.10
+│ ├─┬ UNMET DEPENDENCY @pieh/friendly-errors-webpack-plugin@1.7.0-chalk-2
+│ │ ├── UNMET DEPENDENCY chalk@2.4.2
+│ │ ├─┬ UNMET DEPENDENCY error-stack-parser@2.0.6
+│ │ │ └── UNMET DEPENDENCY stackframe@1.1.1
+│ │ ├─┬ UNMET DEPENDENCY string-width@2.1.1
+│ │ │ ├── UNMET DEPENDENCY is-fullwidth-code-point@2.0.0
+│ │ │ └─┬ UNMET DEPENDENCY strip-ansi@4.0.0
+│ │ │   └── UNMET DEPENDENCY ansi-regex@3.0.0
+│ │ └─┬ UNMET DEPENDENCY strip-ansi@3.0.1
+│ │   └── UNMET DEPENDENCY ansi-regex@2.1.1
+│ ├─┬ UNMET DEPENDENCY @pmmmwh/react-refresh-webpack-plugin@0.2.0
+│ │ ├── UNMET DEPENDENCY ansi-html@0.0.7
+│ │ ├── UNMET DEPENDENCY error-stack-parser@2.0.6
+│ │ ├── UNMET DEPENDENCY html-entities@1.2.1
+│ │ ├── UNMET DEPENDENCY lodash.debounce@4.0.8
+│ │ └─┬ UNMET DEPENDENCY react-dev-utils@9.1.0
+│ │   ├─┬ UNMET DEPENDENCY @babel/code-frame@7.5.5
+│ │   │ └── UNMET DEPENDENCY @babel/highlight@7.8.3
+│ │   ├── UNMET DEPENDENCY address@1.1.2
+│ │   ├─┬ UNMET DEPENDENCY browserslist@4.7.0
+│ │   │ ├── UNMET DEPENDENCY caniuse-lite@1.0.30001035
+│ │   │ ├── UNMET DEPENDENCY electron-to-chromium@1.3.376
+│ │   │ └── UNMET DEPENDENCY node-releases@1.1.52
+│ │   ├── UNMET DEPENDENCY chalk@2.4.2
+│ │   ├── UNMET DEPENDENCY cross-spawn@6.0.5
+│ │   ├─┬ UNMET DEPENDENCY detect-port-alt@1.1.6
+│ │   │ ├── UNMET DEPENDENCY address@1.1.2
+│ │   │ └─┬ UNMET DEPENDENCY debug@2.6.9
+│ │   │   └── UNMET DEPENDENCY ms@2.0.0
+│ │   ├── UNMET DEPENDENCY escape-string-regexp@1.0.5
+│ │   ├── UNMET DEPENDENCY filesize@3.6.1
+│ │   ├─┬ UNMET DEPENDENCY find-up@3.0.0
+│ │   │ └─┬ UNMET DEPENDENCY locate-path@3.0.0
+│ │   │   ├─┬ UNMET DEPENDENCY p-locate@3.0.0
+│ │   │   │ └─┬ UNMET DEPENDENCY p-limit@2.2.2
+│ │   │   │   └── UNMET DEPENDENCY p-try@2.2.0
+│ │   │   └── UNMET DEPENDENCY path-exists@3.0.0
+│ │   ├─┬ UNMET DEPENDENCY fork-ts-checker-webpack-plugin@1.5.0
+│ │   │ ├── UNMET DEPENDENCY babel-code-frame@6.26.0
+│ │   │ ├── UNMET DEPENDENCY chalk@2.4.2
+│ │   │ ├─┬ UNMET DEPENDENCY chokidar@2.1.8
+│ │   │ │ ├── UNMET DEPENDENCY anymatch@2.0.0
+│ │   │ │ ├── UNMET DEPENDENCY async-each@1.0.3
+│ │   │ │ ├── UNMET DEPENDENCY braces@2.3.2
+│ │   │ │ ├── UNMET OPTIONAL DEPENDENCY fsevents@1.2.11
+│ │   │ │ ├── UNMET DEPENDENCY glob-parent@3.1.0
+│ │   │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │   │ │ ├── UNMET DEPENDENCY is-binary-path@1.0.1
+│ │   │ │ ├── UNMET DEPENDENCY is-glob@4.0.1
+│ │   │ │ ├── UNMET DEPENDENCY normalize-path@3.0.0
+│ │   │ │ ├── UNMET DEPENDENCY path-is-absolute@1.0.1
+│ │   │ │ ├── UNMET DEPENDENCY readdirp@2.2.1
+│ │   │ │ └── UNMET DEPENDENCY upath@1.2.0
+│ │   │ ├── UNMET DEPENDENCY micromatch@3.1.10
+│ │   │ ├── UNMET DEPENDENCY minimatch@3.0.4
+│ │   │ ├── UNMET DEPENDENCY semver@5.7.1
+│ │   │ ├── UNMET DEPENDENCY tapable@1.1.3
+│ │   │ └─┬ UNMET DEPENDENCY worker-rpc@0.1.1
+│ │   │   └── UNMET DEPENDENCY microevent.ts@0.1.1
+│ │   ├─┬ UNMET DEPENDENCY global-modules@2.0.0
+│ │   │ └─┬ UNMET DEPENDENCY global-prefix@3.0.0
+│ │   │   ├── UNMET DEPENDENCY ini@1.3.5
+│ │   │   ├── UNMET DEPENDENCY kind-of@6.0.3
+│ │   │   └── UNMET DEPENDENCY which@1.3.1
+│ │   ├─┬ UNMET DEPENDENCY globby@8.0.2
+│ │   │ ├─┬ UNMET DEPENDENCY array-union@1.0.2
+│ │   │ │ └── UNMET DEPENDENCY array-uniq@1.0.3
+│ │   │ ├─┬ UNMET DEPENDENCY dir-glob@2.0.0
+│ │   │ │ ├── UNMET DEPENDENCY arrify@1.0.1
+│ │   │ │ └─┬ UNMET DEPENDENCY path-type@3.0.0
+│ │   │ │   └── UNMET DEPENDENCY pify@3.0.0
+│ │   │ ├─┬ UNMET DEPENDENCY fast-glob@2.2.7
+│ │   │ │ ├─┬ UNMET DEPENDENCY @mrmlnc/readdir-enhanced@2.2.1
+│ │   │ │ │ ├── UNMET DEPENDENCY call-me-maybe@1.0.1
+│ │   │ │ │ └── UNMET DEPENDENCY glob-to-regexp@0.3.0
+│ │   │ │ ├── UNMET DEPENDENCY @nodelib/fs.stat@1.1.3
+│ │   │ │ ├── UNMET DEPENDENCY glob-parent@3.1.0
+│ │   │ │ ├── UNMET DEPENDENCY is-glob@4.0.1
+│ │   │ │ ├── UNMET DEPENDENCY merge2@1.3.0
+│ │   │ │ └── UNMET DEPENDENCY micromatch@3.1.10
+│ │   │ ├── UNMET DEPENDENCY glob@7.1.6
+│ │   │ ├── UNMET DEPENDENCY ignore@3.3.10
+│ │   │ ├── UNMET DEPENDENCY pify@3.0.0
+│ │   │ └── UNMET DEPENDENCY slash@1.0.0
+│ │   ├─┬ UNMET DEPENDENCY gzip-size@5.1.1
+│ │   │ ├── UNMET DEPENDENCY duplexer@0.1.1
+│ │   │ └── UNMET DEPENDENCY pify@4.0.1
+│ │   ├── UNMET DEPENDENCY immer@1.10.0
+│ │   ├─┬ UNMET DEPENDENCY inquirer@6.5.0
+│ │   │ ├── UNMET DEPENDENCY ansi-escapes@3.2.0
+│ │   │ ├── UNMET DEPENDENCY chalk@2.4.2
+│ │   │ ├── UNMET DEPENDENCY cli-cursor@2.1.0
+│ │   │ ├── UNMET DEPENDENCY cli-width@2.2.0
+│ │   │ ├── UNMET DEPENDENCY external-editor@3.1.0
+│ │   │ ├── UNMET DEPENDENCY figures@2.0.0
+│ │   │ ├── UNMET DEPENDENCY lodash@4.17.15
+│ │   │ ├── UNMET DEPENDENCY mute-stream@0.0.7
+│ │   │ ├── UNMET DEPENDENCY run-async@2.4.0
+│ │   │ ├── UNMET DEPENDENCY rxjs@6.5.4
+│ │   │ ├── UNMET DEPENDENCY string-width@2.1.1
+│ │   │ ├─┬ UNMET DEPENDENCY strip-ansi@5.2.0
+│ │   │ │ └── UNMET DEPENDENCY ansi-regex@4.1.0
+│ │   │ └── UNMET DEPENDENCY through@2.3.8
+│ │   ├── UNMET DEPENDENCY is-root@2.1.0
+│ │   ├── UNMET DEPENDENCY loader-utils@1.2.3
+│ │   ├── UNMET DEPENDENCY open@6.4.0
+│ │   ├─┬ UNMET DEPENDENCY pkg-up@2.0.0
+│ │   │ └─┬ UNMET DEPENDENCY find-up@2.1.0
+│ │   │   └─┬ UNMET DEPENDENCY locate-path@2.0.0
+│ │   │     ├─┬ UNMET DEPENDENCY p-locate@2.0.0
+│ │   │     │ └─┬ UNMET DEPENDENCY p-limit@1.3.0
+│ │   │     │   └── UNMET DEPENDENCY p-try@1.0.0
+│ │   │     └── UNMET DEPENDENCY path-exists@3.0.0
+│ │   ├── UNMET DEPENDENCY react-error-overlay@6.0.6
+│ │   ├─┬ UNMET DEPENDENCY recursive-readdir@2.2.2
+│ │   │ └── UNMET DEPENDENCY minimatch@3.0.4
+│ │   ├── UNMET DEPENDENCY shell-quote@1.7.2
+│ │   ├── UNMET DEPENDENCY sockjs-client@1.4.0
+│ │   ├─┬ UNMET DEPENDENCY strip-ansi@5.2.0
+│ │   │ └── UNMET DEPENDENCY ansi-regex@4.1.0
+│ │   └── UNMET DEPENDENCY text-table@0.2.0
+│ ├─┬ UNMET DEPENDENCY @reach/router@1.3.3
+│ │ ├─┬ UNMET DEPENDENCY create-react-context@0.3.0
+│ │ │ ├── UNMET DEPENDENCY gud@1.0.0
+│ │ │ └─┬ UNMET DEPENDENCY warning@4.0.3
+│ │ │   └── UNMET DEPENDENCY loose-envify@1.4.0
+│ │ ├── UNMET DEPENDENCY invariant@2.2.4
+│ │ ├── UNMET DEPENDENCY prop-types@15.7.2
+│ │ └── UNMET DEPENDENCY react-lifecycles-compat@3.0.4
+│ ├─┬ UNMET DEPENDENCY @typescript-eslint/eslint-plugin@2.24.0
+│ │ ├─┬ UNMET DEPENDENCY @typescript-eslint/experimental-utils@2.24.0
+│ │ │ ├── UNMET DEPENDENCY @types/json-schema@7.0.4
+│ │ │ ├── UNMET DEPENDENCY @typescript-eslint/typescript-estree@2.24.0
+│ │ │ └── UNMET DEPENDENCY eslint-scope@5.0.0
+│ │ ├─┬ UNMET DEPENDENCY eslint-utils@1.4.3
+│ │ │ └── UNMET DEPENDENCY eslint-visitor-keys@1.1.0
+│ │ ├── UNMET DEPENDENCY functional-red-black-tree@1.0.1
+│ │ ├── UNMET DEPENDENCY regexpp@3.0.0
+│ │ └─┬ UNMET DEPENDENCY tsutils@3.17.1
+│ │   └── UNMET DEPENDENCY tslib@1.11.1
+│ ├─┬ UNMET DEPENDENCY @typescript-eslint/parser@2.24.0
+│ │ ├── UNMET DEPENDENCY @types/eslint-visitor-keys@1.0.0
+│ │ ├── UNMET DEPENDENCY @typescript-eslint/experimental-utils@2.24.0
+│ │ ├─┬ UNMET DEPENDENCY @typescript-eslint/typescript-estree@2.24.0
+│ │ │ ├─┬ UNMET DEPENDENCY debug@4.1.1
+│ │ │ │ └── UNMET DEPENDENCY ms@2.1.2
+│ │ │ ├── UNMET DEPENDENCY eslint-visitor-keys@1.1.0
+│ │ │ ├── UNMET DEPENDENCY glob@7.1.6
+│ │ │ ├── UNMET DEPENDENCY is-glob@4.0.1
+│ │ │ ├── UNMET DEPENDENCY lodash@4.17.15
+│ │ │ ├── UNMET DEPENDENCY semver@6.3.0
+│ │ │ └── UNMET DEPENDENCY tsutils@3.17.1
+│ │ └── UNMET DEPENDENCY eslint-visitor-keys@1.1.0
+│ ├── UNMET DEPENDENCY address@1.1.2
+│ ├─┬ UNMET DEPENDENCY autoprefixer@9.7.4
+│ │ ├── UNMET DEPENDENCY browserslist@4.9.1
+│ │ ├── UNMET DEPENDENCY caniuse-lite@1.0.30001035
+│ │ ├── UNMET DEPENDENCY chalk@2.4.2
+│ │ ├── UNMET DEPENDENCY normalize-range@0.1.2
+│ │ ├── UNMET DEPENDENCY num2fraction@1.2.2
+│ │ ├─┬ UNMET DEPENDENCY postcss@7.0.27
+│ │ │ ├── UNMET DEPENDENCY chalk@2.4.2
+│ │ │ ├── UNMET DEPENDENCY source-map@0.6.1
+│ │ │ └─┬ UNMET DEPENDENCY supports-color@6.1.0
+│ │ │   └── UNMET DEPENDENCY has-flag@3.0.0
+│ │ └── UNMET DEPENDENCY postcss-value-parser@4.0.3
+│ ├─┬ UNMET DEPENDENCY axios@0.19.2
+│ │ └─┬ UNMET DEPENDENCY follow-redirects@1.5.10
+│ │   └─┬ UNMET DEPENDENCY debug@3.1.0
+│ │     └── UNMET DEPENDENCY ms@2.0.0
+│ ├── UNMET DEPENDENCY babel-core@7.0.0-bridge.0
+│ ├─┬ UNMET DEPENDENCY babel-eslint@10.1.0
+│ │ ├── UNMET DEPENDENCY @babel/code-frame@7.8.3
+│ │ ├── UNMET DEPENDENCY @babel/parser@7.8.8
+│ │ ├── UNMET DEPENDENCY @babel/traverse@7.8.6
+│ │ ├── UNMET DEPENDENCY @babel/types@7.8.7
+│ │ ├── UNMET DEPENDENCY eslint-visitor-keys@1.1.0
+│ │ └── UNMET DEPENDENCY resolve@1.15.1
+│ ├─┬ UNMET DEPENDENCY babel-loader@8.0.6
+│ │ ├─┬ UNMET DEPENDENCY find-cache-dir@2.1.0
+│ │ │ ├── UNMET DEPENDENCY commondir@1.0.1
+│ │ │ ├─┬ UNMET DEPENDENCY make-dir@2.1.0
+│ │ │ │ ├── UNMET DEPENDENCY pify@4.0.1
+│ │ │ │ └── UNMET DEPENDENCY semver@5.7.1
+│ │ │ └─┬ UNMET DEPENDENCY pkg-dir@3.0.0
+│ │ │   └── UNMET DEPENDENCY find-up@3.0.0
+│ │ ├─┬ UNMET DEPENDENCY loader-utils@1.2.3
+│ │ │ ├── UNMET DEPENDENCY big.js@5.2.2
+│ │ │ ├── UNMET DEPENDENCY emojis-list@2.1.0
+│ │ │ └─┬ UNMET DEPENDENCY json5@1.0.1
+│ │ │   └── UNMET DEPENDENCY minimist@1.2.5
+│ │ ├── UNMET DEPENDENCY mkdirp@0.5.1
+│ │ └── UNMET DEPENDENCY pify@4.0.1
+│ ├─┬ UNMET DEPENDENCY babel-plugin-add-module-exports@0.3.3
+│ │ └─┬ UNMET OPTIONAL DEPENDENCY chokidar@2.1.8
+│ │   ├─┬ UNMET DEPENDENCY anymatch@2.0.0
+│ │   │ ├── UNMET DEPENDENCY micromatch@3.1.10
+│ │   │ └── UNMET DEPENDENCY normalize-path@2.1.1
+│ │   ├── UNMET DEPENDENCY async-each@1.0.3
+│ │   ├── UNMET DEPENDENCY braces@2.3.2
+│ │   ├─┬ UNMET OPTIONAL DEPENDENCY fsevents@1.2.11
+│ │   │ ├─┬ UNMET OPTIONAL DEPENDENCY bindings@1.5.0
+│ │   │ │ └── UNMET OPTIONAL DEPENDENCY file-uri-to-path@1.0.0
+│ │   │ ├── UNMET OPTIONAL DEPENDENCY nan@2.14.0
+│ │   │ └─┬ UNMET OPTIONAL DEPENDENCY node-pre-gyp@0.14.0
+│ │   │   ├── UNMET OPTIONAL DEPENDENCY detect-libc@1.0.3
+│ │   │   ├─┬ UNMET OPTIONAL DEPENDENCY mkdirp@0.5.1
+│ │   │   │ └── UNMET OPTIONAL DEPENDENCY minimist@0.0.8
+│ │   │   ├─┬ UNMET OPTIONAL DEPENDENCY needle@2.4.0
+│ │   │   │ ├─┬ UNMET OPTIONAL DEPENDENCY debug@3.2.6
+│ │   │   │ │ └── UNMET OPTIONAL DEPENDENCY ms@2.1.2
+│ │   │   │ ├─┬ UNMET OPTIONAL DEPENDENCY iconv-lite@0.4.24
+│ │   │   │ │ └── UNMET OPTIONAL DEPENDENCY safer-buffer@2.1.2
+│ │   │   │ └── UNMET OPTIONAL DEPENDENCY sax@1.2.4
+│ │   │   ├─┬ UNMET OPTIONAL DEPENDENCY nopt@4.0.1
+│ │   │   │ ├── UNMET OPTIONAL DEPENDENCY abbrev@1.1.1
+│ │   │   │ └─┬ UNMET OPTIONAL DEPENDENCY osenv@0.1.5
+│ │   │   │   ├── UNMET OPTIONAL DEPENDENCY os-homedir@1.0.2
+│ │   │   │   └── UNMET OPTIONAL DEPENDENCY os-tmpdir@1.0.2
+│ │   │   ├─┬ UNMET OPTIONAL DEPENDENCY npm-packlist@1.4.7
+│ │   │   │ ├─┬ UNMET OPTIONAL DEPENDENCY ignore-walk@3.0.3
+│ │   │   │ │ └─┬ UNMET OPTIONAL DEPENDENCY minimatch@3.0.4
+│ │   │   │ │   └─┬ UNMET OPTIONAL DEPENDENCY brace-expansion@1.1.11
+│ │   │   │ │     ├── UNMET OPTIONAL DEPENDENCY balanced-match@1.0.0
+│ │   │   │ │     └── UNMET OPTIONAL DEPENDENCY concat-map@0.0.1
+│ │   │   │ └─┬ UNMET OPTIONAL DEPENDENCY npm-bundled@1.1.1
+│ │   │   │   └── UNMET OPTIONAL DEPENDENCY npm-normalize-package-bin@1.0.1
+│ │   │   ├─┬ UNMET OPTIONAL DEPENDENCY npmlog@4.1.2
+│ │   │   │ ├─┬ UNMET OPTIONAL DEPENDENCY are-we-there-yet@1.1.5
+│ │   │   │ │ ├── UNMET OPTIONAL DEPENDENCY delegates@1.0.0
+│ │   │   │ │ └─┬ UNMET OPTIONAL DEPENDENCY readable-stream@2.3.6
+│ │   │   │ │   ├── UNMET OPTIONAL DEPENDENCY core-util-is@1.0.2
+│ │   │   │ │   ├── UNMET OPTIONAL DEPENDENCY inherits@2.0.4
+│ │   │   │ │   ├── UNMET OPTIONAL DEPENDENCY isarray@1.0.0
+│ │   │   │ │   ├── UNMET OPTIONAL DEPENDENCY process-nextick-args@2.0.1
+│ │   │   │ │   ├── UNMET OPTIONAL DEPENDENCY safe-buffer@5.1.2
+│ │   │   │ │   ├─┬ UNMET OPTIONAL DEPENDENCY string_decoder@1.1.1
+│ │   │   │ │   │ └── UNMET OPTIONAL DEPENDENCY safe-buffer@5.1.2
+│ │   │   │ │   └── UNMET OPTIONAL DEPENDENCY util-deprecate@1.0.2
+│ │   │   │ ├── UNMET OPTIONAL DEPENDENCY console-control-strings@1.1.0
+│ │   │   │ ├─┬ UNMET OPTIONAL DEPENDENCY gauge@2.7.4
+│ │   │   │ │ ├── UNMET OPTIONAL DEPENDENCY aproba@1.2.0
+│ │   │   │ │ ├── UNMET OPTIONAL DEPENDENCY console-control-strings@1.1.0
+│ │   │   │ │ ├── UNMET OPTIONAL DEPENDENCY has-unicode@2.0.1
+│ │   │   │ │ ├── UNMET OPTIONAL DEPENDENCY object-assign@4.1.1
+│ │   │   │ │ ├── UNMET OPTIONAL DEPENDENCY signal-exit@3.0.2
+│ │   │   │ │ ├─┬ UNMET OPTIONAL DEPENDENCY string-width@1.0.2
+│ │   │   │ │ │ ├── UNMET OPTIONAL DEPENDENCY code-point-at@1.1.0
+│ │   │   │ │ │ ├─┬ UNMET OPTIONAL DEPENDENCY is-fullwidth-code-point@1.0.0
+│ │   │   │ │ │ │ └── UNMET OPTIONAL DEPENDENCY number-is-nan@1.0.1
+│ │   │   │ │ │ └── UNMET OPTIONAL DEPENDENCY strip-ansi@3.0.1
+│ │   │   │ │ ├─┬ UNMET OPTIONAL DEPENDENCY strip-ansi@3.0.1
+│ │   │   │ │ │ └── UNMET OPTIONAL DEPENDENCY ansi-regex@2.1.1
+│ │   │   │ │ └─┬ UNMET OPTIONAL DEPENDENCY wide-align@1.1.3
+│ │   │   │ │   └── UNMET OPTIONAL DEPENDENCY string-width@1.0.2
+│ │   │   │ └── UNMET OPTIONAL DEPENDENCY set-blocking@2.0.0
+│ │   │   ├─┬ UNMET OPTIONAL DEPENDENCY rc@1.2.8
+│ │   │   │ ├── UNMET OPTIONAL DEPENDENCY deep-extend@0.6.0
+│ │   │   │ ├── UNMET OPTIONAL DEPENDENCY ini@1.3.5
+│ │   │   │ ├── UNMET OPTIONAL DEPENDENCY minimist@1.2.0
+│ │   │   │ └── UNMET OPTIONAL DEPENDENCY strip-json-comments@2.0.1
+│ │   │   ├─┬ UNMET OPTIONAL DEPENDENCY rimraf@2.7.1
+│ │   │   │ └─┬ UNMET OPTIONAL DEPENDENCY glob@7.1.6
+│ │   │   │   ├── UNMET OPTIONAL DEPENDENCY fs.realpath@1.0.0
+│ │   │   │   ├─┬ UNMET OPTIONAL DEPENDENCY inflight@1.0.6
+│ │   │   │   │ ├── UNMET OPTIONAL DEPENDENCY once@1.4.0
+│ │   │   │   │ └── UNMET OPTIONAL DEPENDENCY wrappy@1.0.2
+│ │   │   │   ├── UNMET OPTIONAL DEPENDENCY inherits@2.0.4
+│ │   │   │   ├── UNMET OPTIONAL DEPENDENCY minimatch@3.0.4
+│ │   │   │   ├─┬ UNMET OPTIONAL DEPENDENCY once@1.4.0
+│ │   │   │   │ └── UNMET OPTIONAL DEPENDENCY wrappy@1.0.2
+│ │   │   │   └── UNMET OPTIONAL DEPENDENCY path-is-absolute@1.0.1
+│ │   │   ├── UNMET OPTIONAL DEPENDENCY semver@5.7.1
+│ │   │   └─┬ UNMET OPTIONAL DEPENDENCY tar@4.4.13
+│ │   │     ├── UNMET OPTIONAL DEPENDENCY chownr@1.1.3
+│ │   │     ├─┬ UNMET OPTIONAL DEPENDENCY fs-minipass@1.2.7
+│ │   │     │ └── UNMET OPTIONAL DEPENDENCY minipass@2.9.0
+│ │   │     ├─┬ UNMET OPTIONAL DEPENDENCY minipass@2.9.0
+│ │   │     │ ├── UNMET OPTIONAL DEPENDENCY safe-buffer@5.1.2
+│ │   │     │ └── UNMET OPTIONAL DEPENDENCY yallist@3.1.1
+│ │   │     ├─┬ UNMET OPTIONAL DEPENDENCY minizlib@1.3.3
+│ │   │     │ └── UNMET OPTIONAL DEPENDENCY minipass@2.9.0
+│ │   │     ├── UNMET OPTIONAL DEPENDENCY mkdirp@0.5.1
+│ │   │     ├── UNMET OPTIONAL DEPENDENCY safe-buffer@5.1.2
+│ │   │     └── UNMET OPTIONAL DEPENDENCY yallist@3.1.1
+│ │   ├─┬ UNMET DEPENDENCY glob-parent@3.1.0
+│ │   │ ├─┬ UNMET DEPENDENCY is-glob@3.1.0
+│ │   │ │ └── UNMET DEPENDENCY is-extglob@2.1.1
+│ │   │ └── UNMET DEPENDENCY path-dirname@1.0.2
+│ │   ├── UNMET DEPENDENCY inherits@2.0.4
+│ │   ├─┬ UNMET DEPENDENCY is-binary-path@1.0.1
+│ │   │ └── UNMET DEPENDENCY binary-extensions@1.13.1
+│ │   ├── UNMET DEPENDENCY is-glob@4.0.1
+│ │   ├── UNMET OPTIONAL DEPENDENCY normalize-path@3.0.0
+│ │   ├── UNMET DEPENDENCY path-is-absolute@1.0.1
+│ │   ├─┬ UNMET DEPENDENCY readdirp@2.2.1
+│ │   │ ├── UNMET DEPENDENCY graceful-fs@4.2.3
+│ │   │ ├── UNMET DEPENDENCY micromatch@3.1.10
+│ │   │ └── UNMET DEPENDENCY readable-stream@2.3.7
+│ │   └── UNMET DEPENDENCY upath@1.2.0
+│ ├─┬ UNMET DEPENDENCY babel-plugin-dynamic-import-node@2.3.0
+│ │ └─┬ UNMET DEPENDENCY object.assign@4.1.0
+│ │   ├── UNMET DEPENDENCY define-properties@1.1.3
+│ │   ├── UNMET DEPENDENCY function-bind@1.1.1
+│ │   ├── UNMET DEPENDENCY has-symbols@1.0.1
+│ │   └── UNMET DEPENDENCY object-keys@1.1.1
+│ ├── UNMET DEPENDENCY babel-plugin-remove-graphql-queries@2.7.26
+│ ├─┬ UNMET DEPENDENCY babel-preset-gatsby@0.2.36
+│ │ ├─┬ UNMET DEPENDENCY @babel/plugin-proposal-class-properties@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/helper-create-class-features-plugin@7.8.6
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-function-name@7.8.3
+│ │ │ │ ├─┬ UNMET DEPENDENCY @babel/helper-member-expression-to-functions@7.8.3
+│ │ │ │ │ └── UNMET DEPENDENCY @babel/types@7.8.7
+│ │ │ │ ├─┬ UNMET DEPENDENCY @babel/helper-optimise-call-expression@7.8.3
+│ │ │ │ │ └── UNMET DEPENDENCY @babel/types@7.8.7
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ │ ├─┬ UNMET DEPENDENCY @babel/helper-replace-supers@7.8.6
+│ │ │ │ │ ├── UNMET DEPENDENCY @babel/helper-member-expression-to-functions@7.8.3
+│ │ │ │ │ ├── UNMET DEPENDENCY @babel/helper-optimise-call-expression@7.8.3
+│ │ │ │ │ ├── UNMET DEPENDENCY @babel/traverse@7.8.6
+│ │ │ │ │ └── UNMET DEPENDENCY @babel/types@7.8.7
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-split-export-declaration@7.8.3
+│ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ ├─┬ UNMET DEPENDENCY @babel/plugin-proposal-nullish-coalescing-operator@7.8.3
+│ │ │ ├── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ └─┬ UNMET DEPENDENCY @babel/plugin-syntax-nullish-coalescing-operator@7.8.3
+│ │ │   └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ ├─┬ UNMET DEPENDENCY @babel/plugin-proposal-optional-chaining@7.8.3
+│ │ │ ├── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ └─┬ UNMET DEPENDENCY @babel/plugin-syntax-optional-chaining@7.8.3
+│ │ │   └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ ├─┬ UNMET DEPENDENCY @babel/plugin-syntax-dynamic-import@7.8.3
+│ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-runtime@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/helper-module-imports@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/types@7.8.7
+│ │ │ ├── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├── UNMET DEPENDENCY resolve@1.15.1
+│ │ │ └── UNMET DEPENDENCY semver@5.7.1
+│ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-spread@7.8.3
+│ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ ├─┬ UNMET DEPENDENCY @babel/preset-env@7.8.7
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/compat-data@7.8.6
+│ │ │ │ ├── UNMET DEPENDENCY browserslist@4.9.1
+│ │ │ │ ├── UNMET DEPENDENCY invariant@2.2.4
+│ │ │ │ └── UNMET DEPENDENCY semver@5.7.1
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/helper-compilation-targets@7.8.7
+│ │ │ │ ├── UNMET DEPENDENCY @babel/compat-data@7.8.6
+│ │ │ │ ├── UNMET DEPENDENCY browserslist@4.9.1
+│ │ │ │ ├── UNMET DEPENDENCY invariant@2.2.4
+│ │ │ │ ├── UNMET DEPENDENCY levenary@1.1.1
+│ │ │ │ └── UNMET DEPENDENCY semver@5.7.1
+│ │ │ ├── UNMET DEPENDENCY @babel/helper-module-imports@7.8.3
+│ │ │ ├── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-proposal-async-generator-functions@7.8.3
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ │ ├─┬ UNMET DEPENDENCY @babel/helper-remap-async-to-generator@7.8.3
+│ │ │ │ │ ├── UNMET DEPENDENCY @babel/helper-annotate-as-pure@7.8.3
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY @babel/helper-wrap-function@7.8.3
+│ │ │ │ │ │ ├── UNMET DEPENDENCY @babel/helper-function-name@7.8.3
+│ │ │ │ │ │ ├── UNMET DEPENDENCY @babel/template@7.8.6
+│ │ │ │ │ │ ├── UNMET DEPENDENCY @babel/traverse@7.8.6
+│ │ │ │ │ │ └── UNMET DEPENDENCY @babel/types@7.8.7
+│ │ │ │ │ ├── UNMET DEPENDENCY @babel/template@7.8.6
+│ │ │ │ │ ├── UNMET DEPENDENCY @babel/traverse@7.8.6
+│ │ │ │ │ └── UNMET DEPENDENCY @babel/types@7.8.7
+│ │ │ │ └── UNMET DEPENDENCY @babel/plugin-syntax-async-generators@7.8.4
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-proposal-dynamic-import@7.8.3
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/plugin-syntax-dynamic-import@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-proposal-json-strings@7.8.3
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/plugin-syntax-json-strings@7.8.3
+│ │ │ ├── UNMET DEPENDENCY @babel/plugin-proposal-nullish-coalescing-operator@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-proposal-object-rest-spread@7.8.3
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/plugin-syntax-object-rest-spread@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-proposal-optional-catch-binding@7.8.3
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/plugin-syntax-optional-catch-binding@7.8.3
+│ │ │ ├── UNMET DEPENDENCY @babel/plugin-proposal-optional-chaining@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-proposal-unicode-property-regex@7.8.8
+│ │ │ │ ├─┬ UNMET DEPENDENCY @babel/helper-create-regexp-features-plugin@7.8.8
+│ │ │ │ │ ├── UNMET DEPENDENCY @babel/helper-annotate-as-pure@7.8.3
+│ │ │ │ │ ├── UNMET DEPENDENCY @babel/helper-regex@7.8.3
+│ │ │ │ │ └── UNMET DEPENDENCY regexpu-core@4.7.0
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-syntax-async-generators@7.8.4
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├── UNMET DEPENDENCY @babel/plugin-syntax-dynamic-import@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-syntax-json-strings@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├── UNMET DEPENDENCY @babel/plugin-syntax-nullish-coalescing-operator@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-syntax-object-rest-spread@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-syntax-optional-catch-binding@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├── UNMET DEPENDENCY @babel/plugin-syntax-optional-chaining@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-syntax-top-level-await@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-arrow-functions@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-async-to-generator@7.8.3
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-module-imports@7.8.3
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-remap-async-to-generator@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-block-scoped-functions@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-block-scoping@7.8.3
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY lodash@4.17.15
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-classes@7.8.6
+│ │ │ │ ├─┬ UNMET DEPENDENCY @babel/helper-annotate-as-pure@7.8.3
+│ │ │ │ │ └── UNMET DEPENDENCY @babel/types@7.8.7
+│ │ │ │ ├─┬ UNMET DEPENDENCY @babel/helper-define-map@7.8.3
+│ │ │ │ │ ├── UNMET DEPENDENCY @babel/helper-function-name@7.8.3
+│ │ │ │ │ ├── UNMET DEPENDENCY @babel/types@7.8.7
+│ │ │ │ │ └── UNMET DEPENDENCY lodash@4.17.15
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-function-name@7.8.3
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-optimise-call-expression@7.8.3
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-replace-supers@7.8.6
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-split-export-declaration@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY globals@11.12.0
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-computed-properties@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-destructuring@7.8.8
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-dotall-regex@7.8.3
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-create-regexp-features-plugin@7.8.8
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-duplicate-keys@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-exponentiation-operator@7.8.3
+│ │ │ │ ├─┬ UNMET DEPENDENCY @babel/helper-builder-binary-assignment-operator-visitor@7.8.3
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY @babel/helper-explode-assignable-expression@7.8.3
+│ │ │ │ │ │ ├── UNMET DEPENDENCY @babel/traverse@7.8.6
+│ │ │ │ │ │ └── UNMET DEPENDENCY @babel/types@7.8.7
+│ │ │ │ │ └── UNMET DEPENDENCY @babel/types@7.8.7
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-for-of@7.8.6
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-function-name@7.8.3
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-function-name@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-literals@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-member-expression-literals@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-modules-amd@7.8.3
+│ │ │ │ ├─┬ UNMET DEPENDENCY @babel/helper-module-transforms@7.8.6
+│ │ │ │ │ ├── UNMET DEPENDENCY @babel/helper-module-imports@7.8.3
+│ │ │ │ │ ├── UNMET DEPENDENCY @babel/helper-replace-supers@7.8.6
+│ │ │ │ │ ├── UNMET DEPENDENCY @babel/helper-simple-access@7.8.3
+│ │ │ │ │ ├── UNMET DEPENDENCY @babel/helper-split-export-declaration@7.8.3
+│ │ │ │ │ ├── UNMET DEPENDENCY @babel/template@7.8.6
+│ │ │ │ │ ├── UNMET DEPENDENCY @babel/types@7.8.7
+│ │ │ │ │ └── UNMET DEPENDENCY lodash@4.17.15
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY babel-plugin-dynamic-import-node@2.3.0
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-modules-commonjs@7.8.3
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-module-transforms@7.8.6
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ │ ├─┬ UNMET DEPENDENCY @babel/helper-simple-access@7.8.3
+│ │ │ │ │ ├── UNMET DEPENDENCY @babel/template@7.8.6
+│ │ │ │ │ └── UNMET DEPENDENCY @babel/types@7.8.7
+│ │ │ │ └── UNMET DEPENDENCY babel-plugin-dynamic-import-node@2.3.0
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-modules-systemjs@7.8.3
+│ │ │ │ ├─┬ UNMET DEPENDENCY @babel/helper-hoist-variables@7.8.3
+│ │ │ │ │ └── UNMET DEPENDENCY @babel/types@7.8.7
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-module-transforms@7.8.6
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY babel-plugin-dynamic-import-node@2.3.0
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-modules-umd@7.8.3
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-module-transforms@7.8.6
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-named-capturing-groups-regex@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-create-regexp-features-plugin@7.8.8
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-new-target@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-object-super@7.8.3
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-replace-supers@7.8.6
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-parameters@7.8.8
+│ │ │ │ ├─┬ UNMET DEPENDENCY @babel/helper-call-delegate@7.8.7
+│ │ │ │ │ ├── UNMET DEPENDENCY @babel/helper-hoist-variables@7.8.3
+│ │ │ │ │ ├── UNMET DEPENDENCY @babel/traverse@7.8.6
+│ │ │ │ │ └── UNMET DEPENDENCY @babel/types@7.8.7
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-get-function-arity@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-property-literals@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-regenerator@7.8.7
+│ │ │ │ └─┬ UNMET DEPENDENCY regenerator-transform@0.14.3
+│ │ │ │   ├── UNMET DEPENDENCY @babel/runtime@7.8.7
+│ │ │ │   └── UNMET DEPENDENCY private@0.1.8
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-reserved-words@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-shorthand-properties@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├── UNMET DEPENDENCY @babel/plugin-transform-spread@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-sticky-regex@7.8.3
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ │ └─┬ UNMET DEPENDENCY @babel/helper-regex@7.8.3
+│ │ │ │   └── UNMET DEPENDENCY lodash@4.17.15
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-template-literals@7.8.3
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-annotate-as-pure@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-typeof-symbol@7.8.4
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-unicode-regex@7.8.3
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-create-regexp-features-plugin@7.8.8
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├── UNMET DEPENDENCY @babel/types@7.8.7
+│ │ │ ├── UNMET DEPENDENCY browserslist@4.9.1
+│ │ │ ├─┬ UNMET DEPENDENCY core-js-compat@3.6.4
+│ │ │ │ ├── UNMET DEPENDENCY browserslist@4.9.1
+│ │ │ │ └── UNMET DEPENDENCY semver@7.0.0
+│ │ │ ├── UNMET DEPENDENCY invariant@2.2.4
+│ │ │ ├─┬ UNMET DEPENDENCY levenary@1.1.1
+│ │ │ │ └── UNMET DEPENDENCY leven@3.1.0
+│ │ │ └── UNMET DEPENDENCY semver@5.7.1
+│ │ ├─┬ UNMET DEPENDENCY @babel/preset-react@7.8.3
+│ │ │ ├── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-react-display-name@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-react-jsx@7.8.3
+│ │ │ │ ├─┬ UNMET DEPENDENCY @babel/helper-builder-react-jsx@7.8.3
+│ │ │ │ │ ├── UNMET DEPENDENCY @babel/types@7.8.7
+│ │ │ │ │ └── UNMET DEPENDENCY esutils@2.0.3
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ │ └─┬ UNMET DEPENDENCY @babel/plugin-syntax-jsx@7.8.3
+│ │ │ │   └── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ ├─┬ UNMET DEPENDENCY @babel/plugin-transform-react-jsx-self@7.8.3
+│ │ │ │ ├── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │ │ └── UNMET DEPENDENCY @babel/plugin-syntax-jsx@7.8.3
+│ │ │ └─┬ UNMET DEPENDENCY @babel/plugin-transform-react-jsx-source@7.8.3
+│ │ │   ├── UNMET DEPENDENCY @babel/helper-plugin-utils@7.8.3
+│ │ │   └── UNMET DEPENDENCY @babel/plugin-syntax-jsx@7.8.3
+│ │ ├── UNMET DEPENDENCY @babel/runtime@7.8.7
+│ │ ├── UNMET DEPENDENCY babel-plugin-dynamic-import-node@2.3.0
+│ │ ├─┬ UNMET DEPENDENCY babel-plugin-macros@2.8.0
+│ │ │ ├── UNMET DEPENDENCY @babel/runtime@7.8.7
+│ │ │ ├─┬ UNMET DEPENDENCY cosmiconfig@6.0.0
+│ │ │ │ ├── UNMET DEPENDENCY @types/parse-json@4.0.0
+│ │ │ │ ├── UNMET DEPENDENCY import-fresh@3.2.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY parse-json@5.0.0
+│ │ │ │ │ ├── UNMET DEPENDENCY @babel/code-frame@7.8.3
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY error-ex@1.3.2
+│ │ │ │ │ │ └── UNMET DEPENDENCY is-arrayish@0.2.1
+│ │ │ │ │ ├── UNMET DEPENDENCY json-parse-better-errors@1.0.2
+│ │ │ │ │ └── UNMET DEPENDENCY lines-and-columns@1.1.6
+│ │ │ │ ├── UNMET DEPENDENCY path-type@4.0.0
+│ │ │ │ └─┬ UNMET DEPENDENCY yaml@1.8.2
+│ │ │ │   └── UNMET DEPENDENCY @babel/runtime@7.8.7
+│ │ │ └── UNMET DEPENDENCY resolve@1.15.1
+│ │ ├── UNMET DEPENDENCY babel-plugin-transform-react-remove-prop-types@0.4.24
+│ │ └── UNMET DEPENDENCY gatsby-core-utils@1.0.34
+│ ├─┬ UNMET DEPENDENCY better-opn@1.0.0
+│ │ └─┬ UNMET DEPENDENCY open@6.4.0
+│ │   └── UNMET DEPENDENCY is-wsl@1.1.0
+│ ├─┬ UNMET DEPENDENCY better-queue@3.8.10
+│ │ ├── UNMET DEPENDENCY better-queue-memory@1.0.4
+│ │ ├── UNMET DEPENDENCY node-eta@0.9.0
+│ │ └── UNMET DEPENDENCY uuid@3.4.0
+│ ├── UNMET DEPENDENCY bluebird@3.7.2
+│ ├─┬ UNMET DEPENDENCY browserslist@4.9.1
+│ │ ├── UNMET DEPENDENCY caniuse-lite@1.0.30001035
+│ │ ├── UNMET DEPENDENCY electron-to-chromium@1.3.376
+│ │ └─┬ UNMET DEPENDENCY node-releases@1.1.52
+│ │   └── UNMET DEPENDENCY semver@6.3.0
+│ ├─┬ UNMET DEPENDENCY cache-manager@2.11.1
+│ │ ├── UNMET DEPENDENCY async@1.5.2
+│ │ ├── UNMET DEPENDENCY lodash.clonedeep@4.5.0
+│ │ └─┬ UNMET DEPENDENCY lru-cache@4.0.0
+│ │   ├── UNMET DEPENDENCY pseudomap@1.0.2
+│ │   └── UNMET DEPENDENCY yallist@2.1.2
+│ ├─┬ UNMET DEPENDENCY cache-manager-fs-hash@0.0.7
+│ │ ├── UNMET DEPENDENCY es6-promisify@6.1.0
+│ │ └─┬ UNMET DEPENDENCY lockfile@1.0.4
+│ │   └── UNMET DEPENDENCY signal-exit@3.0.2
+│ ├─┬ UNMET DEPENDENCY chalk@2.4.2
+│ │ ├─┬ UNMET DEPENDENCY ansi-styles@3.2.1
+│ │ │ └─┬ UNMET DEPENDENCY color-convert@1.9.3
+│ │ │   └── UNMET DEPENDENCY color-name@1.1.3
+│ │ ├── UNMET DEPENDENCY escape-string-regexp@1.0.5
+│ │ └─┬ UNMET DEPENDENCY supports-color@5.5.0
+│ │   └── UNMET DEPENDENCY has-flag@3.0.0
+│ ├─┬ UNMET DEPENDENCY chokidar@3.3.1
+│ │ ├─┬ UNMET DEPENDENCY anymatch@3.1.1
+│ │ │ ├── UNMET DEPENDENCY normalize-path@3.0.0
+│ │ │ └── UNMET DEPENDENCY picomatch@2.2.1
+│ │ ├─┬ UNMET DEPENDENCY braces@3.0.2
+│ │ │ └─┬ UNMET DEPENDENCY fill-range@7.0.1
+│ │ │   └─┬ UNMET DEPENDENCY to-regex-range@5.0.1
+│ │ │     └── UNMET DEPENDENCY is-number@7.0.0
+│ │ ├── UNMET OPTIONAL DEPENDENCY fsevents@2.1.2
+│ │ ├─┬ UNMET DEPENDENCY glob-parent@5.1.0
+│ │ │ └── UNMET DEPENDENCY is-glob@4.0.1
+│ │ ├─┬ UNMET DEPENDENCY is-binary-path@2.1.0
+│ │ │ └── UNMET DEPENDENCY binary-extensions@2.0.0
+│ │ ├─┬ UNMET DEPENDENCY is-glob@4.0.1
+│ │ │ └── UNMET DEPENDENCY is-extglob@2.1.1
+│ │ ├── UNMET DEPENDENCY normalize-path@3.0.0
+│ │ └─┬ UNMET DEPENDENCY readdirp@3.3.0
+│ │   └── UNMET DEPENDENCY picomatch@2.2.1
+│ ├── UNMET DEPENDENCY common-tags@1.8.0
+│ ├─┬ UNMET DEPENDENCY compression@1.7.4
+│ │ ├─┬ UNMET DEPENDENCY accepts@1.3.7
+│ │ │ ├─┬ UNMET DEPENDENCY mime-types@2.1.26
+│ │ │ │ └── UNMET DEPENDENCY mime-db@1.43.0
+│ │ │ └── UNMET DEPENDENCY negotiator@0.6.2
+│ │ ├── UNMET DEPENDENCY bytes@3.0.0
+│ │ ├─┬ UNMET DEPENDENCY compressible@2.0.18
+│ │ │ └── UNMET DEPENDENCY mime-db@1.43.0
+│ │ ├─┬ UNMET DEPENDENCY debug@2.6.9
+│ │ │ └── UNMET DEPENDENCY ms@2.0.0
+│ │ ├── UNMET DEPENDENCY on-headers@1.0.2
+│ │ ├── UNMET DEPENDENCY safe-buffer@5.1.2
+│ │ └── UNMET DEPENDENCY vary@1.1.2
+│ ├── UNMET DEPENDENCY convert-hrtime@3.0.0
+│ ├─┬ UNMET DEPENDENCY copyfiles@2.2.0
+│ │ ├── UNMET DEPENDENCY glob@7.1.6
+│ │ ├─┬ UNMET DEPENDENCY minimatch@3.0.4
+│ │ │ └─┬ UNMET DEPENDENCY brace-expansion@1.1.11
+│ │ │   ├── UNMET DEPENDENCY balanced-match@1.0.0
+│ │ │   └── UNMET DEPENDENCY concat-map@0.0.1
+│ │ ├── UNMET DEPENDENCY mkdirp@0.5.1
+│ │ ├─┬ UNMET DEPENDENCY noms@0.0.0
+│ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ └─┬ UNMET DEPENDENCY readable-stream@1.0.34
+│ │ │   ├── UNMET DEPENDENCY core-util-is@1.0.2
+│ │ │   ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │   ├── UNMET DEPENDENCY isarray@0.0.1
+│ │ │   └── UNMET DEPENDENCY string_decoder@0.10.31
+│ │ ├─┬ UNMET DEPENDENCY through2@2.0.5
+│ │ │ ├─┬ UNMET DEPENDENCY readable-stream@2.3.7
+│ │ │ │ ├── UNMET DEPENDENCY core-util-is@1.0.2
+│ │ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ ├── UNMET DEPENDENCY isarray@1.0.0
+│ │ │ │ ├── UNMET DEPENDENCY process-nextick-args@2.0.1
+│ │ │ │ ├── UNMET DEPENDENCY safe-buffer@5.1.2
+│ │ │ │ ├── UNMET DEPENDENCY string_decoder@1.1.1
+│ │ │ │ └── UNMET DEPENDENCY util-deprecate@1.0.2
+│ │ │ └── UNMET DEPENDENCY xtend@4.0.2
+│ │ └─┬ UNMET DEPENDENCY yargs@13.3.2
+│ │   ├─┬ UNMET DEPENDENCY cliui@5.0.0
+│ │   │ ├─┬ UNMET DEPENDENCY string-width@3.1.0
+│ │   │ │ ├── UNMET DEPENDENCY emoji-regex@7.0.3
+│ │   │ │ ├── UNMET DEPENDENCY is-fullwidth-code-point@2.0.0
+│ │   │ │ └── UNMET DEPENDENCY strip-ansi@5.2.0
+│ │   │ ├─┬ UNMET DEPENDENCY strip-ansi@5.2.0
+│ │   │ │ └── UNMET DEPENDENCY ansi-regex@4.1.0
+│ │   │ └─┬ UNMET DEPENDENCY wrap-ansi@5.1.0
+│ │   │   ├── UNMET DEPENDENCY ansi-styles@3.2.1
+│ │   │   ├─┬ UNMET DEPENDENCY string-width@3.1.0
+│ │   │   │ ├── UNMET DEPENDENCY emoji-regex@7.0.3
+│ │   │   │ ├── UNMET DEPENDENCY is-fullwidth-code-point@2.0.0
+│ │   │   │ └── UNMET DEPENDENCY strip-ansi@5.2.0
+│ │   │   └─┬ UNMET DEPENDENCY strip-ansi@5.2.0
+│ │   │     └── UNMET DEPENDENCY ansi-regex@4.1.0
+│ │   ├── UNMET DEPENDENCY find-up@3.0.0
+│ │   ├── UNMET DEPENDENCY get-caller-file@2.0.5
+│ │   ├── UNMET DEPENDENCY require-directory@2.1.1
+│ │   ├── UNMET DEPENDENCY require-main-filename@2.0.0
+│ │   ├── UNMET DEPENDENCY set-blocking@2.0.0
+│ │   ├─┬ UNMET DEPENDENCY string-width@3.1.0
+│ │   │ ├── UNMET DEPENDENCY emoji-regex@7.0.3
+│ │   │ ├── UNMET DEPENDENCY is-fullwidth-code-point@2.0.0
+│ │   │ └─┬ UNMET DEPENDENCY strip-ansi@5.2.0
+│ │   │   └── UNMET DEPENDENCY ansi-regex@4.1.0
+│ │   ├── UNMET DEPENDENCY which-module@2.0.0
+│ │   ├── UNMET DEPENDENCY y18n@4.0.0
+│ │   └─┬ UNMET DEPENDENCY yargs-parser@13.1.2
+│ │     ├── UNMET DEPENDENCY camelcase@5.3.1
+│ │     └── UNMET DEPENDENCY decamelize@1.2.0
+│ ├── UNMET DEPENDENCY core-js@2.6.11
+│ ├─┬ UNMET DEPENDENCY cors@2.8.5
+│ │ ├── UNMET DEPENDENCY object-assign@4.1.1
+│ │ └── UNMET DEPENDENCY vary@1.1.2
+│ ├─┬ UNMET DEPENDENCY css-loader@1.0.1
+│ │ ├─┬ UNMET DEPENDENCY babel-code-frame@6.26.0
+│ │ │ ├─┬ UNMET DEPENDENCY chalk@1.1.3
+│ │ │ │ ├── UNMET DEPENDENCY ansi-styles@2.2.1
+│ │ │ │ ├── UNMET DEPENDENCY escape-string-regexp@1.0.5
+│ │ │ │ ├── UNMET DEPENDENCY has-ansi@2.0.0
+│ │ │ │ ├── UNMET DEPENDENCY strip-ansi@3.0.1
+│ │ │ │ └── UNMET DEPENDENCY supports-color@2.0.0
+│ │ │ ├── UNMET DEPENDENCY esutils@2.0.3
+│ │ │ └── UNMET DEPENDENCY js-tokens@3.0.2
+│ │ ├─┬ UNMET DEPENDENCY css-selector-tokenizer@0.7.2
+│ │ │ ├── UNMET DEPENDENCY cssesc@3.0.0
+│ │ │ ├── UNMET DEPENDENCY fastparse@1.1.2
+│ │ │ └─┬ UNMET DEPENDENCY regexpu-core@4.7.0
+│ │ │   ├── UNMET DEPENDENCY regenerate@1.4.0
+│ │ │   ├─┬ UNMET DEPENDENCY regenerate-unicode-properties@8.2.0
+│ │ │   │ └── UNMET DEPENDENCY regenerate@1.4.0
+│ │ │   ├── UNMET DEPENDENCY regjsgen@0.5.1
+│ │ │   ├─┬ UNMET DEPENDENCY regjsparser@0.6.4
+│ │ │   │ └── UNMET DEPENDENCY jsesc@0.5.0
+│ │ │   ├─┬ UNMET DEPENDENCY unicode-match-property-ecmascript@1.0.4
+│ │ │   │ ├── UNMET DEPENDENCY unicode-canonical-property-names-ecmascript@1.0.4
+│ │ │   │ └── UNMET DEPENDENCY unicode-property-aliases-ecmascript@1.1.0
+│ │ │   └── UNMET DEPENDENCY unicode-match-property-value-ecmascript@1.2.0
+│ │ ├─┬ UNMET DEPENDENCY icss-utils@2.1.0
+│ │ │ └─┬ UNMET DEPENDENCY postcss@6.0.23
+│ │ │   ├── UNMET DEPENDENCY chalk@2.4.2
+│ │ │   ├── UNMET DEPENDENCY source-map@0.6.1
+│ │ │   └── UNMET DEPENDENCY supports-color@5.5.0
+│ │ ├── UNMET DEPENDENCY loader-utils@1.2.3
+│ │ ├── UNMET DEPENDENCY lodash@4.17.15
+│ │ ├─┬ UNMET DEPENDENCY postcss@6.0.23
+│ │ │ ├── UNMET DEPENDENCY chalk@2.4.2
+│ │ │ ├── UNMET DEPENDENCY source-map@0.6.1
+│ │ │ └── UNMET DEPENDENCY supports-color@5.5.0
+│ │ ├─┬ UNMET DEPENDENCY postcss-modules-extract-imports@1.2.1
+│ │ │ └─┬ UNMET DEPENDENCY postcss@6.0.23
+│ │ │   ├── UNMET DEPENDENCY chalk@2.4.2
+│ │ │   ├── UNMET DEPENDENCY source-map@0.6.1
+│ │ │   └── UNMET DEPENDENCY supports-color@5.5.0
+│ │ ├─┬ UNMET DEPENDENCY postcss-modules-local-by-default@1.2.0
+│ │ │ ├── UNMET DEPENDENCY css-selector-tokenizer@0.7.2
+│ │ │ └─┬ UNMET DEPENDENCY postcss@6.0.23
+│ │ │   ├── UNMET DEPENDENCY chalk@2.4.2
+│ │ │   ├── UNMET DEPENDENCY source-map@0.6.1
+│ │ │   └── UNMET DEPENDENCY supports-color@5.5.0
+│ │ ├─┬ UNMET DEPENDENCY postcss-modules-scope@1.1.0
+│ │ │ ├── UNMET DEPENDENCY css-selector-tokenizer@0.7.2
+│ │ │ └─┬ UNMET DEPENDENCY postcss@6.0.23
+│ │ │   ├── UNMET DEPENDENCY chalk@2.4.2
+│ │ │   ├── UNMET DEPENDENCY source-map@0.6.1
+│ │ │   └── UNMET DEPENDENCY supports-color@5.5.0
+│ │ ├─┬ UNMET DEPENDENCY postcss-modules-values@1.3.0
+│ │ │ ├── UNMET DEPENDENCY icss-replace-symbols@1.1.0
+│ │ │ └─┬ UNMET DEPENDENCY postcss@6.0.23
+│ │ │   ├── UNMET DEPENDENCY chalk@2.4.2
+│ │ │   ├── UNMET DEPENDENCY source-map@0.6.1
+│ │ │   └── UNMET DEPENDENCY supports-color@5.5.0
+│ │ ├── UNMET DEPENDENCY postcss-value-parser@3.3.1
+│ │ └── UNMET DEPENDENCY source-list-map@2.0.1
+│ ├── UNMET DEPENDENCY date-fns@2.11.0
+│ ├─┬ UNMET DEPENDENCY debug@3.2.6
+│ │ └── UNMET DEPENDENCY ms@2.1.2
+│ ├─┬ UNMET DEPENDENCY del@5.1.0
+│ │ ├─┬ UNMET DEPENDENCY globby@10.0.2
+│ │ │ ├─┬ UNMET DEPENDENCY @types/glob@7.1.1
+│ │ │ │ ├── UNMET DEPENDENCY @types/events@3.0.0
+│ │ │ │ ├── UNMET DEPENDENCY @types/minimatch@3.0.3
+│ │ │ │ └── UNMET DEPENDENCY @types/node@13.9.1
+│ │ │ ├── UNMET DEPENDENCY array-union@2.1.0
+│ │ │ ├─┬ UNMET DEPENDENCY dir-glob@3.0.1
+│ │ │ │ └── UNMET DEPENDENCY path-type@4.0.0
+│ │ │ ├─┬ UNMET DEPENDENCY fast-glob@3.2.2
+│ │ │ │ ├── UNMET DEPENDENCY @nodelib/fs.stat@2.0.3
+│ │ │ │ ├─┬ UNMET DEPENDENCY @nodelib/fs.walk@1.2.4
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY @nodelib/fs.scandir@2.1.3
+│ │ │ │ │ │ ├── UNMET DEPENDENCY @nodelib/fs.stat@2.0.3
+│ │ │ │ │ │ └── UNMET DEPENDENCY run-parallel@1.1.9
+│ │ │ │ │ └─┬ UNMET DEPENDENCY fastq@1.6.1
+│ │ │ │ │   └── UNMET DEPENDENCY reusify@1.0.4
+│ │ │ │ ├─┬ UNMET DEPENDENCY glob-parent@5.1.0
+│ │ │ │ │ └── UNMET DEPENDENCY is-glob@4.0.1
+│ │ │ │ ├── UNMET DEPENDENCY merge2@1.3.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY micromatch@4.0.2
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY braces@3.0.2
+│ │ │ │ │ │ └─┬ UNMET DEPENDENCY fill-range@7.0.1
+│ │ │ │ │ │   └─┬ UNMET DEPENDENCY to-regex-range@5.0.1
+│ │ │ │ │ │     └── UNMET DEPENDENCY is-number@7.0.0
+│ │ │ │ │ └── UNMET DEPENDENCY picomatch@2.2.1
+│ │ │ │ └── UNMET DEPENDENCY picomatch@2.2.1
+│ │ │ ├── UNMET DEPENDENCY glob@7.1.6
+│ │ │ ├── UNMET DEPENDENCY ignore@5.1.4
+│ │ │ ├── UNMET DEPENDENCY merge2@1.3.0
+│ │ │ └── UNMET DEPENDENCY slash@3.0.0
+│ │ ├── UNMET DEPENDENCY graceful-fs@4.2.3
+│ │ ├── UNMET DEPENDENCY is-glob@4.0.1
+│ │ ├── UNMET DEPENDENCY is-path-cwd@2.2.0
+│ │ ├── UNMET DEPENDENCY is-path-inside@3.0.2
+│ │ ├─┬ UNMET DEPENDENCY p-map@3.0.0
+│ │ │ └─┬ UNMET DEPENDENCY aggregate-error@3.0.1
+│ │ │   ├── UNMET DEPENDENCY clean-stack@2.2.0
+│ │ │   └── UNMET DEPENDENCY indent-string@4.0.0
+│ │ ├─┬ UNMET DEPENDENCY rimraf@3.0.2
+│ │ │ └── UNMET DEPENDENCY glob@7.1.6
+│ │ └── UNMET DEPENDENCY slash@3.0.0
+│ ├─┬ UNMET DEPENDENCY detect-port@1.3.0
+│ │ ├── UNMET DEPENDENCY address@1.1.2
+│ │ └─┬ UNMET DEPENDENCY debug@2.6.9
+│ │   └── UNMET DEPENDENCY ms@2.0.0
+│ ├─┬ UNMET DEPENDENCY devcert@1.1.0
+│ │ ├── UNMET DEPENDENCY @types/configstore@2.1.1
+│ │ ├── UNMET DEPENDENCY @types/debug@0.0.30
+│ │ ├── UNMET DEPENDENCY @types/get-port@3.2.0
+│ │ ├─┬ UNMET DEPENDENCY @types/glob@5.0.36
+│ │ │ ├── UNMET DEPENDENCY @types/events@3.0.0
+│ │ │ ├── UNMET DEPENDENCY @types/minimatch@3.0.3
+│ │ │ └── UNMET DEPENDENCY @types/node@8.10.59
+│ │ ├── UNMET DEPENDENCY @types/lodash@4.14.149
+│ │ ├─┬ UNMET DEPENDENCY @types/mkdirp@0.5.2
+│ │ │ └── UNMET DEPENDENCY @types/node@13.9.1
+│ │ ├── UNMET DEPENDENCY @types/node@8.10.59
+│ │ ├─┬ UNMET DEPENDENCY @types/rimraf@2.0.3
+│ │ │ ├── UNMET DEPENDENCY @types/glob@7.1.1
+│ │ │ └── UNMET DEPENDENCY @types/node@13.9.1
+│ │ ├── UNMET DEPENDENCY @types/tmp@0.0.33
+│ │ ├── UNMET DEPENDENCY application-config-path@0.1.0
+│ │ ├── UNMET DEPENDENCY command-exists@1.2.8
+│ │ ├─┬ UNMET DEPENDENCY configstore@3.1.2
+│ │ │ ├─┬ UNMET DEPENDENCY dot-prop@4.2.0
+│ │ │ │ └── UNMET DEPENDENCY is-obj@1.0.1
+│ │ │ ├── UNMET DEPENDENCY graceful-fs@4.2.3
+│ │ │ ├─┬ UNMET DEPENDENCY make-dir@1.3.0
+│ │ │ │ └── UNMET DEPENDENCY pify@3.0.0
+│ │ │ ├─┬ UNMET DEPENDENCY unique-string@1.0.0
+│ │ │ │ └── UNMET DEPENDENCY crypto-random-string@1.0.0
+│ │ │ ├─┬ UNMET DEPENDENCY write-file-atomic@2.4.3
+│ │ │ │ ├── UNMET DEPENDENCY graceful-fs@4.2.3
+│ │ │ │ ├── UNMET DEPENDENCY imurmurhash@0.1.4
+│ │ │ │ └── UNMET DEPENDENCY signal-exit@3.0.2
+│ │ │ └── UNMET DEPENDENCY xdg-basedir@3.0.0
+│ │ ├── UNMET DEPENDENCY debug@3.2.6
+│ │ ├── UNMET DEPENDENCY eol@0.9.1
+│ │ ├── UNMET DEPENDENCY get-port@3.2.0
+│ │ ├── UNMET DEPENDENCY glob@7.1.6
+│ │ ├── UNMET DEPENDENCY lodash@4.17.15
+│ │ ├── UNMET DEPENDENCY mkdirp@0.5.1
+│ │ ├─┬ UNMET DEPENDENCY password-prompt@1.1.2
+│ │ │ ├── UNMET DEPENDENCY ansi-escapes@3.2.0
+│ │ │ └── UNMET DEPENDENCY cross-spawn@6.0.5
+│ │ ├─┬ UNMET DEPENDENCY rimraf@2.7.1
+│ │ │ └── UNMET DEPENDENCY glob@7.1.6
+│ │ ├── UNMET DEPENDENCY sudo-prompt@8.2.5
+│ │ ├─┬ UNMET DEPENDENCY tmp@0.0.33
+│ │ │ └── UNMET DEPENDENCY os-tmpdir@1.0.2
+│ │ └── UNMET DEPENDENCY tslib@1.11.1
+│ ├── UNMET DEPENDENCY dotenv@8.2.0
+│ ├─┬ UNMET DEPENDENCY eslint@6.8.0
+│ │ ├── UNMET DEPENDENCY @babel/code-frame@7.8.3
+│ │ ├─┬ UNMET DEPENDENCY ajv@6.12.0
+│ │ │ ├── UNMET DEPENDENCY fast-deep-equal@3.1.1
+│ │ │ ├── UNMET DEPENDENCY fast-json-stable-stringify@2.1.0
+│ │ │ ├── UNMET DEPENDENCY json-schema-traverse@0.4.1
+│ │ │ └─┬ UNMET DEPENDENCY uri-js@4.2.2
+│ │ │   └── UNMET DEPENDENCY punycode@2.1.1
+│ │ ├── UNMET DEPENDENCY chalk@2.4.2
+│ │ ├─┬ UNMET DEPENDENCY cross-spawn@6.0.5
+│ │ │ ├── UNMET DEPENDENCY nice-try@1.0.5
+│ │ │ ├── UNMET DEPENDENCY path-key@2.0.1
+│ │ │ ├── UNMET DEPENDENCY semver@5.7.1
+│ │ │ ├─┬ UNMET DEPENDENCY shebang-command@1.2.0
+│ │ │ │ └── UNMET DEPENDENCY shebang-regex@1.0.0
+│ │ │ └─┬ UNMET DEPENDENCY which@1.3.1
+│ │ │   └── UNMET DEPENDENCY isexe@2.0.0
+│ │ ├─┬ UNMET DEPENDENCY debug@4.1.1
+│ │ │ └── UNMET DEPENDENCY ms@2.1.2
+│ │ ├─┬ UNMET DEPENDENCY doctrine@3.0.0
+│ │ │ └── UNMET DEPENDENCY esutils@2.0.3
+│ │ ├─┬ UNMET DEPENDENCY eslint-scope@5.0.0
+│ │ │ ├─┬ UNMET DEPENDENCY esrecurse@4.2.1
+│ │ │ │ └── UNMET DEPENDENCY estraverse@4.3.0
+│ │ │ └── UNMET DEPENDENCY estraverse@4.3.0
+│ │ ├── UNMET DEPENDENCY eslint-utils@1.4.3
+│ │ ├── UNMET DEPENDENCY eslint-visitor-keys@1.1.0
+│ │ ├─┬ UNMET DEPENDENCY espree@6.2.1
+│ │ │ ├── UNMET DEPENDENCY acorn@7.1.1
+│ │ │ ├── UNMET DEPENDENCY acorn-jsx@5.2.0
+│ │ │ └── UNMET DEPENDENCY eslint-visitor-keys@1.1.0
+│ │ ├─┬ UNMET DEPENDENCY esquery@1.1.0
+│ │ │ └── UNMET DEPENDENCY estraverse@4.3.0
+│ │ ├── UNMET DEPENDENCY esutils@2.0.3
+│ │ ├─┬ UNMET DEPENDENCY file-entry-cache@5.0.1
+│ │ │ └─┬ UNMET DEPENDENCY flat-cache@2.0.1
+│ │ │   ├── UNMET DEPENDENCY flatted@2.0.1
+│ │ │   ├─┬ UNMET DEPENDENCY rimraf@2.6.3
+│ │ │   │ └── UNMET DEPENDENCY glob@7.1.6
+│ │ │   └─┬ UNMET DEPENDENCY write@1.0.3
+│ │ │     └── UNMET DEPENDENCY mkdirp@0.5.1
+│ │ ├── UNMET DEPENDENCY functional-red-black-tree@1.0.1
+│ │ ├─┬ UNMET DEPENDENCY glob-parent@5.1.0
+│ │ │ └── UNMET DEPENDENCY is-glob@4.0.1
+│ │ ├─┬ UNMET DEPENDENCY globals@12.4.0
+│ │ │ └── UNMET DEPENDENCY type-fest@0.8.1
+│ │ ├── UNMET DEPENDENCY ignore@4.0.6
+│ │ ├─┬ UNMET DEPENDENCY import-fresh@3.2.1
+│ │ │ ├─┬ UNMET DEPENDENCY parent-module@1.0.1
+│ │ │ │ └── UNMET DEPENDENCY callsites@3.1.0
+│ │ │ └── UNMET DEPENDENCY resolve-from@4.0.0
+│ │ ├── UNMET DEPENDENCY imurmurhash@0.1.4
+│ │ ├─┬ UNMET DEPENDENCY inquirer@7.1.0
+│ │ │ ├─┬ UNMET DEPENDENCY ansi-escapes@4.3.1
+│ │ │ │ └── UNMET DEPENDENCY type-fest@0.11.0
+│ │ │ ├─┬ UNMET DEPENDENCY chalk@3.0.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY ansi-styles@4.2.1
+│ │ │ │ │ ├── UNMET DEPENDENCY @types/color-name@1.1.1
+│ │ │ │ │ └─┬ UNMET DEPENDENCY color-convert@2.0.1
+│ │ │ │ │   └── UNMET DEPENDENCY color-name@1.1.4
+│ │ │ │ └─┬ UNMET DEPENDENCY supports-color@7.1.0
+│ │ │ │   └── UNMET DEPENDENCY has-flag@4.0.0
+│ │ │ ├─┬ UNMET DEPENDENCY cli-cursor@3.1.0
+│ │ │ │ └─┬ UNMET DEPENDENCY restore-cursor@3.1.0
+│ │ │ │   ├─┬ UNMET DEPENDENCY onetime@5.1.0
+│ │ │ │   │ └── UNMET DEPENDENCY mimic-fn@2.1.0
+│ │ │ │   └── UNMET DEPENDENCY signal-exit@3.0.2
+│ │ │ ├── UNMET DEPENDENCY cli-width@2.2.0
+│ │ │ ├─┬ UNMET DEPENDENCY external-editor@3.1.0
+│ │ │ │ ├── UNMET DEPENDENCY chardet@0.7.0
+│ │ │ │ ├── UNMET DEPENDENCY iconv-lite@0.4.24
+│ │ │ │ └── UNMET DEPENDENCY tmp@0.0.33
+│ │ │ ├─┬ UNMET DEPENDENCY figures@3.2.0
+│ │ │ │ └── UNMET DEPENDENCY escape-string-regexp@1.0.5
+│ │ │ ├── UNMET DEPENDENCY lodash@4.17.15
+│ │ │ ├── UNMET DEPENDENCY mute-stream@0.0.8
+│ │ │ ├─┬ UNMET DEPENDENCY run-async@2.4.0
+│ │ │ │ └── UNMET DEPENDENCY is-promise@2.1.0
+│ │ │ ├─┬ UNMET DEPENDENCY rxjs@6.5.4
+│ │ │ │ └── UNMET DEPENDENCY tslib@1.11.1
+│ │ │ ├─┬ UNMET DEPENDENCY string-width@4.2.0
+│ │ │ │ ├── UNMET DEPENDENCY emoji-regex@8.0.0
+│ │ │ │ ├── UNMET DEPENDENCY is-fullwidth-code-point@3.0.0
+│ │ │ │ └─┬ UNMET DEPENDENCY strip-ansi@6.0.0
+│ │ │ │   └── UNMET DEPENDENCY ansi-regex@5.0.0
+│ │ │ ├─┬ UNMET DEPENDENCY strip-ansi@6.0.0
+│ │ │ │ └── UNMET DEPENDENCY ansi-regex@5.0.0
+│ │ │ └── UNMET DEPENDENCY through@2.3.8
+│ │ ├── UNMET DEPENDENCY is-glob@4.0.1
+│ │ ├─┬ UNMET DEPENDENCY js-yaml@3.13.1
+│ │ │ ├─┬ UNMET DEPENDENCY argparse@1.0.10
+│ │ │ │ └── UNMET DEPENDENCY sprintf-js@1.0.3
+│ │ │ └── UNMET DEPENDENCY esprima@4.0.1
+│ │ ├── UNMET DEPENDENCY json-stable-stringify-without-jsonify@1.0.1
+│ │ ├─┬ UNMET DEPENDENCY levn@0.3.0
+│ │ │ ├── UNMET DEPENDENCY prelude-ls@1.1.2
+│ │ │ └─┬ UNMET DEPENDENCY type-check@0.3.2
+│ │ │   └── UNMET DEPENDENCY prelude-ls@1.1.2
+│ │ ├── UNMET DEPENDENCY lodash@4.17.15
+│ │ ├── UNMET DEPENDENCY minimatch@3.0.4
+│ │ ├── UNMET DEPENDENCY mkdirp@0.5.1
+│ │ ├── UNMET DEPENDENCY natural-compare@1.4.0
+│ │ ├─┬ UNMET DEPENDENCY optionator@0.8.3
+│ │ │ ├── UNMET DEPENDENCY deep-is@0.1.3
+│ │ │ ├── UNMET DEPENDENCY fast-levenshtein@2.0.6
+│ │ │ ├── UNMET DEPENDENCY levn@0.3.0
+│ │ │ ├── UNMET DEPENDENCY prelude-ls@1.1.2
+│ │ │ ├── UNMET DEPENDENCY type-check@0.3.2
+│ │ │ └── UNMET DEPENDENCY word-wrap@1.2.3
+│ │ ├── UNMET DEPENDENCY progress@2.0.3
+│ │ ├── UNMET DEPENDENCY regexpp@2.0.1
+│ │ ├── UNMET DEPENDENCY semver@6.3.0
+│ │ ├─┬ UNMET DEPENDENCY strip-ansi@5.2.0
+│ │ │ └── UNMET DEPENDENCY ansi-regex@4.1.0
+│ │ ├── UNMET DEPENDENCY strip-json-comments@3.0.1
+│ │ ├─┬ UNMET DEPENDENCY table@5.4.6
+│ │ │ ├── UNMET DEPENDENCY ajv@6.12.0
+│ │ │ ├── UNMET DEPENDENCY lodash@4.17.15
+│ │ │ ├─┬ UNMET DEPENDENCY slice-ansi@2.1.0
+│ │ │ │ ├── UNMET DEPENDENCY ansi-styles@3.2.1
+│ │ │ │ ├── UNMET DEPENDENCY astral-regex@1.0.0
+│ │ │ │ └── UNMET DEPENDENCY is-fullwidth-code-point@2.0.0
+│ │ │ └─┬ UNMET DEPENDENCY string-width@3.1.0
+│ │ │   ├── UNMET DEPENDENCY emoji-regex@7.0.3
+│ │ │   ├── UNMET DEPENDENCY is-fullwidth-code-point@2.0.0
+│ │ │   └─┬ UNMET DEPENDENCY strip-ansi@5.2.0
+│ │ │     └── UNMET DEPENDENCY ansi-regex@4.1.0
+│ │ ├── UNMET DEPENDENCY text-table@0.2.0
+│ │ └── UNMET DEPENDENCY v8-compile-cache@2.1.0
+│ ├─┬ UNMET DEPENDENCY eslint-config-react-app@5.2.0
+│ │ └── UNMET DEPENDENCY confusing-browser-globals@1.0.9
+│ ├─┬ UNMET DEPENDENCY eslint-loader@2.2.1
+│ │ ├─┬ UNMET DEPENDENCY loader-fs-cache@1.0.2
+│ │ │ ├─┬ UNMET DEPENDENCY find-cache-dir@0.1.1
+│ │ │ │ ├── UNMET DEPENDENCY commondir@1.0.1
+│ │ │ │ ├── UNMET DEPENDENCY mkdirp@0.5.1
+│ │ │ │ └─┬ UNMET DEPENDENCY pkg-dir@1.0.0
+│ │ │ │   └─┬ UNMET DEPENDENCY find-up@1.1.2
+│ │ │ │     ├─┬ UNMET DEPENDENCY path-exists@2.1.0
+│ │ │ │     │ └── UNMET DEPENDENCY pinkie-promise@2.0.1
+│ │ │ │     └── UNMET DEPENDENCY pinkie-promise@2.0.1
+│ │ │ └── UNMET DEPENDENCY mkdirp@0.5.1
+│ │ ├── UNMET DEPENDENCY loader-utils@1.2.3
+│ │ ├── UNMET DEPENDENCY object-assign@4.1.1
+│ │ ├── UNMET DEPENDENCY object-hash@1.3.1
+│ │ └─┬ UNMET DEPENDENCY rimraf@2.7.1
+│ │   └── UNMET DEPENDENCY glob@7.1.6
+│ ├─┬ UNMET DEPENDENCY eslint-plugin-flowtype@3.13.0
+│ │ └── UNMET DEPENDENCY lodash@4.17.15
+│ ├─┬ UNMET DEPENDENCY eslint-plugin-graphql@3.1.1
+│ │ ├─┬ UNMET DEPENDENCY graphql-config@2.2.1
+│ │ │ ├─┬ UNMET DEPENDENCY graphql-import@0.7.1
+│ │ │ │ ├── UNMET DEPENDENCY lodash@4.17.15
+│ │ │ │ └── UNMET DEPENDENCY resolve-from@4.0.0
+│ │ │ ├─┬ UNMET DEPENDENCY graphql-request@1.8.2
+│ │ │ │ └─┬ UNMET DEPENDENCY cross-fetch@2.2.2
+│ │ │ │   ├── UNMET DEPENDENCY node-fetch@2.1.2
+│ │ │ │   └── UNMET DEPENDENCY whatwg-fetch@2.0.4
+│ │ │ ├── UNMET DEPENDENCY js-yaml@3.13.1
+│ │ │ ├── UNMET DEPENDENCY lodash@4.17.15
+│ │ │ └── UNMET DEPENDENCY minimatch@3.0.4
+│ │ └── UNMET DEPENDENCY lodash@4.17.15
+│ ├─┬ UNMET DEPENDENCY eslint-plugin-import@2.20.1
+│ │ ├─┬ UNMET DEPENDENCY array-includes@3.1.1
+│ │ │ ├── UNMET DEPENDENCY define-properties@1.1.3
+│ │ │ ├── UNMET DEPENDENCY es-abstract@1.17.4
+│ │ │ └── UNMET DEPENDENCY is-string@1.0.5
+│ │ ├─┬ UNMET DEPENDENCY array.prototype.flat@1.2.3
+│ │ │ ├── UNMET DEPENDENCY define-properties@1.1.3
+│ │ │ └── UNMET DEPENDENCY es-abstract@1.17.4
+│ │ ├── UNMET DEPENDENCY contains-path@0.1.0
+│ │ ├─┬ UNMET DEPENDENCY debug@2.6.9
+│ │ │ └── UNMET DEPENDENCY ms@2.0.0
+│ │ ├─┬ UNMET DEPENDENCY doctrine@1.5.0
+│ │ │ ├── UNMET DEPENDENCY esutils@2.0.3
+│ │ │ └── UNMET DEPENDENCY isarray@1.0.0
+│ │ ├─┬ UNMET DEPENDENCY eslint-import-resolver-node@0.3.3
+│ │ │ ├─┬ UNMET DEPENDENCY debug@2.6.9
+│ │ │ │ └── UNMET DEPENDENCY ms@2.0.0
+│ │ │ └── UNMET DEPENDENCY resolve@1.15.1
+│ │ ├─┬ UNMET DEPENDENCY eslint-module-utils@2.5.2
+│ │ │ ├─┬ UNMET DEPENDENCY debug@2.6.9
+│ │ │ │ └── UNMET DEPENDENCY ms@2.0.0
+│ │ │ └─┬ UNMET DEPENDENCY pkg-dir@2.0.0
+│ │ │   └─┬ UNMET DEPENDENCY find-up@2.1.0
+│ │ │     └─┬ UNMET DEPENDENCY locate-path@2.0.0
+│ │ │       ├─┬ UNMET DEPENDENCY p-locate@2.0.0
+│ │ │       │ └─┬ UNMET DEPENDENCY p-limit@1.3.0
+│ │ │       │   └── UNMET DEPENDENCY p-try@1.0.0
+│ │ │       └── UNMET DEPENDENCY path-exists@3.0.0
+│ │ ├─┬ UNMET DEPENDENCY has@1.0.3
+│ │ │ └── UNMET DEPENDENCY function-bind@1.1.1
+│ │ ├── UNMET DEPENDENCY minimatch@3.0.4
+│ │ ├─┬ UNMET DEPENDENCY object.values@1.1.1
+│ │ │ ├── UNMET DEPENDENCY define-properties@1.1.3
+│ │ │ ├── UNMET DEPENDENCY es-abstract@1.17.4
+│ │ │ ├── UNMET DEPENDENCY function-bind@1.1.1
+│ │ │ └── UNMET DEPENDENCY has@1.0.3
+│ │ ├─┬ UNMET DEPENDENCY read-pkg-up@2.0.0
+│ │ │ ├─┬ UNMET DEPENDENCY find-up@2.1.0
+│ │ │ │ └─┬ UNMET DEPENDENCY locate-path@2.0.0
+│ │ │ │   ├─┬ UNMET DEPENDENCY p-locate@2.0.0
+│ │ │ │   │ └─┬ UNMET DEPENDENCY p-limit@1.3.0
+│ │ │ │   │   └── UNMET DEPENDENCY p-try@1.0.0
+│ │ │ │   └── UNMET DEPENDENCY path-exists@3.0.0
+│ │ │ └─┬ UNMET DEPENDENCY read-pkg@2.0.0
+│ │ │   ├─┬ UNMET DEPENDENCY load-json-file@2.0.0
+│ │ │   │ ├── UNMET DEPENDENCY graceful-fs@4.2.3
+│ │ │   │ ├─┬ UNMET DEPENDENCY parse-json@2.2.0
+│ │ │   │ │ └── UNMET DEPENDENCY error-ex@1.3.2
+│ │ │   │ ├── UNMET DEPENDENCY pify@2.3.0
+│ │ │   │ └── UNMET DEPENDENCY strip-bom@3.0.0
+│ │ │   ├─┬ UNMET DEPENDENCY normalize-package-data@2.5.0
+│ │ │   │ ├── UNMET DEPENDENCY hosted-git-info@2.8.8
+│ │ │   │ ├── UNMET DEPENDENCY resolve@1.15.1
+│ │ │   │ ├── UNMET DEPENDENCY semver@5.7.1
+│ │ │   │ └─┬ UNMET DEPENDENCY validate-npm-package-license@3.0.4
+│ │ │   │   ├─┬ UNMET DEPENDENCY spdx-correct@3.1.0
+│ │ │   │   │ ├── UNMET DEPENDENCY spdx-expression-parse@3.0.0
+│ │ │   │   │ └── UNMET DEPENDENCY spdx-license-ids@3.0.5
+│ │ │   │   └─┬ UNMET DEPENDENCY spdx-expression-parse@3.0.0
+│ │ │   │     ├── UNMET DEPENDENCY spdx-exceptions@2.2.0
+│ │ │   │     └── UNMET DEPENDENCY spdx-license-ids@3.0.5
+│ │ │   └─┬ UNMET DEPENDENCY path-type@2.0.0
+│ │ │     └── UNMET DEPENDENCY pify@2.3.0
+│ │ └── UNMET DEPENDENCY resolve@1.15.1
+│ ├─┬ UNMET DEPENDENCY eslint-plugin-jsx-a11y@6.2.3
+│ │ ├── UNMET DEPENDENCY @babel/runtime@7.8.7
+│ │ ├─┬ UNMET DEPENDENCY aria-query@3.0.0
+│ │ │ ├── UNMET DEPENDENCY ast-types-flow@0.0.7
+│ │ │ └── UNMET DEPENDENCY commander@2.20.3
+│ │ ├── UNMET DEPENDENCY array-includes@3.1.1
+│ │ ├── UNMET DEPENDENCY ast-types-flow@0.0.7
+│ │ ├── UNMET DEPENDENCY axobject-query@2.1.2
+│ │ ├── UNMET DEPENDENCY damerau-levenshtein@1.0.6
+│ │ ├── UNMET DEPENDENCY emoji-regex@7.0.3
+│ │ ├── UNMET DEPENDENCY has@1.0.3
+│ │ └─┬ UNMET DEPENDENCY jsx-ast-utils@2.2.3
+│ │   ├── UNMET DEPENDENCY array-includes@3.1.1
+│ │   └── UNMET DEPENDENCY object.assign@4.1.0
+│ ├─┬ UNMET DEPENDENCY eslint-plugin-react@7.19.0
+│ │ ├── UNMET DEPENDENCY array-includes@3.1.1
+│ │ ├─┬ UNMET DEPENDENCY doctrine@2.1.0
+│ │ │ └── UNMET DEPENDENCY esutils@2.0.3
+│ │ ├── UNMET DEPENDENCY has@1.0.3
+│ │ ├── UNMET DEPENDENCY jsx-ast-utils@2.2.3
+│ │ ├─┬ UNMET DEPENDENCY object.entries@1.1.1
+│ │ │ ├── UNMET DEPENDENCY define-properties@1.1.3
+│ │ │ ├── UNMET DEPENDENCY es-abstract@1.17.4
+│ │ │ ├── UNMET DEPENDENCY function-bind@1.1.1
+│ │ │ └── UNMET DEPENDENCY has@1.0.3
+│ │ ├─┬ UNMET DEPENDENCY object.fromentries@2.0.2
+│ │ │ ├── UNMET DEPENDENCY define-properties@1.1.3
+│ │ │ ├── UNMET DEPENDENCY es-abstract@1.17.4
+│ │ │ ├── UNMET DEPENDENCY function-bind@1.1.1
+│ │ │ └── UNMET DEPENDENCY has@1.0.3
+│ │ ├── UNMET DEPENDENCY object.values@1.1.1
+│ │ ├── UNMET DEPENDENCY prop-types@15.7.2
+│ │ ├── UNMET DEPENDENCY resolve@1.15.1
+│ │ ├── UNMET DEPENDENCY semver@6.3.0
+│ │ ├─┬ UNMET DEPENDENCY string.prototype.matchall@4.0.2
+│ │ │ ├── UNMET DEPENDENCY define-properties@1.1.3
+│ │ │ ├── UNMET DEPENDENCY es-abstract@1.17.4
+│ │ │ ├── UNMET DEPENDENCY has-symbols@1.0.1
+│ │ │ ├─┬ UNMET DEPENDENCY internal-slot@1.0.2
+│ │ │ │ ├── UNMET DEPENDENCY es-abstract@1.17.4
+│ │ │ │ ├── UNMET DEPENDENCY has@1.0.3
+│ │ │ │ └── UNMET DEPENDENCY side-channel@1.0.2
+│ │ │ ├─┬ UNMET DEPENDENCY regexp.prototype.flags@1.3.0
+│ │ │ │ ├── UNMET DEPENDENCY define-properties@1.1.3
+│ │ │ │ └── UNMET DEPENDENCY es-abstract@1.17.4
+│ │ │ └─┬ UNMET DEPENDENCY side-channel@1.0.2
+│ │ │   ├── UNMET DEPENDENCY es-abstract@1.17.4
+│ │ │   └── UNMET DEPENDENCY object-inspect@1.7.0
+│ │ └─┬ UNMET DEPENDENCY xregexp@4.3.0
+│ │   └─┬ UNMET DEPENDENCY @babel/runtime-corejs3@7.8.7
+│ │     ├── UNMET DEPENDENCY core-js-pure@3.6.4
+│ │     └── UNMET DEPENDENCY regenerator-runtime@0.13.5
+│ ├── UNMET DEPENDENCY eslint-plugin-react-hooks@1.7.0
+│ ├── UNMET DEPENDENCY event-source-polyfill@1.0.12
+│ ├─┬ UNMET DEPENDENCY express@4.17.1
+│ │ ├── UNMET DEPENDENCY accepts@1.3.7
+│ │ ├── UNMET DEPENDENCY array-flatten@1.1.1
+│ │ ├─┬ UNMET DEPENDENCY body-parser@1.19.0
+│ │ │ ├── UNMET DEPENDENCY bytes@3.1.0
+│ │ │ ├── UNMET DEPENDENCY content-type@1.0.4
+│ │ │ ├─┬ UNMET DEPENDENCY debug@2.6.9
+│ │ │ │ └── UNMET DEPENDENCY ms@2.0.0
+│ │ │ ├── UNMET DEPENDENCY depd@1.1.2
+│ │ │ ├─┬ UNMET DEPENDENCY http-errors@1.7.2
+│ │ │ │ ├── UNMET DEPENDENCY depd@1.1.2
+│ │ │ │ ├── UNMET DEPENDENCY inherits@2.0.3
+│ │ │ │ ├── UNMET DEPENDENCY setprototypeof@1.1.1
+│ │ │ │ ├── UNMET DEPENDENCY statuses@1.5.0
+│ │ │ │ └── UNMET DEPENDENCY toidentifier@1.0.0
+│ │ │ ├─┬ UNMET DEPENDENCY iconv-lite@0.4.24
+│ │ │ │ └── UNMET DEPENDENCY safer-buffer@2.1.2
+│ │ │ ├── UNMET DEPENDENCY on-finished@2.3.0
+│ │ │ ├── UNMET DEPENDENCY qs@6.7.0
+│ │ │ ├─┬ UNMET DEPENDENCY raw-body@2.4.0
+│ │ │ │ ├── UNMET DEPENDENCY bytes@3.1.0
+│ │ │ │ ├── UNMET DEPENDENCY http-errors@1.7.2
+│ │ │ │ ├── UNMET DEPENDENCY iconv-lite@0.4.24
+│ │ │ │ └── UNMET DEPENDENCY unpipe@1.0.0
+│ │ │ └── UNMET DEPENDENCY type-is@1.6.18
+│ │ ├─┬ UNMET DEPENDENCY content-disposition@0.5.3
+│ │ │ └── UNMET DEPENDENCY safe-buffer@5.1.2
+│ │ ├── UNMET DEPENDENCY content-type@1.0.4
+│ │ ├── UNMET DEPENDENCY cookie@0.4.0
+│ │ ├── UNMET DEPENDENCY cookie-signature@1.0.6
+│ │ ├─┬ UNMET DEPENDENCY debug@2.6.9
+│ │ │ └── UNMET DEPENDENCY ms@2.0.0
+│ │ ├── UNMET DEPENDENCY depd@1.1.2
+│ │ ├── UNMET DEPENDENCY encodeurl@1.0.2
+│ │ ├── UNMET DEPENDENCY escape-html@1.0.3
+│ │ ├── UNMET DEPENDENCY etag@1.8.1
+│ │ ├─┬ UNMET DEPENDENCY finalhandler@1.1.2
+│ │ │ ├─┬ UNMET DEPENDENCY debug@2.6.9
+│ │ │ │ └── UNMET DEPENDENCY ms@2.0.0
+│ │ │ ├── UNMET DEPENDENCY encodeurl@1.0.2
+│ │ │ ├── UNMET DEPENDENCY escape-html@1.0.3
+│ │ │ ├── UNMET DEPENDENCY on-finished@2.3.0
+│ │ │ ├── UNMET DEPENDENCY parseurl@1.3.3
+│ │ │ ├── UNMET DEPENDENCY statuses@1.5.0
+│ │ │ └── UNMET DEPENDENCY unpipe@1.0.0
+│ │ ├── UNMET DEPENDENCY fresh@0.5.2
+│ │ ├── UNMET DEPENDENCY merge-descriptors@1.0.1
+│ │ ├── UNMET DEPENDENCY methods@1.1.2
+│ │ ├─┬ UNMET DEPENDENCY on-finished@2.3.0
+│ │ │ └── UNMET DEPENDENCY ee-first@1.1.1
+│ │ ├── UNMET DEPENDENCY parseurl@1.3.3
+│ │ ├── UNMET DEPENDENCY path-to-regexp@0.1.7
+│ │ ├─┬ UNMET DEPENDENCY proxy-addr@2.0.6
+│ │ │ ├── UNMET DEPENDENCY forwarded@0.1.2
+│ │ │ └── UNMET DEPENDENCY ipaddr.js@1.9.1
+│ │ ├── UNMET DEPENDENCY qs@6.7.0
+│ │ ├── UNMET DEPENDENCY range-parser@1.2.1
+│ │ ├── UNMET DEPENDENCY safe-buffer@5.1.2
+│ │ ├─┬ UNMET DEPENDENCY send@0.17.1
+│ │ │ ├─┬ UNMET DEPENDENCY debug@2.6.9
+│ │ │ │ └── UNMET DEPENDENCY ms@2.0.0
+│ │ │ ├── UNMET DEPENDENCY depd@1.1.2
+│ │ │ ├── UNMET DEPENDENCY destroy@1.0.4
+│ │ │ ├── UNMET DEPENDENCY encodeurl@1.0.2
+│ │ │ ├── UNMET DEPENDENCY escape-html@1.0.3
+│ │ │ ├── UNMET DEPENDENCY etag@1.8.1
+│ │ │ ├── UNMET DEPENDENCY fresh@0.5.2
+│ │ │ ├── UNMET DEPENDENCY http-errors@1.7.2
+│ │ │ ├── UNMET DEPENDENCY mime@1.6.0
+│ │ │ ├── UNMET DEPENDENCY ms@2.1.1
+│ │ │ ├── UNMET DEPENDENCY on-finished@2.3.0
+│ │ │ ├── UNMET DEPENDENCY range-parser@1.2.1
+│ │ │ └── UNMET DEPENDENCY statuses@1.5.0
+│ │ ├─┬ UNMET DEPENDENCY serve-static@1.14.1
+│ │ │ ├── UNMET DEPENDENCY encodeurl@1.0.2
+│ │ │ ├── UNMET DEPENDENCY escape-html@1.0.3
+│ │ │ ├── UNMET DEPENDENCY parseurl@1.3.3
+│ │ │ └── UNMET DEPENDENCY send@0.17.1
+│ │ ├── UNMET DEPENDENCY setprototypeof@1.1.1
+│ │ ├── UNMET DEPENDENCY statuses@1.5.0
+│ │ ├─┬ UNMET DEPENDENCY type-is@1.6.18
+│ │ │ ├── UNMET DEPENDENCY media-typer@0.3.0
+│ │ │ └── UNMET DEPENDENCY mime-types@2.1.26
+│ │ ├── UNMET DEPENDENCY utils-merge@1.0.1
+│ │ └── UNMET DEPENDENCY vary@1.1.2
+│ ├─┬ UNMET DEPENDENCY express-graphql@0.9.0
+│ │ ├── UNMET DEPENDENCY accepts@1.3.7
+│ │ ├── UNMET DEPENDENCY content-type@1.0.4
+│ │ ├─┬ UNMET DEPENDENCY http-errors@1.7.3
+│ │ │ ├── UNMET DEPENDENCY depd@1.1.2
+│ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ ├── UNMET DEPENDENCY setprototypeof@1.1.1
+│ │ │ ├── UNMET DEPENDENCY statuses@1.5.0
+│ │ │ └── UNMET DEPENDENCY toidentifier@1.0.0
+│ │ └─┬ UNMET DEPENDENCY raw-body@2.4.1
+│ │   ├── UNMET DEPENDENCY bytes@3.1.0
+│ │   ├── UNMET DEPENDENCY http-errors@1.7.3
+│ │   ├── UNMET DEPENDENCY iconv-lite@0.4.24
+│ │   └── UNMET DEPENDENCY unpipe@1.0.0
+│ ├── UNMET DEPENDENCY fast-levenshtein@2.0.6
+│ ├─┬ UNMET DEPENDENCY file-loader@1.1.11
+│ │ ├── UNMET DEPENDENCY loader-utils@1.2.3
+│ │ └─┬ UNMET DEPENDENCY schema-utils@0.4.7
+│ │   ├── UNMET DEPENDENCY ajv@6.12.0
+│ │   └── UNMET DEPENDENCY ajv-keywords@3.4.1
+│ ├─┬ UNMET DEPENDENCY flat@4.1.0
+│ │ └── UNMET DEPENDENCY is-buffer@2.0.4
+│ ├── UNMET DEPENDENCY fs-exists-cached@1.0.0
+│ ├─┬ UNMET DEPENDENCY fs-extra@8.1.0
+│ │ ├── UNMET DEPENDENCY graceful-fs@4.2.3
+│ │ ├─┬ UNMET DEPENDENCY jsonfile@4.0.0
+│ │ │ └── UNMET DEPENDENCY graceful-fs@4.2.3
+│ │ └── UNMET DEPENDENCY universalify@0.1.2
+│ ├─┬ UNMET DEPENDENCY gatsby-cli@2.10.11
+│ │ ├── UNMET DEPENDENCY @babel/code-frame@7.8.3
+│ │ ├── UNMET DEPENDENCY @babel/runtime@7.8.7
+│ │ ├── UNMET DEPENDENCY @hapi/joi@15.1.1
+│ │ ├── UNMET DEPENDENCY better-opn@1.0.0
+│ │ ├── UNMET DEPENDENCY bluebird@3.7.2
+│ │ ├── UNMET DEPENDENCY chalk@2.4.2
+│ │ ├─┬ UNMET DEPENDENCY clipboardy@2.2.0
+│ │ │ ├── UNMET DEPENDENCY arch@2.1.1
+│ │ │ ├─┬ UNMET DEPENDENCY execa@1.0.0
+│ │ │ │ ├── UNMET DEPENDENCY cross-spawn@6.0.5
+│ │ │ │ ├─┬ UNMET DEPENDENCY get-stream@4.1.0
+│ │ │ │ │ └── UNMET DEPENDENCY pump@3.0.0
+│ │ │ │ ├── UNMET DEPENDENCY is-stream@1.1.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY npm-run-path@2.0.2
+│ │ │ │ │ └── UNMET DEPENDENCY path-key@2.0.1
+│ │ │ │ ├── UNMET DEPENDENCY p-finally@1.0.0
+│ │ │ │ ├── UNMET DEPENDENCY signal-exit@3.0.2
+│ │ │ │ └── UNMET DEPENDENCY strip-eof@1.0.0
+│ │ │ └── UNMET DEPENDENCY is-wsl@2.1.1
+│ │ ├── UNMET DEPENDENCY common-tags@1.8.0
+│ │ ├── UNMET DEPENDENCY configstore@5.0.1
+│ │ ├── UNMET DEPENDENCY convert-hrtime@3.0.0
+│ │ ├── UNMET DEPENDENCY core-js@2.6.11
+│ │ ├── UNMET DEPENDENCY envinfo@7.5.0
+│ │ ├─┬ UNMET DEPENDENCY execa@3.4.0
+│ │ │ ├─┬ UNMET DEPENDENCY cross-spawn@7.0.1
+│ │ │ │ ├── UNMET DEPENDENCY path-key@3.1.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY shebang-command@2.0.0
+│ │ │ │ │ └── UNMET DEPENDENCY shebang-regex@3.0.0
+│ │ │ │ └─┬ UNMET DEPENDENCY which@2.0.2
+│ │ │ │   └── UNMET DEPENDENCY isexe@2.0.0
+│ │ │ ├─┬ UNMET DEPENDENCY get-stream@5.1.0
+│ │ │ │ └─┬ UNMET DEPENDENCY pump@3.0.0
+│ │ │ │   ├── UNMET DEPENDENCY end-of-stream@1.4.4
+│ │ │ │   └── UNMET DEPENDENCY once@1.4.0
+│ │ │ ├── UNMET DEPENDENCY human-signals@1.1.1
+│ │ │ ├── UNMET DEPENDENCY is-stream@2.0.0
+│ │ │ ├── UNMET DEPENDENCY merge-stream@2.0.0
+│ │ │ ├─┬ UNMET DEPENDENCY npm-run-path@4.0.1
+│ │ │ │ └── UNMET DEPENDENCY path-key@3.1.1
+│ │ │ ├─┬ UNMET DEPENDENCY onetime@5.1.0
+│ │ │ │ └── UNMET DEPENDENCY mimic-fn@2.1.0
+│ │ │ ├── UNMET DEPENDENCY p-finally@2.0.1
+│ │ │ ├── UNMET DEPENDENCY signal-exit@3.0.2
+│ │ │ └── UNMET DEPENDENCY strip-final-newline@2.0.0
+│ │ ├── UNMET DEPENDENCY fs-exists-cached@1.0.0
+│ │ ├── UNMET DEPENDENCY fs-extra@8.1.0
+│ │ ├── UNMET DEPENDENCY gatsby-core-utils@1.0.34
+│ │ ├── UNMET DEPENDENCY gatsby-telemetry@1.1.56
+│ │ ├─┬ UNMET DEPENDENCY hosted-git-info@3.0.4
+│ │ │ └─┬ UNMET DEPENDENCY lru-cache@5.1.1
+│ │ │   └── UNMET DEPENDENCY yallist@3.1.1
+│ │ ├─┬ UNMET OPTIONAL DEPENDENCY ink@2.7.1
+│ │ │ ├─┬ UNMET OPTIONAL DEPENDENCY ansi-escapes@4.3.1
+│ │ │ │ └── UNMET OPTIONAL DEPENDENCY type-fest@0.11.0
+│ │ │ ├── UNMET OPTIONAL DEPENDENCY arrify@2.0.1
+│ │ │ ├── UNMET OPTIONAL DEPENDENCY auto-bind@4.0.0
+│ │ │ ├─┬ UNMET OPTIONAL DEPENDENCY chalk@3.0.0
+│ │ │ │ ├─┬ UNMET OPTIONAL DEPENDENCY ansi-styles@4.2.1
+│ │ │ │ │ ├── UNMET DEPENDENCY @types/color-name@1.1.1
+│ │ │ │ │ └─┬ UNMET OPTIONAL DEPENDENCY color-convert@2.0.1
+│ │ │ │ │   └── UNMET OPTIONAL DEPENDENCY color-name@1.1.4
+│ │ │ │ └─┬ UNMET OPTIONAL DEPENDENCY supports-color@7.1.0
+│ │ │ │   └── UNMET OPTIONAL DEPENDENCY has-flag@4.0.0
+│ │ │ ├─┬ UNMET OPTIONAL DEPENDENCY cli-cursor@3.1.0
+│ │ │ │ └─┬ UNMET OPTIONAL DEPENDENCY restore-cursor@3.1.0
+│ │ │ │   ├─┬ UNMET OPTIONAL DEPENDENCY onetime@5.1.0
+│ │ │ │   │ └── UNMET OPTIONAL DEPENDENCY mimic-fn@2.1.0
+│ │ │ │   └── UNMET DEPENDENCY signal-exit@3.0.2
+│ │ │ ├─┬ UNMET OPTIONAL DEPENDENCY cli-truncate@2.1.0
+│ │ │ │ ├─┬ UNMET OPTIONAL DEPENDENCY slice-ansi@3.0.0
+│ │ │ │ │ ├─┬ UNMET OPTIONAL DEPENDENCY ansi-styles@4.2.1
+│ │ │ │ │ │ ├── UNMET DEPENDENCY @types/color-name@1.1.1
+│ │ │ │ │ │ └─┬ UNMET OPTIONAL DEPENDENCY color-convert@2.0.1
+│ │ │ │ │ │   └── UNMET OPTIONAL DEPENDENCY color-name@1.1.4
+│ │ │ │ │ ├── UNMET OPTIONAL DEPENDENCY astral-regex@2.0.0
+│ │ │ │ │ └── UNMET OPTIONAL DEPENDENCY is-fullwidth-code-point@3.0.0
+│ │ │ │ └─┬ UNMET OPTIONAL DEPENDENCY string-width@4.2.0
+│ │ │ │   ├── UNMET OPTIONAL DEPENDENCY emoji-regex@8.0.0
+│ │ │ │   ├── UNMET OPTIONAL DEPENDENCY is-fullwidth-code-point@3.0.0
+│ │ │ │   └─┬ UNMET OPTIONAL DEPENDENCY strip-ansi@6.0.0
+│ │ │ │     └── UNMET OPTIONAL DEPENDENCY ansi-regex@5.0.0
+│ │ │ ├─┬ UNMET DEPENDENCY is-ci@2.0.0
+│ │ │ │ └── UNMET DEPENDENCY ci-info@2.0.0
+│ │ │ ├── UNMET OPTIONAL DEPENDENCY lodash.throttle@4.1.1
+│ │ │ ├─┬ UNMET OPTIONAL DEPENDENCY log-update@3.4.0
+│ │ │ │ ├── UNMET DEPENDENCY ansi-escapes@3.2.0
+│ │ │ │ ├── UNMET DEPENDENCY cli-cursor@2.1.0
+│ │ │ │ └── UNMET DEPENDENCY wrap-ansi@5.1.0
+│ │ │ ├── UNMET DEPENDENCY prop-types@15.7.2
+│ │ │ ├─┬ UNMET OPTIONAL DEPENDENCY react-reconciler@0.24.0
+│ │ │ │ ├── UNMET DEPENDENCY loose-envify@1.4.0
+│ │ │ │ ├── UNMET DEPENDENCY object-assign@4.1.1
+│ │ │ │ ├── UNMET DEPENDENCY prop-types@15.7.2
+│ │ │ │ └── UNMET OPTIONAL DEPENDENCY scheduler@0.18.0
+│ │ │ ├─┬ UNMET OPTIONAL DEPENDENCY scheduler@0.18.0
+│ │ │ │ ├── UNMET DEPENDENCY loose-envify@1.4.0
+│ │ │ │ └── UNMET DEPENDENCY object-assign@4.1.1
+│ │ │ ├── UNMET DEPENDENCY signal-exit@3.0.2
+│ │ │ ├─┬ UNMET OPTIONAL DEPENDENCY slice-ansi@3.0.0
+│ │ │ │ ├── UNMET OPTIONAL DEPENDENCY ansi-styles@4.2.1
+│ │ │ │ ├── UNMET OPTIONAL DEPENDENCY astral-regex@2.0.0
+│ │ │ │ └── UNMET OPTIONAL DEPENDENCY is-fullwidth-code-point@3.0.0
+│ │ │ ├─┬ UNMET OPTIONAL DEPENDENCY string-length@3.1.0
+│ │ │ │ ├── UNMET DEPENDENCY astral-regex@1.0.0
+│ │ │ │ └─┬ UNMET OPTIONAL DEPENDENCY strip-ansi@5.2.0
+│ │ │ │   └── UNMET OPTIONAL DEPENDENCY ansi-regex@4.1.0
+│ │ │ ├── UNMET DEPENDENCY widest-line@3.1.0
+│ │ │ ├─┬ UNMET OPTIONAL DEPENDENCY wrap-ansi@6.2.0
+│ │ │ │ ├── UNMET OPTIONAL DEPENDENCY ansi-styles@4.2.1
+│ │ │ │ ├─┬ UNMET OPTIONAL DEPENDENCY string-width@4.2.0
+│ │ │ │ │ ├── UNMET OPTIONAL DEPENDENCY emoji-regex@8.0.0
+│ │ │ │ │ ├── UNMET OPTIONAL DEPENDENCY is-fullwidth-code-point@3.0.0
+│ │ │ │ │ └── UNMET OPTIONAL DEPENDENCY strip-ansi@6.0.0
+│ │ │ │ └─┬ UNMET OPTIONAL DEPENDENCY strip-ansi@6.0.0
+│ │ │ │   └── UNMET OPTIONAL DEPENDENCY ansi-regex@5.0.0
+│ │ │ └─┬ UNMET OPTIONAL DEPENDENCY yoga-layout-prebuilt@1.9.5
+│ │ │   └── UNMET OPTIONAL DEPENDENCY @types/yoga-layout@1.9.1
+│ │ ├─┬ UNMET OPTIONAL DEPENDENCY ink-spinner@3.0.1
+│ │ │ ├── UNMET OPTIONAL DEPENDENCY cli-spinners@1.3.1
+│ │ │ └── UNMET DEPENDENCY prop-types@15.7.2
+│ │ ├─┬ UNMET DEPENDENCY is-valid-path@0.1.1
+│ │ │ └─┬ UNMET DEPENDENCY is-invalid-path@0.1.0
+│ │ │   └─┬ UNMET DEPENDENCY is-glob@2.0.1
+│ │ │     └── UNMET DEPENDENCY is-extglob@1.0.0
+│ │ ├── UNMET DEPENDENCY lodash@4.17.15
+│ │ ├── UNMET DEPENDENCY meant@1.0.1
+│ │ ├── UNMET DEPENDENCY node-fetch@2.6.0
+│ │ ├── UNMET DEPENDENCY object.entries@1.1.1
+│ │ ├── UNMET DEPENDENCY opentracing@0.14.4
+│ │ ├─┬ UNMET DEPENDENCY pretty-error@2.1.1
+│ │ │ ├─┬ UNMET DEPENDENCY renderkid@2.0.3
+│ │ │ │ ├─┬ UNMET DEPENDENCY css-select@1.2.0
+│ │ │ │ │ ├── UNMET DEPENDENCY boolbase@1.0.0
+│ │ │ │ │ ├── UNMET DEPENDENCY css-what@2.1.3
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY domutils@1.5.1
+│ │ │ │ │ │ ├─┬ UNMET DEPENDENCY dom-serializer@0.2.2
+│ │ │ │ │ │ │ ├── UNMET DEPENDENCY domelementtype@2.0.1
+│ │ │ │ │ │ │ └── UNMET DEPENDENCY entities@2.0.0
+│ │ │ │ │ │ └── UNMET DEPENDENCY domelementtype@1.3.1
+│ │ │ │ │ └─┬ UNMET DEPENDENCY nth-check@1.0.2
+│ │ │ │ │   └── UNMET DEPENDENCY boolbase@1.0.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY dom-converter@0.2.0
+│ │ │ │ │ └── UNMET DEPENDENCY utila@0.4.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY htmlparser2@3.10.1
+│ │ │ │ │ ├── UNMET DEPENDENCY domelementtype@1.3.1
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY domhandler@2.4.2
+│ │ │ │ │ │ └── UNMET DEPENDENCY domelementtype@1.3.1
+│ │ │ │ │ ├── UNMET DEPENDENCY domutils@1.5.1
+│ │ │ │ │ ├── UNMET DEPENDENCY entities@1.1.2
+│ │ │ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ │ └─┬ UNMET DEPENDENCY readable-stream@3.6.0
+│ │ │ │ │   ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ │   ├── UNMET DEPENDENCY string_decoder@1.1.1
+│ │ │ │ │   └── UNMET DEPENDENCY util-deprecate@1.0.2
+│ │ │ │ ├── UNMET DEPENDENCY strip-ansi@3.0.1
+│ │ │ │ └── UNMET DEPENDENCY utila@0.4.0
+│ │ │ └── UNMET DEPENDENCY utila@0.4.0
+│ │ ├── UNMET DEPENDENCY progress@2.0.3
+│ │ ├── UNMET DEPENDENCY prompts@2.3.1
+│ │ ├── UNMET DEPENDENCY react@16.12.0
+│ │ ├── UNMET DEPENDENCY redux@4.0.5
+│ │ ├── UNMET DEPENDENCY resolve-cwd@2.0.0
+│ │ ├── UNMET DEPENDENCY semver@6.3.0
+│ │ ├── UNMET DEPENDENCY signal-exit@3.0.2
+│ │ ├── UNMET DEPENDENCY source-map@0.7.3
+│ │ ├── UNMET DEPENDENCY stack-trace@0.0.10
+│ │ ├─┬ UNMET DEPENDENCY strip-ansi@5.2.0
+│ │ │ └── UNMET DEPENDENCY ansi-regex@4.1.0
+│ │ ├─┬ UNMET DEPENDENCY update-notifier@3.0.1
+│ │ │ ├─┬ UNMET DEPENDENCY boxen@3.2.0
+│ │ │ │ ├── UNMET DEPENDENCY ansi-align@3.0.0
+│ │ │ │ ├── UNMET DEPENDENCY camelcase@5.3.1
+│ │ │ │ ├── UNMET DEPENDENCY chalk@2.4.2
+│ │ │ │ ├── UNMET DEPENDENCY cli-boxes@2.2.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY string-width@3.1.0
+│ │ │ │ │ ├── UNMET DEPENDENCY emoji-regex@7.0.3
+│ │ │ │ │ ├── UNMET DEPENDENCY is-fullwidth-code-point@2.0.0
+│ │ │ │ │ └─┬ UNMET DEPENDENCY strip-ansi@5.2.0
+│ │ │ │ │   └── UNMET DEPENDENCY ansi-regex@4.1.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY term-size@1.2.0
+│ │ │ │ │ └─┬ UNMET DEPENDENCY execa@0.7.0
+│ │ │ │ │   ├─┬ UNMET DEPENDENCY cross-spawn@5.1.0
+│ │ │ │ │   │ ├─┬ UNMET DEPENDENCY lru-cache@4.1.5
+│ │ │ │ │   │ │ ├── UNMET DEPENDENCY pseudomap@1.0.2
+│ │ │ │ │   │ │ └── UNMET DEPENDENCY yallist@2.1.2
+│ │ │ │ │   │ ├── UNMET DEPENDENCY shebang-command@1.2.0
+│ │ │ │ │   │ └── UNMET DEPENDENCY which@1.3.1
+│ │ │ │ │   ├── UNMET DEPENDENCY get-stream@3.0.0
+│ │ │ │ │   ├── UNMET DEPENDENCY is-stream@1.1.0
+│ │ │ │ │   ├── UNMET DEPENDENCY npm-run-path@2.0.2
+│ │ │ │ │   ├── UNMET DEPENDENCY p-finally@1.0.0
+│ │ │ │ │   ├── UNMET DEPENDENCY signal-exit@3.0.2
+│ │ │ │ │   └── UNMET DEPENDENCY strip-eof@1.0.0
+│ │ │ │ ├── UNMET DEPENDENCY type-fest@0.3.1
+│ │ │ │ └─┬ UNMET DEPENDENCY widest-line@2.0.1
+│ │ │ │   └─┬ UNMET DEPENDENCY string-width@2.1.1
+│ │ │ │     ├── UNMET DEPENDENCY is-fullwidth-code-point@2.0.0
+│ │ │ │     └─┬ UNMET DEPENDENCY strip-ansi@4.0.0
+│ │ │ │       └── UNMET DEPENDENCY ansi-regex@3.0.0
+│ │ │ ├── UNMET DEPENDENCY chalk@2.4.2
+│ │ │ ├─┬ UNMET DEPENDENCY configstore@4.0.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY dot-prop@4.2.0
+│ │ │ │ │ └── UNMET DEPENDENCY is-obj@1.0.1
+│ │ │ │ ├── UNMET DEPENDENCY graceful-fs@4.2.3
+│ │ │ │ ├─┬ UNMET DEPENDENCY make-dir@1.3.0
+│ │ │ │ │ └── UNMET DEPENDENCY pify@3.0.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY unique-string@1.0.0
+│ │ │ │ │ └── UNMET DEPENDENCY crypto-random-string@1.0.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY write-file-atomic@2.4.3
+│ │ │ │ │ ├── UNMET DEPENDENCY graceful-fs@4.2.3
+│ │ │ │ │ ├── UNMET DEPENDENCY imurmurhash@0.1.4
+│ │ │ │ │ └── UNMET DEPENDENCY signal-exit@3.0.2
+│ │ │ │ └── UNMET DEPENDENCY xdg-basedir@3.0.0
+│ │ │ ├── UNMET DEPENDENCY has-yarn@2.1.0
+│ │ │ ├── UNMET DEPENDENCY import-lazy@2.1.0
+│ │ │ ├── UNMET DEPENDENCY is-ci@2.0.0
+│ │ │ ├─┬ UNMET DEPENDENCY is-installed-globally@0.1.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY global-dirs@0.1.1
+│ │ │ │ │ └── UNMET DEPENDENCY ini@1.3.5
+│ │ │ │ └─┬ UNMET DEPENDENCY is-path-inside@1.0.1
+│ │ │ │   └── UNMET DEPENDENCY path-is-inside@1.0.2
+│ │ │ ├── UNMET DEPENDENCY is-npm@3.0.0
+│ │ │ ├── UNMET DEPENDENCY is-yarn-global@0.3.0
+│ │ │ ├── UNMET DEPENDENCY latest-version@5.1.0
+│ │ │ ├─┬ UNMET DEPENDENCY semver-diff@2.1.0
+│ │ │ │ └── UNMET DEPENDENCY semver@5.7.1
+│ │ │ └── UNMET DEPENDENCY xdg-basedir@3.0.0
+│ │ ├── UNMET DEPENDENCY uuid@3.4.0
+│ │ ├─┬ UNMET DEPENDENCY yargs@12.0.5
+│ │ │ ├─┬ UNMET DEPENDENCY cliui@4.1.0
+│ │ │ │ ├── UNMET DEPENDENCY string-width@2.1.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY strip-ansi@4.0.0
+│ │ │ │ │ └── UNMET DEPENDENCY ansi-regex@3.0.0
+│ │ │ │ └─┬ UNMET DEPENDENCY wrap-ansi@2.1.0
+│ │ │ │   ├─┬ UNMET DEPENDENCY string-width@1.0.2
+│ │ │ │   │ ├── UNMET DEPENDENCY code-point-at@1.1.0
+│ │ │ │   │ ├─┬ UNMET DEPENDENCY is-fullwidth-code-point@1.0.0
+│ │ │ │   │ │ └── UNMET DEPENDENCY number-is-nan@1.0.1
+│ │ │ │   │ └── UNMET DEPENDENCY strip-ansi@3.0.1
+│ │ │ │   └─┬ UNMET DEPENDENCY strip-ansi@3.0.1
+│ │ │ │     └── UNMET DEPENDENCY ansi-regex@2.1.1
+│ │ │ ├── UNMET DEPENDENCY decamelize@1.2.0
+│ │ │ ├── UNMET DEPENDENCY find-up@3.0.0
+│ │ │ ├── UNMET DEPENDENCY get-caller-file@1.0.3
+│ │ │ ├─┬ UNMET DEPENDENCY os-locale@3.1.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY execa@1.0.0
+│ │ │ │ │ ├── UNMET DEPENDENCY cross-spawn@6.0.5
+│ │ │ │ │ ├── UNMET DEPENDENCY get-stream@4.1.0
+│ │ │ │ │ ├── UNMET DEPENDENCY is-stream@1.1.0
+│ │ │ │ │ ├── UNMET DEPENDENCY npm-run-path@2.0.2
+│ │ │ │ │ ├── UNMET DEPENDENCY p-finally@1.0.0
+│ │ │ │ │ ├── UNMET DEPENDENCY signal-exit@3.0.2
+│ │ │ │ │ └── UNMET DEPENDENCY strip-eof@1.0.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY lcid@2.0.0
+│ │ │ │ │ └── UNMET DEPENDENCY invert-kv@2.0.0
+│ │ │ │ └─┬ UNMET DEPENDENCY mem@4.3.0
+│ │ │ │   ├─┬ UNMET DEPENDENCY map-age-cleaner@0.1.3
+│ │ │ │   │ └── UNMET DEPENDENCY p-defer@1.0.0
+│ │ │ │   ├── UNMET DEPENDENCY mimic-fn@2.1.0
+│ │ │ │   └── UNMET DEPENDENCY p-is-promise@2.1.0
+│ │ │ ├── UNMET DEPENDENCY require-directory@2.1.1
+│ │ │ ├── UNMET DEPENDENCY require-main-filename@1.0.1
+│ │ │ ├── UNMET DEPENDENCY set-blocking@2.0.0
+│ │ │ ├── UNMET DEPENDENCY string-width@2.1.1
+│ │ │ ├── UNMET DEPENDENCY which-module@2.0.0
+│ │ │ ├── UNMET DEPENDENCY y18n@4.0.0
+│ │ │ └─┬ UNMET DEPENDENCY yargs-parser@11.1.1
+│ │ │   ├── UNMET DEPENDENCY camelcase@5.3.1
+│ │ │   └── UNMET DEPENDENCY decamelize@1.2.0
+│ │ └─┬ UNMET DEPENDENCY yurnalist@1.1.2
+│ │   ├─┬ UNMET DEPENDENCY babel-runtime@6.26.0
+│ │   │ ├── UNMET DEPENDENCY core-js@2.6.11
+│ │   │ └── UNMET DEPENDENCY regenerator-runtime@0.11.1
+│ │   ├── UNMET DEPENDENCY chalk@2.4.2
+│ │   ├─┬ UNMET DEPENDENCY cli-table3@0.5.1
+│ │   │ ├── UNMET OPTIONAL DEPENDENCY colors@1.4.0
+│ │   │ ├── UNMET DEPENDENCY object-assign@4.1.1
+│ │   │ └── UNMET DEPENDENCY string-width@2.1.1
+│ │   ├─┬ UNMET DEPENDENCY debug@4.1.1
+│ │   │ └── UNMET DEPENDENCY ms@2.1.2
+│ │   ├─┬ UNMET DEPENDENCY deep-equal@1.1.1
+│ │   │ ├── UNMET DEPENDENCY is-arguments@1.0.4
+│ │   │ ├── UNMET DEPENDENCY is-date-object@1.0.2
+│ │   │ ├── UNMET DEPENDENCY is-regex@1.0.5
+│ │   │ ├── UNMET DEPENDENCY object-is@1.0.2
+│ │   │ ├── UNMET DEPENDENCY object-keys@1.1.1
+│ │   │ └── UNMET DEPENDENCY regexp.prototype.flags@1.3.0
+│ │   ├── UNMET DEPENDENCY detect-indent@6.0.0
+│ │   ├─┬ UNMET DEPENDENCY inquirer@7.1.0
+│ │   │ ├─┬ UNMET DEPENDENCY ansi-escapes@4.3.1
+│ │   │ │ └── UNMET DEPENDENCY type-fest@0.11.0
+│ │   │ ├─┬ UNMET DEPENDENCY chalk@3.0.0
+│ │   │ │ ├─┬ UNMET DEPENDENCY ansi-styles@4.2.1
+│ │   │ │ │ ├── UNMET DEPENDENCY @types/color-name@1.1.1
+│ │   │ │ │ └─┬ UNMET DEPENDENCY color-convert@2.0.1
+│ │   │ │ │   └── UNMET DEPENDENCY color-name@1.1.4
+│ │   │ │ └─┬ UNMET DEPENDENCY supports-color@7.1.0
+│ │   │ │   └── UNMET DEPENDENCY has-flag@4.0.0
+│ │   │ ├─┬ UNMET DEPENDENCY cli-cursor@3.1.0
+│ │   │ │ └─┬ UNMET DEPENDENCY restore-cursor@3.1.0
+│ │   │ │   ├─┬ UNMET DEPENDENCY onetime@5.1.0
+│ │   │ │   │ └── UNMET DEPENDENCY mimic-fn@2.1.0
+│ │   │ │   └── UNMET DEPENDENCY signal-exit@3.0.2
+│ │   │ ├── UNMET DEPENDENCY cli-width@2.2.0
+│ │   │ ├── UNMET DEPENDENCY external-editor@3.1.0
+│ │   │ ├─┬ UNMET DEPENDENCY figures@3.2.0
+│ │   │ │ └── UNMET DEPENDENCY escape-string-regexp@1.0.5
+│ │   │ ├── UNMET DEPENDENCY lodash@4.17.15
+│ │   │ ├── UNMET DEPENDENCY mute-stream@0.0.8
+│ │   │ ├── UNMET DEPENDENCY run-async@2.4.0
+│ │   │ ├── UNMET DEPENDENCY rxjs@6.5.4
+│ │   │ ├─┬ UNMET DEPENDENCY string-width@4.2.0
+│ │   │ │ ├── UNMET DEPENDENCY emoji-regex@8.0.0
+│ │   │ │ ├── UNMET DEPENDENCY is-fullwidth-code-point@3.0.0
+│ │   │ │ └─┬ UNMET DEPENDENCY strip-ansi@6.0.0
+│ │   │ │   └── UNMET DEPENDENCY ansi-regex@5.0.0
+│ │   │ ├─┬ UNMET DEPENDENCY strip-ansi@6.0.0
+│ │   │ │ └── UNMET DEPENDENCY ansi-regex@5.0.0
+│ │   │ └── UNMET DEPENDENCY through@2.3.8
+│ │   ├── UNMET DEPENDENCY invariant@2.2.4
+│ │   ├─┬ UNMET DEPENDENCY is-builtin-module@3.0.0
+│ │   │ └── UNMET DEPENDENCY builtin-modules@3.1.0
+│ │   ├── UNMET DEPENDENCY is-ci@2.0.0
+│ │   ├── UNMET DEPENDENCY leven@3.1.0
+│ │   ├─┬ UNMET DEPENDENCY loud-rejection@2.2.0
+│ │   │ ├─┬ UNMET DEPENDENCY currently-unhandled@0.4.1
+│ │   │ │ └── UNMET DEPENDENCY array-find-index@1.0.2
+│ │   │ └── UNMET DEPENDENCY signal-exit@3.0.2
+│ │   ├─┬ UNMET DEPENDENCY node-emoji@1.10.0
+│ │   │ └── UNMET DEPENDENCY lodash.toarray@4.4.0
+│ │   ├── UNMET DEPENDENCY object-path@0.11.4
+│ │   ├─┬ UNMET DEPENDENCY read@1.0.7
+│ │   │ └── UNMET DEPENDENCY mute-stream@0.0.7
+│ │   ├── UNMET DEPENDENCY rimraf@3.0.2
+│ │   ├── UNMET DEPENDENCY semver@6.3.0
+│ │   ├─┬ UNMET DEPENDENCY strip-ansi@5.2.0
+│ │   │ └── UNMET DEPENDENCY ansi-regex@4.1.0
+│ │   └── UNMET DEPENDENCY strip-bom@4.0.0
+│ ├─┬ UNMET DEPENDENCY gatsby-core-utils@1.0.34
+│ │ ├── UNMET DEPENDENCY ci-info@2.0.0
+│ │ ├─┬ UNMET DEPENDENCY configstore@5.0.1
+│ │ │ ├─┬ UNMET DEPENDENCY dot-prop@5.2.0
+│ │ │ │ └── UNMET DEPENDENCY is-obj@2.0.0
+│ │ │ ├── UNMET DEPENDENCY graceful-fs@4.2.3
+│ │ │ ├─┬ UNMET DEPENDENCY make-dir@3.0.2
+│ │ │ │ └── UNMET DEPENDENCY semver@6.3.0
+│ │ │ ├─┬ UNMET DEPENDENCY unique-string@2.0.0
+│ │ │ │ └── UNMET DEPENDENCY crypto-random-string@2.0.0
+│ │ │ ├─┬ UNMET DEPENDENCY write-file-atomic@3.0.3
+│ │ │ │ ├── UNMET DEPENDENCY imurmurhash@0.1.4
+│ │ │ │ ├── UNMET DEPENDENCY is-typedarray@1.0.0
+│ │ │ │ ├── UNMET DEPENDENCY signal-exit@3.0.2
+│ │ │ │ └─┬ UNMET DEPENDENCY typedarray-to-buffer@3.1.5
+│ │ │ │   └── UNMET DEPENDENCY is-typedarray@1.0.0
+│ │ │ └── UNMET DEPENDENCY xdg-basedir@4.0.0
+│ │ └── UNMET DEPENDENCY node-object-hash@2.0.0
+│ ├─┬ UNMET DEPENDENCY gatsby-graphiql-explorer@0.2.36
+│ │ └── UNMET DEPENDENCY @babel/runtime@7.8.7
+│ ├─┬ UNMET DEPENDENCY gatsby-link@2.2.31
+│ │ ├── UNMET DEPENDENCY @babel/runtime@7.8.7
+│ │ ├─┬ UNMET DEPENDENCY @types/reach__router@1.3.0
+│ │ │ ├── UNMET DEPENDENCY @types/history@4.7.5
+│ │ │ └─┬ UNMET DEPENDENCY @types/react@16.9.23
+│ │ │   ├── UNMET DEPENDENCY @types/prop-types@15.7.3
+│ │ │   └── UNMET DEPENDENCY csstype@2.6.9
+│ │ └── UNMET DEPENDENCY prop-types@15.7.2
+│ ├─┬ UNMET DEPENDENCY gatsby-plugin-page-creator@2.1.46
+│ │ ├── UNMET DEPENDENCY @babel/runtime@7.8.7
+│ │ ├── UNMET DEPENDENCY bluebird@3.7.2
+│ │ ├── UNMET DEPENDENCY fs-exists-cached@1.0.0
+│ │ ├─┬ UNMET DEPENDENCY gatsby-page-utils@0.0.45
+│ │ │ ├── UNMET DEPENDENCY @babel/runtime@7.8.7
+│ │ │ ├── UNMET DEPENDENCY bluebird@3.7.2
+│ │ │ ├── UNMET DEPENDENCY chokidar@3.3.1
+│ │ │ ├── UNMET DEPENDENCY fs-exists-cached@1.0.0
+│ │ │ ├── UNMET DEPENDENCY gatsby-core-utils@1.0.34
+│ │ │ ├── UNMET DEPENDENCY glob@7.1.6
+│ │ │ ├── UNMET DEPENDENCY lodash@4.17.15
+│ │ │ └── UNMET DEPENDENCY micromatch@3.1.10
+│ │ ├── UNMET DEPENDENCY glob@7.1.6
+│ │ ├── UNMET DEPENDENCY lodash@4.17.15
+│ │ └── UNMET DEPENDENCY micromatch@3.1.10
+│ ├─┬ UNMET DEPENDENCY gatsby-react-router-scroll@2.1.24
+│ │ ├── UNMET DEPENDENCY @babel/runtime@7.8.7
+│ │ ├─┬ UNMET DEPENDENCY scroll-behavior@0.9.12
+│ │ │ ├─┬ UNMET DEPENDENCY dom-helpers@3.4.0
+│ │ │ │ └── UNMET DEPENDENCY @babel/runtime@7.8.7
+│ │ │ └── UNMET DEPENDENCY invariant@2.2.4
+│ │ └─┬ UNMET DEPENDENCY warning@3.0.0
+│ │   └── UNMET DEPENDENCY loose-envify@1.4.0
+│ ├─┬ UNMET DEPENDENCY gatsby-telemetry@1.1.56
+│ │ ├── UNMET DEPENDENCY @babel/code-frame@7.8.3
+│ │ ├── UNMET DEPENDENCY @babel/runtime@7.8.7
+│ │ ├── UNMET DEPENDENCY bluebird@3.7.2
+│ │ ├─┬ UNMET DEPENDENCY boxen@4.2.0
+│ │ │ ├─┬ UNMET DEPENDENCY ansi-align@3.0.0
+│ │ │ │ └─┬ UNMET DEPENDENCY string-width@3.1.0
+│ │ │ │   ├── UNMET DEPENDENCY emoji-regex@7.0.3
+│ │ │ │   ├── UNMET DEPENDENCY is-fullwidth-code-point@2.0.0
+│ │ │ │   └─┬ UNMET DEPENDENCY strip-ansi@5.2.0
+│ │ │ │     └── UNMET DEPENDENCY ansi-regex@4.1.0
+│ │ │ ├── UNMET DEPENDENCY camelcase@5.3.1
+│ │ │ ├─┬ UNMET DEPENDENCY chalk@3.0.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY ansi-styles@4.2.1
+│ │ │ │ │ ├── UNMET DEPENDENCY @types/color-name@1.1.1
+│ │ │ │ │ └─┬ UNMET DEPENDENCY color-convert@2.0.1
+│ │ │ │ │   └── UNMET DEPENDENCY color-name@1.1.4
+│ │ │ │ └─┬ UNMET DEPENDENCY supports-color@7.1.0
+│ │ │ │   └── UNMET DEPENDENCY has-flag@4.0.0
+│ │ │ ├── UNMET DEPENDENCY cli-boxes@2.2.0
+│ │ │ ├─┬ UNMET DEPENDENCY string-width@4.2.0
+│ │ │ │ ├── UNMET DEPENDENCY emoji-regex@8.0.0
+│ │ │ │ ├── UNMET DEPENDENCY is-fullwidth-code-point@3.0.0
+│ │ │ │ └─┬ UNMET DEPENDENCY strip-ansi@6.0.0
+│ │ │ │   └── UNMET DEPENDENCY ansi-regex@5.0.0
+│ │ │ ├── UNMET DEPENDENCY term-size@2.2.0
+│ │ │ ├── UNMET DEPENDENCY type-fest@0.8.1
+│ │ │ └─┬ UNMET DEPENDENCY widest-line@3.1.0
+│ │ │   └─┬ UNMET DEPENDENCY string-width@4.2.0
+│ │ │     ├── UNMET DEPENDENCY emoji-regex@8.0.0
+│ │ │     ├── UNMET DEPENDENCY is-fullwidth-code-point@3.0.0
+│ │ │     └─┬ UNMET DEPENDENCY strip-ansi@6.0.0
+│ │ │       └── UNMET DEPENDENCY ansi-regex@5.0.0
+│ │ ├── UNMET DEPENDENCY configstore@5.0.1
+│ │ ├── UNMET DEPENDENCY envinfo@7.5.0
+│ │ ├── UNMET DEPENDENCY fs-extra@8.1.0
+│ │ ├── UNMET DEPENDENCY gatsby-core-utils@1.0.34
+│ │ ├─┬ UNMET DEPENDENCY git-up@4.0.1
+│ │ │ ├─┬ UNMET DEPENDENCY is-ssh@1.3.1
+│ │ │ │ └── UNMET DEPENDENCY protocols@1.4.7
+│ │ │ └─┬ UNMET DEPENDENCY parse-url@5.0.1
+│ │ │   ├── UNMET DEPENDENCY is-ssh@1.3.1
+│ │ │   ├── UNMET DEPENDENCY normalize-url@3.3.0
+│ │ │   ├─┬ UNMET DEPENDENCY parse-path@4.0.1
+│ │ │   │ ├── UNMET DEPENDENCY is-ssh@1.3.1
+│ │ │   │ └── UNMET DEPENDENCY protocols@1.4.7
+│ │ │   └── UNMET DEPENDENCY protocols@1.4.7
+│ │ ├── UNMET DEPENDENCY is-docker@2.0.0
+│ │ ├── UNMET DEPENDENCY lodash@4.17.15
+│ │ ├── UNMET DEPENDENCY node-fetch@2.6.0
+│ │ ├─┬ UNMET DEPENDENCY resolve-cwd@2.0.0
+│ │ │ └── UNMET DEPENDENCY resolve-from@3.0.0
+│ │ ├── UNMET DEPENDENCY source-map@0.7.3
+│ │ ├── UNMET DEPENDENCY stack-trace@0.0.10
+│ │ ├── UNMET DEPENDENCY stack-utils@1.0.2
+│ │ └── UNMET DEPENDENCY uuid@3.4.0
+│ ├─┬ UNMET DEPENDENCY glob@7.1.6
+│ │ ├── UNMET DEPENDENCY fs.realpath@1.0.0
+│ │ ├─┬ UNMET DEPENDENCY inflight@1.0.6
+│ │ │ ├── UNMET DEPENDENCY once@1.4.0
+│ │ │ └── UNMET DEPENDENCY wrappy@1.0.2
+│ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ ├── UNMET DEPENDENCY minimatch@3.0.4
+│ │ ├─┬ UNMET DEPENDENCY once@1.4.0
+│ │ │ └── UNMET DEPENDENCY wrappy@1.0.2
+│ │ └── UNMET DEPENDENCY path-is-absolute@1.0.1
+│ ├─┬ UNMET DEPENDENCY got@8.3.2
+│ │ ├── UNMET DEPENDENCY @sindresorhus/is@0.7.0
+│ │ ├─┬ UNMET DEPENDENCY cacheable-request@2.1.4
+│ │ │ ├─┬ UNMET DEPENDENCY clone-response@1.0.2
+│ │ │ │ └── UNMET DEPENDENCY mimic-response@1.0.1
+│ │ │ ├── UNMET DEPENDENCY get-stream@3.0.0
+│ │ │ ├── UNMET DEPENDENCY http-cache-semantics@3.8.1
+│ │ │ ├─┬ UNMET DEPENDENCY keyv@3.0.0
+│ │ │ │ └── UNMET DEPENDENCY json-buffer@3.0.0
+│ │ │ ├── UNMET DEPENDENCY lowercase-keys@1.0.0
+│ │ │ ├─┬ UNMET DEPENDENCY normalize-url@2.0.1
+│ │ │ │ ├── UNMET DEPENDENCY prepend-http@2.0.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY query-string@5.1.1
+│ │ │ │ │ ├── UNMET DEPENDENCY decode-uri-component@0.2.0
+│ │ │ │ │ ├── UNMET DEPENDENCY object-assign@4.1.1
+│ │ │ │ │ └── UNMET DEPENDENCY strict-uri-encode@1.1.0
+│ │ │ │ └─┬ UNMET DEPENDENCY sort-keys@2.0.0
+│ │ │ │   └── UNMET DEPENDENCY is-plain-obj@1.1.0
+│ │ │ └─┬ UNMET DEPENDENCY responselike@1.0.2
+│ │ │   └── UNMET DEPENDENCY lowercase-keys@1.0.1
+│ │ ├─┬ UNMET DEPENDENCY decompress-response@3.3.0
+│ │ │ └── UNMET DEPENDENCY mimic-response@1.0.1
+│ │ ├── UNMET DEPENDENCY duplexer3@0.1.4
+│ │ ├── UNMET DEPENDENCY get-stream@3.0.0
+│ │ ├─┬ UNMET DEPENDENCY into-stream@3.1.0
+│ │ │ ├─┬ UNMET DEPENDENCY from2@2.3.0
+│ │ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ └── UNMET DEPENDENCY readable-stream@2.3.7
+│ │ │ └── UNMET DEPENDENCY p-is-promise@1.1.0
+│ │ ├── UNMET DEPENDENCY is-retry-allowed@1.2.0
+│ │ ├─┬ UNMET DEPENDENCY isurl@1.0.0
+│ │ │ ├─┬ UNMET DEPENDENCY has-to-string-tag-x@1.4.1
+│ │ │ │ └── UNMET DEPENDENCY has-symbol-support-x@1.4.2
+│ │ │ └── UNMET DEPENDENCY is-object@1.0.1
+│ │ ├── UNMET DEPENDENCY lowercase-keys@1.0.1
+│ │ ├── UNMET DEPENDENCY mimic-response@1.0.1
+│ │ ├── UNMET DEPENDENCY p-cancelable@0.4.1
+│ │ ├─┬ UNMET DEPENDENCY p-timeout@2.0.1
+│ │ │ └── UNMET DEPENDENCY p-finally@1.0.0
+│ │ ├── UNMET DEPENDENCY pify@3.0.0
+│ │ ├── UNMET DEPENDENCY safe-buffer@5.1.2
+│ │ ├── UNMET DEPENDENCY timed-out@4.0.1
+│ │ ├─┬ UNMET DEPENDENCY url-parse-lax@3.0.0
+│ │ │ └── UNMET DEPENDENCY prepend-http@2.0.0
+│ │ └── UNMET DEPENDENCY url-to-options@1.0.1
+│ ├─┬ UNMET DEPENDENCY graphql@14.6.0
+│ │ └── UNMET DEPENDENCY iterall@1.3.0
+│ ├─┬ UNMET DEPENDENCY graphql-compose@6.3.8
+│ │ ├── UNMET DEPENDENCY graphql-type-json@0.2.4
+│ │ └── UNMET DEPENDENCY object-path@0.11.4
+│ ├─┬ UNMET DEPENDENCY graphql-playground-middleware-express@1.7.12
+│ │ └── UNMET DEPENDENCY graphql-playground-html@1.6.12
+│ ├─┬ UNMET DEPENDENCY hasha@5.2.0
+│ │ ├── UNMET DEPENDENCY is-stream@2.0.0
+│ │ └── UNMET DEPENDENCY type-fest@0.8.1
+│ ├─┬ UNMET DEPENDENCY invariant@2.2.4
+│ │ └── UNMET DEPENDENCY loose-envify@1.4.0
+│ ├─┬ UNMET DEPENDENCY is-relative@1.0.0
+│ │ └─┬ UNMET DEPENDENCY is-unc-path@1.0.0
+│ │   └── UNMET DEPENDENCY unc-path-regex@0.1.2
+│ ├─┬ UNMET DEPENDENCY is-relative-url@3.0.0
+│ │ └── UNMET DEPENDENCY is-absolute-url@3.0.3
+│ ├── UNMET DEPENDENCY is-wsl@2.1.1
+│ ├─┬ UNMET DEPENDENCY jest-worker@24.9.0
+│ │ ├── UNMET DEPENDENCY merge-stream@2.0.0
+│ │ └─┬ UNMET DEPENDENCY supports-color@6.1.0
+│ │   └── UNMET DEPENDENCY has-flag@3.0.0
+│ ├── UNMET DEPENDENCY json-loader@0.5.7
+│ ├── UNMET DEPENDENCY json-stringify-safe@5.0.1
+│ ├─┬ UNMET DEPENDENCY latest-version@5.1.0
+│ │ └─┬ UNMET DEPENDENCY package-json@6.5.0
+│ │   ├─┬ UNMET DEPENDENCY got@9.6.0
+│ │   │ ├── UNMET DEPENDENCY @sindresorhus/is@0.14.0
+│ │   │ ├─┬ UNMET DEPENDENCY @szmarczak/http-timer@1.1.2
+│ │   │ │ └── UNMET DEPENDENCY defer-to-connect@1.1.3
+│ │   │ ├─┬ UNMET DEPENDENCY cacheable-request@6.1.0
+│ │   │ │ ├── UNMET DEPENDENCY clone-response@1.0.2
+│ │   │ │ ├─┬ UNMET DEPENDENCY get-stream@5.1.0
+│ │   │ │ │ └── UNMET DEPENDENCY pump@3.0.0
+│ │   │ │ ├── UNMET DEPENDENCY http-cache-semantics@4.1.0
+│ │   │ │ ├─┬ UNMET DEPENDENCY keyv@3.1.0
+│ │   │ │ │ └── UNMET DEPENDENCY json-buffer@3.0.0
+│ │   │ │ ├── UNMET DEPENDENCY lowercase-keys@2.0.0
+│ │   │ │ ├── UNMET DEPENDENCY normalize-url@4.5.0
+│ │   │ │ └── UNMET DEPENDENCY responselike@1.0.2
+│ │   │ ├── UNMET DEPENDENCY decompress-response@3.3.0
+│ │   │ ├── UNMET DEPENDENCY duplexer3@0.1.4
+│ │   │ ├── UNMET DEPENDENCY get-stream@4.1.0
+│ │   │ ├── UNMET DEPENDENCY lowercase-keys@1.0.1
+│ │   │ ├── UNMET DEPENDENCY mimic-response@1.0.1
+│ │   │ ├── UNMET DEPENDENCY p-cancelable@1.1.0
+│ │   │ ├── UNMET DEPENDENCY to-readable-stream@1.0.0
+│ │   │ └── UNMET DEPENDENCY url-parse-lax@3.0.0
+│ │   ├─┬ UNMET DEPENDENCY registry-auth-token@4.1.1
+│ │   │ └─┬ UNMET DEPENDENCY rc@1.2.8
+│ │   │   ├── UNMET DEPENDENCY deep-extend@0.6.0
+│ │   │   ├── UNMET DEPENDENCY ini@1.3.5
+│ │   │   ├── UNMET DEPENDENCY minimist@1.2.5
+│ │   │   └── UNMET DEPENDENCY strip-json-comments@2.0.1
+│ │   ├─┬ UNMET DEPENDENCY registry-url@5.1.0
+│ │   │ └── UNMET DEPENDENCY rc@1.2.8
+│ │   └── UNMET DEPENDENCY semver@6.3.0
+│ ├── UNMET DEPENDENCY lodash@4.17.15
+│ ├── UNMET DEPENDENCY lokijs@1.5.8
+│ ├─┬ UNMET DEPENDENCY md5@2.2.1
+│ │ ├── UNMET DEPENDENCY charenc@0.0.2
+│ │ ├── UNMET DEPENDENCY crypt@0.0.2
+│ │ └── UNMET DEPENDENCY is-buffer@1.1.6
+│ ├─┬ UNMET DEPENDENCY md5-file@3.2.3
+│ │ └─┬ UNMET DEPENDENCY buffer-alloc@1.2.0
+│ │   ├── UNMET DEPENDENCY buffer-alloc-unsafe@1.1.0
+│ │   └── UNMET DEPENDENCY buffer-fill@1.0.0
+│ ├─┬ UNMET DEPENDENCY micromatch@3.1.10
+│ │ ├── UNMET DEPENDENCY arr-diff@4.0.0
+│ │ ├── UNMET DEPENDENCY array-unique@0.3.2
+│ │ ├─┬ UNMET DEPENDENCY braces@2.3.2
+│ │ │ ├── UNMET DEPENDENCY arr-flatten@1.1.0
+│ │ │ ├── UNMET DEPENDENCY array-unique@0.3.2
+│ │ │ ├─┬ UNMET DEPENDENCY extend-shallow@2.0.1
+│ │ │ │ └── UNMET DEPENDENCY is-extendable@0.1.1
+│ │ │ ├─┬ UNMET DEPENDENCY fill-range@4.0.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY extend-shallow@2.0.1
+│ │ │ │ │ └── UNMET DEPENDENCY is-extendable@0.1.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY is-number@3.0.0
+│ │ │ │ │ └─┬ UNMET DEPENDENCY kind-of@3.2.2
+│ │ │ │ │   └── UNMET DEPENDENCY is-buffer@1.1.6
+│ │ │ │ ├── UNMET DEPENDENCY repeat-string@1.6.1
+│ │ │ │ └─┬ UNMET DEPENDENCY to-regex-range@2.1.1
+│ │ │ │   ├── UNMET DEPENDENCY is-number@3.0.0
+│ │ │ │   └── UNMET DEPENDENCY repeat-string@1.6.1
+│ │ │ ├── UNMET DEPENDENCY isobject@3.0.1
+│ │ │ ├── UNMET DEPENDENCY repeat-element@1.1.3
+│ │ │ ├── UNMET DEPENDENCY snapdragon@0.8.2
+│ │ │ ├─┬ UNMET DEPENDENCY snapdragon-node@2.1.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY define-property@1.0.0
+│ │ │ │ │ └─┬ UNMET DEPENDENCY is-descriptor@1.0.2
+│ │ │ │ │   ├─┬ UNMET DEPENDENCY is-accessor-descriptor@1.0.0
+│ │ │ │ │   │ └── UNMET DEPENDENCY kind-of@6.0.3
+│ │ │ │ │   ├─┬ UNMET DEPENDENCY is-data-descriptor@1.0.0
+│ │ │ │ │   │ └── UNMET DEPENDENCY kind-of@6.0.3
+│ │ │ │ │   └── UNMET DEPENDENCY kind-of@6.0.3
+│ │ │ │ ├── UNMET DEPENDENCY isobject@3.0.1
+│ │ │ │ └─┬ UNMET DEPENDENCY snapdragon-util@3.0.1
+│ │ │ │   └─┬ UNMET DEPENDENCY kind-of@3.2.2
+│ │ │ │     └── UNMET DEPENDENCY is-buffer@1.1.6
+│ │ │ ├─┬ UNMET DEPENDENCY split-string@3.1.0
+│ │ │ │ └── UNMET DEPENDENCY extend-shallow@3.0.2
+│ │ │ └── UNMET DEPENDENCY to-regex@3.0.2
+│ │ ├─┬ UNMET DEPENDENCY define-property@2.0.2
+│ │ │ ├─┬ UNMET DEPENDENCY is-descriptor@1.0.2
+│ │ │ │ ├─┬ UNMET DEPENDENCY is-accessor-descriptor@1.0.0
+│ │ │ │ │ └── UNMET DEPENDENCY kind-of@6.0.3
+│ │ │ │ ├─┬ UNMET DEPENDENCY is-data-descriptor@1.0.0
+│ │ │ │ │ └── UNMET DEPENDENCY kind-of@6.0.3
+│ │ │ │ └── UNMET DEPENDENCY kind-of@6.0.3
+│ │ │ └── UNMET DEPENDENCY isobject@3.0.1
+│ │ ├─┬ UNMET DEPENDENCY extend-shallow@3.0.2
+│ │ │ ├── UNMET DEPENDENCY assign-symbols@1.0.0
+│ │ │ └─┬ UNMET DEPENDENCY is-extendable@1.0.1
+│ │ │   └─┬ UNMET DEPENDENCY is-plain-object@2.0.4
+│ │ │     └── UNMET DEPENDENCY isobject@3.0.1
+│ │ ├─┬ UNMET DEPENDENCY extglob@2.0.4
+│ │ │ ├── UNMET DEPENDENCY array-unique@0.3.2
+│ │ │ ├─┬ UNMET DEPENDENCY define-property@1.0.0
+│ │ │ │ └─┬ UNMET DEPENDENCY is-descriptor@1.0.2
+│ │ │ │   ├─┬ UNMET DEPENDENCY is-accessor-descriptor@1.0.0
+│ │ │ │   │ └── UNMET DEPENDENCY kind-of@6.0.3
+│ │ │ │   ├─┬ UNMET DEPENDENCY is-data-descriptor@1.0.0
+│ │ │ │   │ └── UNMET DEPENDENCY kind-of@6.0.3
+│ │ │ │   └── UNMET DEPENDENCY kind-of@6.0.3
+│ │ │ ├─┬ UNMET DEPENDENCY expand-brackets@2.1.4
+│ │ │ │ ├─┬ UNMET DEPENDENCY debug@2.6.9
+│ │ │ │ │ └── UNMET DEPENDENCY ms@2.0.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY define-property@0.2.5
+│ │ │ │ │ └── UNMET DEPENDENCY is-descriptor@0.1.6
+│ │ │ │ ├─┬ UNMET DEPENDENCY extend-shallow@2.0.1
+│ │ │ │ │ └── UNMET DEPENDENCY is-extendable@0.1.1
+│ │ │ │ ├── UNMET DEPENDENCY posix-character-classes@0.1.1
+│ │ │ │ ├── UNMET DEPENDENCY regex-not@1.0.2
+│ │ │ │ ├── UNMET DEPENDENCY snapdragon@0.8.2
+│ │ │ │ └── UNMET DEPENDENCY to-regex@3.0.2
+│ │ │ ├─┬ UNMET DEPENDENCY extend-shallow@2.0.1
+│ │ │ │ └── UNMET DEPENDENCY is-extendable@0.1.1
+│ │ │ ├── UNMET DEPENDENCY fragment-cache@0.2.1
+│ │ │ ├── UNMET DEPENDENCY regex-not@1.0.2
+│ │ │ ├── UNMET DEPENDENCY snapdragon@0.8.2
+│ │ │ └── UNMET DEPENDENCY to-regex@3.0.2
+│ │ ├─┬ UNMET DEPENDENCY fragment-cache@0.2.1
+│ │ │ └── UNMET DEPENDENCY map-cache@0.2.2
+│ │ ├── UNMET DEPENDENCY kind-of@6.0.3
+│ │ ├─┬ UNMET DEPENDENCY nanomatch@1.2.13
+│ │ │ ├── UNMET DEPENDENCY arr-diff@4.0.0
+│ │ │ ├── UNMET DEPENDENCY array-unique@0.3.2
+│ │ │ ├── UNMET DEPENDENCY define-property@2.0.2
+│ │ │ ├── UNMET DEPENDENCY extend-shallow@3.0.2
+│ │ │ ├── UNMET DEPENDENCY fragment-cache@0.2.1
+│ │ │ ├── UNMET DEPENDENCY is-windows@1.0.2
+│ │ │ ├── UNMET DEPENDENCY kind-of@6.0.3
+│ │ │ ├── UNMET DEPENDENCY object.pick@1.3.0
+│ │ │ ├── UNMET DEPENDENCY regex-not@1.0.2
+│ │ │ ├── UNMET DEPENDENCY snapdragon@0.8.2
+│ │ │ └── UNMET DEPENDENCY to-regex@3.0.2
+│ │ ├─┬ UNMET DEPENDENCY object.pick@1.3.0
+│ │ │ └── UNMET DEPENDENCY isobject@3.0.1
+│ │ ├─┬ UNMET DEPENDENCY regex-not@1.0.2
+│ │ │ ├── UNMET DEPENDENCY extend-shallow@3.0.2
+│ │ │ └─┬ UNMET DEPENDENCY safe-regex@1.1.0
+│ │ │   └── UNMET DEPENDENCY ret@0.1.15
+│ │ ├─┬ UNMET DEPENDENCY snapdragon@0.8.2
+│ │ │ ├─┬ UNMET DEPENDENCY base@0.11.2
+│ │ │ │ ├─┬ UNMET DEPENDENCY cache-base@1.0.1
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY collection-visit@1.0.0
+│ │ │ │ │ │ ├─┬ UNMET DEPENDENCY map-visit@1.0.0
+│ │ │ │ │ │ │ └── UNMET DEPENDENCY object-visit@1.0.1
+│ │ │ │ │ │ └─┬ UNMET DEPENDENCY object-visit@1.0.1
+│ │ │ │ │ │   └── UNMET DEPENDENCY isobject@3.0.1
+│ │ │ │ │ ├── UNMET DEPENDENCY component-emitter@1.3.0
+│ │ │ │ │ ├── UNMET DEPENDENCY get-value@2.0.6
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY has-value@1.0.0
+│ │ │ │ │ │ ├── UNMET DEPENDENCY get-value@2.0.6
+│ │ │ │ │ │ ├─┬ UNMET DEPENDENCY has-values@1.0.0
+│ │ │ │ │ │ │ ├── UNMET DEPENDENCY is-number@3.0.0
+│ │ │ │ │ │ │ └─┬ UNMET DEPENDENCY kind-of@4.0.0
+│ │ │ │ │ │ │   └── UNMET DEPENDENCY is-buffer@1.1.6
+│ │ │ │ │ │ └── UNMET DEPENDENCY isobject@3.0.1
+│ │ │ │ │ ├── UNMET DEPENDENCY isobject@3.0.1
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY set-value@2.0.1
+│ │ │ │ │ │ ├─┬ UNMET DEPENDENCY extend-shallow@2.0.1
+│ │ │ │ │ │ │ └── UNMET DEPENDENCY is-extendable@0.1.1
+│ │ │ │ │ │ ├── UNMET DEPENDENCY is-extendable@0.1.1
+│ │ │ │ │ │ ├── UNMET DEPENDENCY is-plain-object@2.0.4
+│ │ │ │ │ │ └── UNMET DEPENDENCY split-string@3.1.0
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY to-object-path@0.3.0
+│ │ │ │ │ │ └─┬ UNMET DEPENDENCY kind-of@3.2.2
+│ │ │ │ │ │   └── UNMET DEPENDENCY is-buffer@1.1.6
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY union-value@1.0.1
+│ │ │ │ │ │ ├── UNMET DEPENDENCY arr-union@3.1.0
+│ │ │ │ │ │ ├── UNMET DEPENDENCY get-value@2.0.6
+│ │ │ │ │ │ ├── UNMET DEPENDENCY is-extendable@0.1.1
+│ │ │ │ │ │ └── UNMET DEPENDENCY set-value@2.0.1
+│ │ │ │ │ └─┬ UNMET DEPENDENCY unset-value@1.0.0
+│ │ │ │ │   ├─┬ UNMET DEPENDENCY has-value@0.3.1
+│ │ │ │ │   │ ├── UNMET DEPENDENCY get-value@2.0.6
+│ │ │ │ │   │ ├── UNMET DEPENDENCY has-values@0.1.4
+│ │ │ │ │   │ └─┬ UNMET DEPENDENCY isobject@2.1.0
+│ │ │ │ │   │   └── UNMET DEPENDENCY isarray@1.0.0
+│ │ │ │ │   └── UNMET DEPENDENCY isobject@3.0.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY class-utils@0.3.6
+│ │ │ │ │ ├── UNMET DEPENDENCY arr-union@3.1.0
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY define-property@0.2.5
+│ │ │ │ │ │ └── UNMET DEPENDENCY is-descriptor@0.1.6
+│ │ │ │ │ ├── UNMET DEPENDENCY isobject@3.0.1
+│ │ │ │ │ └─┬ UNMET DEPENDENCY static-extend@0.1.2
+│ │ │ │ │   ├─┬ UNMET DEPENDENCY define-property@0.2.5
+│ │ │ │ │   │ └── UNMET DEPENDENCY is-descriptor@0.1.6
+│ │ │ │ │   └─┬ UNMET DEPENDENCY object-copy@0.1.0
+│ │ │ │ │     ├── UNMET DEPENDENCY copy-descriptor@0.1.1
+│ │ │ │ │     ├─┬ UNMET DEPENDENCY define-property@0.2.5
+│ │ │ │ │     │ └── UNMET DEPENDENCY is-descriptor@0.1.6
+│ │ │ │ │     └─┬ UNMET DEPENDENCY kind-of@3.2.2
+│ │ │ │ │       └── UNMET DEPENDENCY is-buffer@1.1.6
+│ │ │ │ ├── UNMET DEPENDENCY component-emitter@1.3.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY define-property@1.0.0
+│ │ │ │ │ └─┬ UNMET DEPENDENCY is-descriptor@1.0.2
+│ │ │ │ │   ├─┬ UNMET DEPENDENCY is-accessor-descriptor@1.0.0
+│ │ │ │ │   │ └── UNMET DEPENDENCY kind-of@6.0.3
+│ │ │ │ │   ├─┬ UNMET DEPENDENCY is-data-descriptor@1.0.0
+│ │ │ │ │   │ └── UNMET DEPENDENCY kind-of@6.0.3
+│ │ │ │ │   └── UNMET DEPENDENCY kind-of@6.0.3
+│ │ │ │ ├── UNMET DEPENDENCY isobject@3.0.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY mixin-deep@1.3.2
+│ │ │ │ │ ├── UNMET DEPENDENCY for-in@1.0.2
+│ │ │ │ │ └─┬ UNMET DEPENDENCY is-extendable@1.0.1
+│ │ │ │ │   └── UNMET DEPENDENCY is-plain-object@2.0.4
+│ │ │ │ └── UNMET DEPENDENCY pascalcase@0.1.1
+│ │ │ ├─┬ UNMET DEPENDENCY debug@2.6.9
+│ │ │ │ └── UNMET DEPENDENCY ms@2.0.0
+│ │ │ ├─┬ UNMET DEPENDENCY define-property@0.2.5
+│ │ │ │ └─┬ UNMET DEPENDENCY is-descriptor@0.1.6
+│ │ │ │   ├─┬ UNMET DEPENDENCY is-accessor-descriptor@0.1.6
+│ │ │ │   │ └─┬ UNMET DEPENDENCY kind-of@3.2.2
+│ │ │ │   │   └── UNMET DEPENDENCY is-buffer@1.1.6
+│ │ │ │   ├─┬ UNMET DEPENDENCY is-data-descriptor@0.1.4
+│ │ │ │   │ └─┬ UNMET DEPENDENCY kind-of@3.2.2
+│ │ │ │   │   └── UNMET DEPENDENCY is-buffer@1.1.6
+│ │ │ │   └── UNMET DEPENDENCY kind-of@5.1.0
+│ │ │ ├─┬ UNMET DEPENDENCY extend-shallow@2.0.1
+│ │ │ │ └── UNMET DEPENDENCY is-extendable@0.1.1
+│ │ │ ├── UNMET DEPENDENCY map-cache@0.2.2
+│ │ │ ├── UNMET DEPENDENCY source-map@0.5.7
+│ │ │ ├─┬ UNMET DEPENDENCY source-map-resolve@0.5.3
+│ │ │ │ ├── UNMET DEPENDENCY atob@2.1.2
+│ │ │ │ ├── UNMET DEPENDENCY decode-uri-component@0.2.0
+│ │ │ │ ├── UNMET DEPENDENCY resolve-url@0.2.1
+│ │ │ │ ├── UNMET DEPENDENCY source-map-url@0.4.0
+│ │ │ │ └── UNMET DEPENDENCY urix@0.1.0
+│ │ │ └── UNMET DEPENDENCY use@3.1.1
+│ │ └─┬ UNMET DEPENDENCY to-regex@3.0.2
+│ │   ├── UNMET DEPENDENCY define-property@2.0.2
+│ │   ├── UNMET DEPENDENCY extend-shallow@3.0.2
+│ │   ├── UNMET DEPENDENCY regex-not@1.0.2
+│ │   └── UNMET DEPENDENCY safe-regex@1.1.0
+│ ├── UNMET DEPENDENCY mime@2.4.4
+│ ├─┬ UNMET DEPENDENCY mini-css-extract-plugin@0.8.2
+│ │ ├── UNMET DEPENDENCY loader-utils@1.2.3
+│ │ ├─┬ UNMET DEPENDENCY normalize-url@1.9.1
+│ │ │ ├── UNMET DEPENDENCY object-assign@4.1.1
+│ │ │ ├── UNMET DEPENDENCY prepend-http@1.0.4
+│ │ │ ├─┬ UNMET DEPENDENCY query-string@4.3.4
+│ │ │ │ ├── UNMET DEPENDENCY object-assign@4.1.1
+│ │ │ │ └── UNMET DEPENDENCY strict-uri-encode@1.1.0
+│ │ │ └─┬ UNMET DEPENDENCY sort-keys@1.1.2
+│ │ │   └── UNMET DEPENDENCY is-plain-obj@1.1.0
+│ │ ├─┬ UNMET DEPENDENCY schema-utils@1.0.0
+│ │ │ ├── UNMET DEPENDENCY ajv@6.12.0
+│ │ │ ├── UNMET DEPENDENCY ajv-errors@1.0.1
+│ │ │ └── UNMET DEPENDENCY ajv-keywords@3.4.1
+│ │ └─┬ UNMET DEPENDENCY webpack-sources@1.4.3
+│ │   ├── UNMET DEPENDENCY source-list-map@2.0.1
+│ │   └── UNMET DEPENDENCY source-map@0.6.1
+│ ├── UNMET DEPENDENCY mitt@1.2.0
+│ ├─┬ UNMET DEPENDENCY mkdirp@0.5.1
+│ │ └── UNMET DEPENDENCY minimist@0.0.8
+│ ├── UNMET DEPENDENCY moment@2.24.0
+│ ├── UNMET DEPENDENCY name-all-modules-plugin@1.0.1
+│ ├─┬ UNMET DEPENDENCY normalize-path@2.1.1
+│ │ └── UNMET DEPENDENCY remove-trailing-separator@1.1.0
+│ ├── UNMET DEPENDENCY null-loader@0.1.1
+│ ├── UNMET DEPENDENCY opentracing@0.14.4
+│ ├─┬ UNMET DEPENDENCY optimize-css-assets-webpack-plugin@5.0.3
+│ │ ├─┬ UNMET DEPENDENCY cssnano@4.1.10
+│ │ │ ├─┬ UNMET DEPENDENCY cosmiconfig@5.2.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY import-fresh@2.0.0
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY caller-path@2.0.0
+│ │ │ │ │ │ └─┬ UNMET DEPENDENCY caller-callsite@2.0.0
+│ │ │ │ │ │   └── UNMET DEPENDENCY callsites@2.0.0
+│ │ │ │ │ └── UNMET DEPENDENCY resolve-from@3.0.0
+│ │ │ │ ├── UNMET DEPENDENCY is-directory@0.3.1
+│ │ │ │ ├── UNMET DEPENDENCY js-yaml@3.13.1
+│ │ │ │ └─┬ UNMET DEPENDENCY parse-json@4.0.0
+│ │ │ │   ├── UNMET DEPENDENCY error-ex@1.3.2
+│ │ │ │   └── UNMET DEPENDENCY json-parse-better-errors@1.0.2
+│ │ │ ├─┬ UNMET DEPENDENCY cssnano-preset-default@4.0.7
+│ │ │ │ ├─┬ UNMET DEPENDENCY css-declaration-sorter@4.0.1
+│ │ │ │ │ ├── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ │ └── UNMET DEPENDENCY timsort@0.3.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY cssnano-util-raw-cache@4.0.1
+│ │ │ │ │ └── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ ├── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-calc@7.0.2
+│ │ │ │ │ ├── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY postcss-selector-parser@6.0.2
+│ │ │ │ │ │ ├── UNMET DEPENDENCY cssesc@3.0.0
+│ │ │ │ │ │ ├── UNMET DEPENDENCY indexes-of@1.0.1
+│ │ │ │ │ │ └── UNMET DEPENDENCY uniq@1.0.1
+│ │ │ │ │ └── UNMET DEPENDENCY postcss-value-parser@4.0.3
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-colormin@4.0.3
+│ │ │ │ │ ├── UNMET DEPENDENCY browserslist@4.9.1
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY color@3.1.2
+│ │ │ │ │ │ ├── UNMET DEPENDENCY color-convert@1.9.3
+│ │ │ │ │ │ └─┬ UNMET DEPENDENCY color-string@1.5.3
+│ │ │ │ │ │   ├── UNMET DEPENDENCY color-name@1.1.3
+│ │ │ │ │ │   └─┬ UNMET DEPENDENCY simple-swizzle@0.2.2
+│ │ │ │ │ │     └── UNMET DEPENDENCY is-arrayish@0.3.2
+│ │ │ │ │ ├── UNMET DEPENDENCY has@1.0.3
+│ │ │ │ │ ├── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ │ └── UNMET DEPENDENCY postcss-value-parser@3.3.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-convert-values@4.0.1
+│ │ │ │ │ ├── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ │ └── UNMET DEPENDENCY postcss-value-parser@3.3.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-discard-comments@4.0.2
+│ │ │ │ │ └── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-discard-duplicates@4.0.2
+│ │ │ │ │ └── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-discard-empty@4.0.1
+│ │ │ │ │ └── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-discard-overridden@4.0.1
+│ │ │ │ │ └── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-merge-longhand@4.0.11
+│ │ │ │ │ ├── UNMET DEPENDENCY css-color-names@0.0.4
+│ │ │ │ │ ├── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ │ ├── UNMET DEPENDENCY postcss-value-parser@3.3.1
+│ │ │ │ │ └─┬ UNMET DEPENDENCY stylehacks@4.0.3
+│ │ │ │ │   ├── UNMET DEPENDENCY browserslist@4.9.1
+│ │ │ │ │   ├── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ │   └─┬ UNMET DEPENDENCY postcss-selector-parser@3.1.2
+│ │ │ │ │     ├── UNMET DEPENDENCY dot-prop@5.2.0
+│ │ │ │ │     ├── UNMET DEPENDENCY indexes-of@1.0.1
+│ │ │ │ │     └── UNMET DEPENDENCY uniq@1.0.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-merge-rules@4.0.3
+│ │ │ │ │ ├── UNMET DEPENDENCY browserslist@4.9.1
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY caniuse-api@3.0.0
+│ │ │ │ │ │ ├── UNMET DEPENDENCY browserslist@4.9.1
+│ │ │ │ │ │ ├── UNMET DEPENDENCY caniuse-lite@1.0.30001035
+│ │ │ │ │ │ ├── UNMET DEPENDENCY lodash.memoize@4.1.2
+│ │ │ │ │ │ └── UNMET DEPENDENCY lodash.uniq@4.5.0
+│ │ │ │ │ ├── UNMET DEPENDENCY cssnano-util-same-parent@4.0.1
+│ │ │ │ │ ├── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY postcss-selector-parser@3.1.2
+│ │ │ │ │ │ ├── UNMET DEPENDENCY dot-prop@5.2.0
+│ │ │ │ │ │ ├── UNMET DEPENDENCY indexes-of@1.0.1
+│ │ │ │ │ │ └── UNMET DEPENDENCY uniq@1.0.1
+│ │ │ │ │ └── UNMET DEPENDENCY vendors@1.0.4
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-minify-font-values@4.0.2
+│ │ │ │ │ ├── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ │ └── UNMET DEPENDENCY postcss-value-parser@3.3.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-minify-gradients@4.0.2
+│ │ │ │ │ ├── UNMET DEPENDENCY cssnano-util-get-arguments@4.0.0
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY is-color-stop@1.1.0
+│ │ │ │ │ │ ├── UNMET DEPENDENCY css-color-names@0.0.4
+│ │ │ │ │ │ ├── UNMET DEPENDENCY hex-color-regex@1.1.0
+│ │ │ │ │ │ ├── UNMET DEPENDENCY hsl-regex@1.0.0
+│ │ │ │ │ │ ├── UNMET DEPENDENCY hsla-regex@1.0.0
+│ │ │ │ │ │ ├── UNMET DEPENDENCY rgb-regex@1.0.1
+│ │ │ │ │ │ └── UNMET DEPENDENCY rgba-regex@1.0.0
+│ │ │ │ │ ├── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ │ └── UNMET DEPENDENCY postcss-value-parser@3.3.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-minify-params@4.0.2
+│ │ │ │ │ ├── UNMET DEPENDENCY alphanum-sort@1.0.2
+│ │ │ │ │ ├── UNMET DEPENDENCY browserslist@4.9.1
+│ │ │ │ │ ├── UNMET DEPENDENCY cssnano-util-get-arguments@4.0.0
+│ │ │ │ │ ├── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ │ ├── UNMET DEPENDENCY postcss-value-parser@3.3.1
+│ │ │ │ │ └── UNMET DEPENDENCY uniqs@2.0.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-minify-selectors@4.0.2
+│ │ │ │ │ ├── UNMET DEPENDENCY alphanum-sort@1.0.2
+│ │ │ │ │ ├── UNMET DEPENDENCY has@1.0.3
+│ │ │ │ │ ├── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ │ └─┬ UNMET DEPENDENCY postcss-selector-parser@3.1.2
+│ │ │ │ │   ├── UNMET DEPENDENCY dot-prop@5.2.0
+│ │ │ │ │   ├── UNMET DEPENDENCY indexes-of@1.0.1
+│ │ │ │ │   └── UNMET DEPENDENCY uniq@1.0.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-normalize-charset@4.0.1
+│ │ │ │ │ └── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-normalize-display-values@4.0.2
+│ │ │ │ │ ├── UNMET DEPENDENCY cssnano-util-get-match@4.0.0
+│ │ │ │ │ ├── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ │ └── UNMET DEPENDENCY postcss-value-parser@3.3.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-normalize-positions@4.0.2
+│ │ │ │ │ ├── UNMET DEPENDENCY cssnano-util-get-arguments@4.0.0
+│ │ │ │ │ ├── UNMET DEPENDENCY has@1.0.3
+│ │ │ │ │ ├── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ │ └── UNMET DEPENDENCY postcss-value-parser@3.3.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-normalize-repeat-style@4.0.2
+│ │ │ │ │ ├── UNMET DEPENDENCY cssnano-util-get-arguments@4.0.0
+│ │ │ │ │ ├── UNMET DEPENDENCY cssnano-util-get-match@4.0.0
+│ │ │ │ │ ├── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ │ └── UNMET DEPENDENCY postcss-value-parser@3.3.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-normalize-string@4.0.2
+│ │ │ │ │ ├── UNMET DEPENDENCY has@1.0.3
+│ │ │ │ │ ├── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ │ └── UNMET DEPENDENCY postcss-value-parser@3.3.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-normalize-timing-functions@4.0.2
+│ │ │ │ │ ├── UNMET DEPENDENCY cssnano-util-get-match@4.0.0
+│ │ │ │ │ ├── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ │ └── UNMET DEPENDENCY postcss-value-parser@3.3.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-normalize-unicode@4.0.1
+│ │ │ │ │ ├── UNMET DEPENDENCY browserslist@4.9.1
+│ │ │ │ │ ├── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ │ └── UNMET DEPENDENCY postcss-value-parser@3.3.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-normalize-url@4.0.1
+│ │ │ │ │ ├── UNMET DEPENDENCY is-absolute-url@2.1.0
+│ │ │ │ │ ├── UNMET DEPENDENCY normalize-url@3.3.0
+│ │ │ │ │ ├── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ │ └── UNMET DEPENDENCY postcss-value-parser@3.3.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-normalize-whitespace@4.0.2
+│ │ │ │ │ ├── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ │ └── UNMET DEPENDENCY postcss-value-parser@3.3.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-ordered-values@4.1.2
+│ │ │ │ │ ├── UNMET DEPENDENCY cssnano-util-get-arguments@4.0.0
+│ │ │ │ │ ├── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ │ └── UNMET DEPENDENCY postcss-value-parser@3.3.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-reduce-initial@4.0.3
+│ │ │ │ │ ├── UNMET DEPENDENCY browserslist@4.9.1
+│ │ │ │ │ ├── UNMET DEPENDENCY caniuse-api@3.0.0
+│ │ │ │ │ ├── UNMET DEPENDENCY has@1.0.3
+│ │ │ │ │ └── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-reduce-transforms@4.0.2
+│ │ │ │ │ ├── UNMET DEPENDENCY cssnano-util-get-match@4.0.0
+│ │ │ │ │ ├── UNMET DEPENDENCY has@1.0.3
+│ │ │ │ │ ├── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ │ └── UNMET DEPENDENCY postcss-value-parser@3.3.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY postcss-svgo@4.0.2
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY is-svg@3.0.0
+│ │ │ │ │ │ └── UNMET DEPENDENCY html-comment-regex@1.1.2
+│ │ │ │ │ ├── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │ │ ├── UNMET DEPENDENCY postcss-value-parser@3.3.1
+│ │ │ │ │ └─┬ UNMET DEPENDENCY svgo@1.3.2
+│ │ │ │ │   ├── UNMET DEPENDENCY chalk@2.4.2
+│ │ │ │ │   ├─┬ UNMET DEPENDENCY coa@2.0.2
+│ │ │ │ │   │ ├── UNMET DEPENDENCY @types/q@1.5.2
+│ │ │ │ │   │ ├── UNMET DEPENDENCY chalk@2.4.2
+│ │ │ │ │   │ └── UNMET DEPENDENCY q@1.5.1
+│ │ │ │ │   ├─┬ UNMET DEPENDENCY css-select@2.1.0
+│ │ │ │ │   │ ├── UNMET DEPENDENCY boolbase@1.0.0
+│ │ │ │ │   │ ├── UNMET DEPENDENCY css-what@3.2.1
+│ │ │ │ │   │ ├─┬ UNMET DEPENDENCY domutils@1.7.0
+│ │ │ │ │   │ │ ├── UNMET DEPENDENCY dom-serializer@0.2.2
+│ │ │ │ │   │ │ └── UNMET DEPENDENCY domelementtype@1.3.1
+│ │ │ │ │   │ └── UNMET DEPENDENCY nth-check@1.0.2
+│ │ │ │ │   ├── UNMET DEPENDENCY css-select-base-adapter@0.1.1
+│ │ │ │ │   ├─┬ UNMET DEPENDENCY css-tree@1.0.0-alpha.37
+│ │ │ │ │   │ ├── UNMET DEPENDENCY mdn-data@2.0.4
+│ │ │ │ │   │ └── UNMET DEPENDENCY source-map@0.6.1
+│ │ │ │ │   ├─┬ UNMET DEPENDENCY csso@4.0.2
+│ │ │ │ │   │ └── UNMET DEPENDENCY css-tree@1.0.0-alpha.37
+│ │ │ │ │   ├── UNMET DEPENDENCY js-yaml@3.13.1
+│ │ │ │ │   ├── UNMET DEPENDENCY mkdirp@0.5.1
+│ │ │ │ │   ├── UNMET DEPENDENCY object.values@1.1.1
+│ │ │ │ │   ├── UNMET DEPENDENCY sax@1.2.4
+│ │ │ │ │   ├── UNMET DEPENDENCY stable@0.1.8
+│ │ │ │ │   ├── UNMET DEPENDENCY unquote@1.1.1
+│ │ │ │ │   └── UNMET DEPENDENCY util.promisify@1.0.1
+│ │ │ │ └─┬ UNMET DEPENDENCY postcss-unique-selectors@4.0.1
+│ │ │ │   ├── UNMET DEPENDENCY alphanum-sort@1.0.2
+│ │ │ │   ├── UNMET DEPENDENCY postcss@7.0.27
+│ │ │ │   └── UNMET DEPENDENCY uniqs@2.0.0
+│ │ │ ├── UNMET DEPENDENCY is-resolvable@1.1.0
+│ │ │ └── UNMET DEPENDENCY postcss@7.0.27
+│ │ └─┬ UNMET DEPENDENCY last-call-webpack-plugin@3.0.0
+│ │   ├── UNMET DEPENDENCY lodash@4.17.15
+│ │   └── UNMET DEPENDENCY webpack-sources@1.4.3
+│ ├── UNMET DEPENDENCY p-defer@3.0.0
+│ ├── UNMET DEPENDENCY parseurl@1.3.3
+│ ├── UNMET DEPENDENCY physical-cpu-count@2.0.0
+│ ├─┬ UNMET DEPENDENCY pnp-webpack-plugin@1.6.4
+│ │ └── UNMET DEPENDENCY ts-pnp@1.1.6
+│ ├─┬ UNMET DEPENDENCY postcss-flexbugs-fixes@4.2.0
+│ │ └── UNMET DEPENDENCY postcss@7.0.27
+│ ├─┬ UNMET DEPENDENCY postcss-loader@3.0.0
+│ │ ├── UNMET DEPENDENCY loader-utils@1.2.3
+│ │ ├── UNMET DEPENDENCY postcss@7.0.27
+│ │ ├─┬ UNMET DEPENDENCY postcss-load-config@2.1.0
+│ │ │ ├─┬ UNMET DEPENDENCY cosmiconfig@5.2.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY import-fresh@2.0.0
+│ │ │ │ │ ├── UNMET DEPENDENCY caller-path@2.0.0
+│ │ │ │ │ └── UNMET DEPENDENCY resolve-from@3.0.0
+│ │ │ │ ├── UNMET DEPENDENCY is-directory@0.3.1
+│ │ │ │ ├── UNMET DEPENDENCY js-yaml@3.13.1
+│ │ │ │ └─┬ UNMET DEPENDENCY parse-json@4.0.0
+│ │ │ │   ├── UNMET DEPENDENCY error-ex@1.3.2
+│ │ │ │   └── UNMET DEPENDENCY json-parse-better-errors@1.0.2
+│ │ │ └─┬ UNMET DEPENDENCY import-cwd@2.1.0
+│ │ │   └─┬ UNMET DEPENDENCY import-from@2.1.0
+│ │ │     └── UNMET DEPENDENCY resolve-from@3.0.0
+│ │ └─┬ UNMET DEPENDENCY schema-utils@1.0.0
+│ │   ├── UNMET DEPENDENCY ajv@6.12.0
+│ │   ├── UNMET DEPENDENCY ajv-errors@1.0.1
+│ │   └── UNMET DEPENDENCY ajv-keywords@3.4.1
+│ ├─┬ UNMET DEPENDENCY prompts@2.3.1
+│ │ ├── UNMET DEPENDENCY kleur@3.0.3
+│ │ └── UNMET DEPENDENCY sisteransi@1.0.4
+│ ├─┬ UNMET DEPENDENCY prop-types@15.7.2
+│ │ ├── UNMET DEPENDENCY loose-envify@1.4.0
+│ │ ├── UNMET DEPENDENCY object-assign@4.1.1
+│ │ └── UNMET DEPENDENCY react-is@16.12.0
+│ ├── UNMET DEPENDENCY raw-loader@0.5.1
+│ ├─┬ UNMET DEPENDENCY react-dev-utils@4.2.3
+│ │ ├── UNMET DEPENDENCY address@1.0.3
+│ │ ├── UNMET DEPENDENCY babel-code-frame@6.26.0
+│ │ ├─┬ UNMET DEPENDENCY chalk@1.1.3
+│ │ │ ├── UNMET DEPENDENCY ansi-styles@2.2.1
+│ │ │ ├── UNMET DEPENDENCY escape-string-regexp@1.0.5
+│ │ │ ├─┬ UNMET DEPENDENCY has-ansi@2.0.0
+│ │ │ │ └── UNMET DEPENDENCY ansi-regex@2.1.1
+│ │ │ ├── UNMET DEPENDENCY strip-ansi@3.0.1
+│ │ │ └── UNMET DEPENDENCY supports-color@2.0.0
+│ │ ├─┬ UNMET DEPENDENCY cross-spawn@5.1.0
+│ │ │ ├─┬ UNMET DEPENDENCY lru-cache@4.1.5
+│ │ │ │ ├── UNMET DEPENDENCY pseudomap@1.0.2
+│ │ │ │ └── UNMET DEPENDENCY yallist@2.1.2
+│ │ │ ├── UNMET DEPENDENCY shebang-command@1.2.0
+│ │ │ └── UNMET DEPENDENCY which@1.3.1
+│ │ ├─┬ UNMET DEPENDENCY detect-port-alt@1.1.3
+│ │ │ ├── UNMET DEPENDENCY address@1.0.3
+│ │ │ └─┬ UNMET DEPENDENCY debug@2.6.9
+│ │ │   └── UNMET DEPENDENCY ms@2.0.0
+│ │ ├── UNMET DEPENDENCY escape-string-regexp@1.0.5
+│ │ ├── UNMET DEPENDENCY filesize@3.5.11
+│ │ ├─┬ UNMET DEPENDENCY global-modules@1.0.0
+│ │ │ ├─┬ UNMET DEPENDENCY global-prefix@1.0.2
+│ │ │ │ ├─┬ UNMET DEPENDENCY expand-tilde@2.0.2
+│ │ │ │ │ └── UNMET DEPENDENCY homedir-polyfill@1.0.3
+│ │ │ │ ├─┬ UNMET DEPENDENCY homedir-polyfill@1.0.3
+│ │ │ │ │ └── UNMET DEPENDENCY parse-passwd@1.0.0
+│ │ │ │ ├── UNMET DEPENDENCY ini@1.3.5
+│ │ │ │ ├── UNMET DEPENDENCY is-windows@1.0.2
+│ │ │ │ └── UNMET DEPENDENCY which@1.3.1
+│ │ │ ├── UNMET DEPENDENCY is-windows@1.0.2
+│ │ │ └─┬ UNMET DEPENDENCY resolve-dir@1.0.1
+│ │ │   ├── UNMET DEPENDENCY expand-tilde@2.0.2
+│ │ │   └─┬ UNMET DEPENDENCY global-modules@1.0.0
+│ │ │     ├─┬ UNMET DEPENDENCY global-prefix@1.0.2
+│ │ │     │ ├── UNMET DEPENDENCY expand-tilde@2.0.2
+│ │ │     │ ├── UNMET DEPENDENCY homedir-polyfill@1.0.3
+│ │ │     │ ├── UNMET DEPENDENCY ini@1.3.5
+│ │ │     │ ├── UNMET DEPENDENCY is-windows@1.0.2
+│ │ │     │ └── UNMET DEPENDENCY which@1.3.1
+│ │ │     ├── UNMET DEPENDENCY is-windows@1.0.2
+│ │ │     └── UNMET DEPENDENCY resolve-dir@1.0.1
+│ │ ├─┬ UNMET DEPENDENCY gzip-size@3.0.0
+│ │ │ └── UNMET DEPENDENCY duplexer@0.1.1
+│ │ ├─┬ UNMET DEPENDENCY inquirer@3.3.0
+│ │ │ ├── UNMET DEPENDENCY ansi-escapes@3.2.0
+│ │ │ ├─┬ UNMET DEPENDENCY chalk@2.4.2
+│ │ │ │ ├─┬ UNMET DEPENDENCY ansi-styles@3.2.1
+│ │ │ │ │ └── UNMET DEPENDENCY color-convert@1.9.3
+│ │ │ │ ├── UNMET DEPENDENCY escape-string-regexp@1.0.5
+│ │ │ │ └─┬ UNMET DEPENDENCY supports-color@5.5.0
+│ │ │ │   └── UNMET DEPENDENCY has-flag@3.0.0
+│ │ │ ├─┬ UNMET DEPENDENCY cli-cursor@2.1.0
+│ │ │ │ └─┬ UNMET DEPENDENCY restore-cursor@2.0.0
+│ │ │ │   ├─┬ UNMET DEPENDENCY onetime@2.0.1
+│ │ │ │   │ └── UNMET DEPENDENCY mimic-fn@1.2.0
+│ │ │ │   └── UNMET DEPENDENCY signal-exit@3.0.2
+│ │ │ ├── UNMET DEPENDENCY cli-width@2.2.0
+│ │ │ ├─┬ UNMET DEPENDENCY external-editor@2.2.0
+│ │ │ │ ├── UNMET DEPENDENCY chardet@0.4.2
+│ │ │ │ ├── UNMET DEPENDENCY iconv-lite@0.4.24
+│ │ │ │ └── UNMET DEPENDENCY tmp@0.0.33
+│ │ │ ├─┬ UNMET DEPENDENCY figures@2.0.0
+│ │ │ │ └── UNMET DEPENDENCY escape-string-regexp@1.0.5
+│ │ │ ├── UNMET DEPENDENCY lodash@4.17.15
+│ │ │ ├── UNMET DEPENDENCY mute-stream@0.0.7
+│ │ │ ├── UNMET DEPENDENCY run-async@2.4.0
+│ │ │ ├── UNMET DEPENDENCY rx-lite@4.0.8
+│ │ │ ├─┬ UNMET DEPENDENCY rx-lite-aggregates@4.0.8
+│ │ │ │ └── UNMET DEPENDENCY rx-lite@4.0.8
+│ │ │ ├── UNMET DEPENDENCY string-width@2.1.1
+│ │ │ ├─┬ UNMET DEPENDENCY strip-ansi@4.0.0
+│ │ │ │ └── UNMET DEPENDENCY ansi-regex@3.0.0
+│ │ │ └── UNMET DEPENDENCY through@2.3.8
+│ │ ├── UNMET DEPENDENCY is-root@1.0.0
+│ │ ├─┬ UNMET DEPENDENCY opn@5.1.0
+│ │ │ └── UNMET DEPENDENCY is-wsl@1.1.0
+│ │ ├── UNMET DEPENDENCY react-error-overlay@3.0.0
+│ │ ├─┬ UNMET DEPENDENCY recursive-readdir@2.2.1
+│ │ │ └─┬ UNMET DEPENDENCY minimatch@3.0.3
+│ │ │   └── UNMET DEPENDENCY brace-expansion@1.1.11
+│ │ ├─┬ UNMET DEPENDENCY shell-quote@1.6.1
+│ │ │ ├── UNMET DEPENDENCY array-filter@0.0.1
+│ │ │ ├── UNMET DEPENDENCY array-map@0.0.0
+│ │ │ ├── UNMET DEPENDENCY array-reduce@0.0.0
+│ │ │ └── UNMET DEPENDENCY jsonify@0.0.0
+│ │ ├─┬ UNMET DEPENDENCY sockjs-client@1.1.4
+│ │ │ ├── UNMET DEPENDENCY debug@2.6.9
+│ │ │ ├─┬ UNMET DEPENDENCY eventsource@0.1.6
+│ │ │ │ └─┬ UNMET DEPENDENCY original@1.0.2
+│ │ │ │   └── UNMET DEPENDENCY url-parse@1.4.7
+│ │ │ ├─┬ UNMET DEPENDENCY faye-websocket@0.11.3
+│ │ │ │ └─┬ UNMET DEPENDENCY websocket-driver@0.7.3
+│ │ │ │   ├── UNMET DEPENDENCY http-parser-js@0.4.10
+│ │ │ │   ├── UNMET DEPENDENCY safe-buffer@5.1.2
+│ │ │ │   └── UNMET DEPENDENCY websocket-extensions@0.1.4
+│ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ ├── UNMET DEPENDENCY json3@3.3.3
+│ │ │ └─┬ UNMET DEPENDENCY url-parse@1.4.7
+│ │ │   ├── UNMET DEPENDENCY querystringify@2.1.1
+│ │ │   └── UNMET DEPENDENCY requires-port@1.0.0
+│ │ ├── UNMET DEPENDENCY strip-ansi@3.0.1
+│ │ └── UNMET DEPENDENCY text-table@0.2.0
+│ ├── UNMET DEPENDENCY react-error-overlay@3.0.0
+│ ├─┬ UNMET DEPENDENCY react-hot-loader@4.12.20
+│ │ ├── UNMET DEPENDENCY fast-levenshtein@2.0.6
+│ │ ├─┬ UNMET DEPENDENCY global@4.4.0
+│ │ │ ├─┬ UNMET DEPENDENCY min-document@2.19.0
+│ │ │ │ └── UNMET DEPENDENCY dom-walk@0.1.1
+│ │ │ └── UNMET DEPENDENCY process@0.11.10
+│ │ ├─┬ UNMET DEPENDENCY hoist-non-react-statics@3.3.2
+│ │ │ └── UNMET DEPENDENCY react-is@16.12.0
+│ │ ├── UNMET DEPENDENCY loader-utils@1.2.3
+│ │ ├── UNMET DEPENDENCY prop-types@15.7.2
+│ │ ├── UNMET DEPENDENCY react-lifecycles-compat@3.0.4
+│ │ ├── UNMET DEPENDENCY shallowequal@1.1.0
+│ │ └── UNMET DEPENDENCY source-map@0.7.3
+│ ├── UNMET DEPENDENCY react-refresh@0.7.2
+│ ├─┬ UNMET DEPENDENCY redux@4.0.5
+│ │ ├── UNMET DEPENDENCY loose-envify@1.4.0
+│ │ └── UNMET DEPENDENCY symbol-observable@1.2.0
+│ ├── UNMET DEPENDENCY redux-thunk@2.3.0
+│ ├── UNMET DEPENDENCY semver@5.7.1
+│ ├── UNMET DEPENDENCY shallow-compare@1.2.2
+│ ├── UNMET DEPENDENCY sift@5.1.0
+│ ├── UNMET DEPENDENCY signal-exit@3.0.2
+│ ├── UNMET DEPENDENCY slugify@1.4.0
+│ ├─┬ UNMET DEPENDENCY socket.io@2.3.0
+│ │ ├─┬ UNMET DEPENDENCY debug@4.1.1
+│ │ │ └── UNMET DEPENDENCY ms@2.1.2
+│ │ ├─┬ UNMET DEPENDENCY engine.io@3.4.0
+│ │ │ ├── UNMET DEPENDENCY accepts@1.3.7
+│ │ │ ├── UNMET DEPENDENCY base64id@2.0.0
+│ │ │ ├── UNMET DEPENDENCY cookie@0.3.1
+│ │ │ ├─┬ UNMET DEPENDENCY debug@4.1.1
+│ │ │ │ └── UNMET DEPENDENCY ms@2.1.2
+│ │ │ ├─┬ UNMET DEPENDENCY engine.io-parser@2.2.0
+│ │ │ │ ├── UNMET DEPENDENCY after@0.8.2
+│ │ │ │ ├── UNMET DEPENDENCY arraybuffer.slice@0.0.7
+│ │ │ │ ├── UNMET DEPENDENCY base64-arraybuffer@0.1.5
+│ │ │ │ ├── UNMET DEPENDENCY blob@0.0.5
+│ │ │ │ └── UNMET DEPENDENCY has-binary2@1.0.3
+│ │ │ └── UNMET DEPENDENCY ws@7.2.3
+│ │ ├─┬ UNMET DEPENDENCY has-binary2@1.0.3
+│ │ │ └── UNMET DEPENDENCY isarray@2.0.1
+│ │ ├── UNMET DEPENDENCY socket.io-adapter@1.1.2
+│ │ ├─┬ UNMET DEPENDENCY socket.io-client@2.3.0
+│ │ │ ├── UNMET DEPENDENCY backo2@1.0.2
+│ │ │ ├── UNMET DEPENDENCY base64-arraybuffer@0.1.5
+│ │ │ ├── UNMET DEPENDENCY component-bind@1.0.0
+│ │ │ ├── UNMET DEPENDENCY component-emitter@1.2.1
+│ │ │ ├─┬ UNMET DEPENDENCY debug@4.1.1
+│ │ │ │ └── UNMET DEPENDENCY ms@2.1.2
+│ │ │ ├─┬ UNMET DEPENDENCY engine.io-client@3.4.0
+│ │ │ │ ├── UNMET DEPENDENCY component-emitter@1.2.1
+│ │ │ │ ├── UNMET DEPENDENCY component-inherit@0.0.3
+│ │ │ │ ├─┬ UNMET DEPENDENCY debug@4.1.1
+│ │ │ │ │ └── UNMET DEPENDENCY ms@2.1.2
+│ │ │ │ ├── UNMET DEPENDENCY engine.io-parser@2.2.0
+│ │ │ │ ├── UNMET DEPENDENCY has-cors@1.1.0
+│ │ │ │ ├── UNMET DEPENDENCY indexof@0.0.1
+│ │ │ │ ├── UNMET DEPENDENCY parseqs@0.0.5
+│ │ │ │ ├── UNMET DEPENDENCY parseuri@0.0.5
+│ │ │ │ ├─┬ UNMET DEPENDENCY ws@6.1.4
+│ │ │ │ │ └── UNMET DEPENDENCY async-limiter@1.0.1
+│ │ │ │ ├── UNMET DEPENDENCY xmlhttprequest-ssl@1.5.5
+│ │ │ │ └── UNMET DEPENDENCY yeast@0.1.2
+│ │ │ ├── UNMET DEPENDENCY has-binary2@1.0.3
+│ │ │ ├── UNMET DEPENDENCY has-cors@1.1.0
+│ │ │ ├── UNMET DEPENDENCY indexof@0.0.1
+│ │ │ ├── UNMET DEPENDENCY object-component@0.0.3
+│ │ │ ├─┬ UNMET DEPENDENCY parseqs@0.0.5
+│ │ │ │ └─┬ UNMET DEPENDENCY better-assert@1.0.2
+│ │ │ │   └── UNMET DEPENDENCY callsite@1.0.0
+│ │ │ ├─┬ UNMET DEPENDENCY parseuri@0.0.5
+│ │ │ │ └── UNMET DEPENDENCY better-assert@1.0.2
+│ │ │ ├─┬ UNMET DEPENDENCY socket.io-parser@3.3.0
+│ │ │ │ ├── UNMET DEPENDENCY component-emitter@1.2.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY debug@3.1.0
+│ │ │ │ │ └── UNMET DEPENDENCY ms@2.0.0
+│ │ │ │ └── UNMET DEPENDENCY isarray@2.0.1
+│ │ │ └── UNMET DEPENDENCY to-array@0.1.4
+│ │ └─┬ UNMET DEPENDENCY socket.io-parser@3.4.0
+│ │   ├── UNMET DEPENDENCY component-emitter@1.2.1
+│ │   ├─┬ UNMET DEPENDENCY debug@4.1.1
+│ │   │ └── UNMET DEPENDENCY ms@2.1.2
+│ │   └── UNMET DEPENDENCY isarray@2.0.1
+│ ├── UNMET DEPENDENCY stack-trace@0.0.10
+│ ├─┬ UNMET DEPENDENCY string-similarity@1.2.2
+│ │ ├── UNMET DEPENDENCY lodash.every@4.6.0
+│ │ ├── UNMET DEPENDENCY lodash.flattendeep@4.4.0
+│ │ ├── UNMET DEPENDENCY lodash.foreach@4.5.0
+│ │ ├── UNMET DEPENDENCY lodash.map@4.6.0
+│ │ └── UNMET DEPENDENCY lodash.maxby@4.6.0
+│ ├─┬ UNMET DEPENDENCY style-loader@0.23.1
+│ │ ├── UNMET DEPENDENCY loader-utils@1.2.3
+│ │ └─┬ UNMET DEPENDENCY schema-utils@1.0.0
+│ │   ├── UNMET DEPENDENCY ajv@6.12.0
+│ │   ├── UNMET DEPENDENCY ajv-errors@1.0.1
+│ │   └── UNMET DEPENDENCY ajv-keywords@3.4.1
+│ ├─┬ UNMET DEPENDENCY terser-webpack-plugin@1.4.3
+│ │ ├─┬ UNMET DEPENDENCY cacache@12.0.3
+│ │ │ ├── UNMET DEPENDENCY bluebird@3.7.2
+│ │ │ ├── UNMET DEPENDENCY chownr@1.1.4
+│ │ │ ├── UNMET DEPENDENCY figgy-pudding@3.5.1
+│ │ │ ├── UNMET DEPENDENCY glob@7.1.6
+│ │ │ ├── UNMET DEPENDENCY graceful-fs@4.2.3
+│ │ │ ├── UNMET DEPENDENCY infer-owner@1.0.4
+│ │ │ ├─┬ UNMET DEPENDENCY lru-cache@5.1.1
+│ │ │ │ └── UNMET DEPENDENCY yallist@3.1.1
+│ │ │ ├─┬ UNMET DEPENDENCY mississippi@3.0.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY concat-stream@1.6.2
+│ │ │ │ │ ├── UNMET DEPENDENCY buffer-from@1.1.1
+│ │ │ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ │ ├── UNMET DEPENDENCY readable-stream@2.3.7
+│ │ │ │ │ └── UNMET DEPENDENCY typedarray@0.0.6
+│ │ │ │ ├─┬ UNMET DEPENDENCY duplexify@3.7.1
+│ │ │ │ │ ├── UNMET DEPENDENCY end-of-stream@1.4.4
+│ │ │ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ │ ├── UNMET DEPENDENCY readable-stream@2.3.7
+│ │ │ │ │ └── UNMET DEPENDENCY stream-shift@1.0.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY end-of-stream@1.4.4
+│ │ │ │ │ └── UNMET DEPENDENCY once@1.4.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY flush-write-stream@1.1.1
+│ │ │ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ │ └── UNMET DEPENDENCY readable-stream@2.3.7
+│ │ │ │ ├── UNMET DEPENDENCY from2@2.3.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY parallel-transform@1.2.0
+│ │ │ │ │ ├── UNMET DEPENDENCY cyclist@1.0.1
+│ │ │ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ │ └── UNMET DEPENDENCY readable-stream@2.3.7
+│ │ │ │ ├── UNMET DEPENDENCY pump@3.0.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY pumpify@1.5.1
+│ │ │ │ │ ├── UNMET DEPENDENCY duplexify@3.7.1
+│ │ │ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ │ └─┬ UNMET DEPENDENCY pump@2.0.1
+│ │ │ │ │   ├── UNMET DEPENDENCY end-of-stream@1.4.4
+│ │ │ │ │   └── UNMET DEPENDENCY once@1.4.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY stream-each@1.2.3
+│ │ │ │ │ ├── UNMET DEPENDENCY end-of-stream@1.4.4
+│ │ │ │ │ └── UNMET DEPENDENCY stream-shift@1.0.1
+│ │ │ │ └── UNMET DEPENDENCY through2@2.0.5
+│ │ │ ├── UNMET DEPENDENCY mkdirp@0.5.1
+│ │ │ ├─┬ UNMET DEPENDENCY move-concurrently@1.0.1
+│ │ │ │ ├── UNMET DEPENDENCY aproba@1.2.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY copy-concurrently@1.0.5
+│ │ │ │ │ ├── UNMET DEPENDENCY aproba@1.2.0
+│ │ │ │ │ ├── UNMET DEPENDENCY fs-write-stream-atomic@1.0.10
+│ │ │ │ │ ├── UNMET DEPENDENCY iferr@0.1.5
+│ │ │ │ │ ├── UNMET DEPENDENCY mkdirp@0.5.1
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY rimraf@2.7.1
+│ │ │ │ │ │ └── UNMET DEPENDENCY glob@7.1.6
+│ │ │ │ │ └── UNMET DEPENDENCY run-queue@1.0.3
+│ │ │ │ ├─┬ UNMET DEPENDENCY fs-write-stream-atomic@1.0.10
+│ │ │ │ │ ├── UNMET DEPENDENCY graceful-fs@4.2.3
+│ │ │ │ │ ├── UNMET DEPENDENCY iferr@0.1.5
+│ │ │ │ │ ├── UNMET DEPENDENCY imurmurhash@0.1.4
+│ │ │ │ │ └── UNMET DEPENDENCY readable-stream@2.3.7
+│ │ │ │ ├── UNMET DEPENDENCY mkdirp@0.5.1
+│ │ │ │ ├─┬ UNMET DEPENDENCY rimraf@2.7.1
+│ │ │ │ │ └── UNMET DEPENDENCY glob@7.1.6
+│ │ │ │ └─┬ UNMET DEPENDENCY run-queue@1.0.3
+│ │ │ │   └── UNMET DEPENDENCY aproba@1.2.0
+│ │ │ ├── UNMET DEPENDENCY promise-inflight@1.0.1
+│ │ │ ├─┬ UNMET DEPENDENCY rimraf@2.7.1
+│ │ │ │ └── UNMET DEPENDENCY glob@7.1.6
+│ │ │ ├─┬ UNMET DEPENDENCY ssri@6.0.1
+│ │ │ │ └── UNMET DEPENDENCY figgy-pudding@3.5.1
+│ │ │ ├─┬ UNMET DEPENDENCY unique-filename@1.1.1
+│ │ │ │ └─┬ UNMET DEPENDENCY unique-slug@2.0.2
+│ │ │ │   └── UNMET DEPENDENCY imurmurhash@0.1.4
+│ │ │ └── UNMET DEPENDENCY y18n@4.0.0
+│ │ ├── UNMET DEPENDENCY find-cache-dir@2.1.0
+│ │ ├── UNMET DEPENDENCY is-wsl@1.1.0
+│ │ ├─┬ UNMET DEPENDENCY schema-utils@1.0.0
+│ │ │ ├── UNMET DEPENDENCY ajv@6.12.0
+│ │ │ ├── UNMET DEPENDENCY ajv-errors@1.0.1
+│ │ │ └── UNMET DEPENDENCY ajv-keywords@3.4.1
+│ │ ├── UNMET DEPENDENCY serialize-javascript@2.1.2
+│ │ ├── UNMET DEPENDENCY source-map@0.6.1
+│ │ ├─┬ UNMET DEPENDENCY terser@4.6.6
+│ │ │ ├── UNMET DEPENDENCY commander@2.20.3
+│ │ │ ├── UNMET DEPENDENCY source-map@0.6.1
+│ │ │ └─┬ UNMET DEPENDENCY source-map-support@0.5.16
+│ │ │   ├── UNMET DEPENDENCY buffer-from@1.1.1
+│ │ │   └── UNMET DEPENDENCY source-map@0.6.1
+│ │ ├── UNMET DEPENDENCY webpack-sources@1.4.3
+│ │ └─┬ UNMET DEPENDENCY worker-farm@1.7.0
+│ │   └─┬ UNMET DEPENDENCY errno@0.1.7
+│ │     └── UNMET DEPENDENCY prr@1.0.1
+│ ├── UNMET DEPENDENCY true-case-path@2.2.1
+│ ├── UNMET DEPENDENCY type-of@2.0.1
+│ ├─┬ UNMET DEPENDENCY url-loader@1.1.2
+│ │ ├── UNMET DEPENDENCY loader-utils@1.2.3
+│ │ ├── UNMET DEPENDENCY mime@2.4.4
+│ │ └─┬ UNMET DEPENDENCY schema-utils@1.0.0
+│ │   ├── UNMET DEPENDENCY ajv@6.12.0
+│ │   ├── UNMET DEPENDENCY ajv-errors@1.0.1
+│ │   └── UNMET DEPENDENCY ajv-keywords@3.4.1
+│ ├─┬ UNMET DEPENDENCY util.promisify@1.0.1
+│ │ ├─┬ UNMET DEPENDENCY define-properties@1.1.3
+│ │ │ └── UNMET DEPENDENCY object-keys@1.1.1
+│ │ ├─┬ UNMET DEPENDENCY es-abstract@1.17.4
+│ │ │ ├─┬ UNMET DEPENDENCY es-to-primitive@1.2.1
+│ │ │ │ ├── UNMET DEPENDENCY is-callable@1.1.5
+│ │ │ │ ├── UNMET DEPENDENCY is-date-object@1.0.2
+│ │ │ │ └─┬ UNMET DEPENDENCY is-symbol@1.0.3
+│ │ │ │   └── UNMET DEPENDENCY has-symbols@1.0.1
+│ │ │ ├── UNMET DEPENDENCY function-bind@1.1.1
+│ │ │ ├── UNMET DEPENDENCY has@1.0.3
+│ │ │ ├── UNMET DEPENDENCY has-symbols@1.0.1
+│ │ │ ├── UNMET DEPENDENCY is-callable@1.1.5
+│ │ │ ├─┬ UNMET DEPENDENCY is-regex@1.0.5
+│ │ │ │ └── UNMET DEPENDENCY has@1.0.3
+│ │ │ ├── UNMET DEPENDENCY object-inspect@1.7.0
+│ │ │ ├── UNMET DEPENDENCY object-keys@1.1.1
+│ │ │ ├── UNMET DEPENDENCY object.assign@4.1.0
+│ │ │ ├─┬ UNMET DEPENDENCY string.prototype.trimleft@2.1.1
+│ │ │ │ ├── UNMET DEPENDENCY define-properties@1.1.3
+│ │ │ │ └── UNMET DEPENDENCY function-bind@1.1.1
+│ │ │ └─┬ UNMET DEPENDENCY string.prototype.trimright@2.1.1
+│ │ │   ├── UNMET DEPENDENCY define-properties@1.1.3
+│ │ │   └── UNMET DEPENDENCY function-bind@1.1.1
+│ │ ├── UNMET DEPENDENCY has-symbols@1.0.1
+│ │ └─┬ UNMET DEPENDENCY object.getownpropertydescriptors@2.1.0
+│ │   ├── UNMET DEPENDENCY define-properties@1.1.3
+│ │   └── UNMET DEPENDENCY es-abstract@1.17.4
+│ ├── UNMET DEPENDENCY uuid@3.4.0
+│ ├── UNMET DEPENDENCY v8-compile-cache@1.1.2
+│ ├─┬ UNMET DEPENDENCY webpack@4.41.6
+│ │ ├─┬ UNMET DEPENDENCY @webassemblyjs/ast@1.8.5
+│ │ │ ├── UNMET DEPENDENCY @webassemblyjs/helper-module-context@1.8.5
+│ │ │ ├── UNMET DEPENDENCY @webassemblyjs/helper-wasm-bytecode@1.8.5
+│ │ │ └─┬ UNMET DEPENDENCY @webassemblyjs/wast-parser@1.8.5
+│ │ │   ├── UNMET DEPENDENCY @webassemblyjs/ast@1.8.5
+│ │ │   ├── UNMET DEPENDENCY @webassemblyjs/floating-point-hex-parser@1.8.5
+│ │ │   ├── UNMET DEPENDENCY @webassemblyjs/helper-api-error@1.8.5
+│ │ │   ├─┬ UNMET DEPENDENCY @webassemblyjs/helper-code-frame@1.8.5
+│ │ │   │ └── UNMET DEPENDENCY @webassemblyjs/wast-printer@1.8.5
+│ │ │   ├── UNMET DEPENDENCY @webassemblyjs/helper-fsm@1.8.5
+│ │ │   └── UNMET DEPENDENCY @xtuc/long@4.2.2
+│ │ ├─┬ UNMET DEPENDENCY @webassemblyjs/helper-module-context@1.8.5
+│ │ │ ├── UNMET DEPENDENCY @webassemblyjs/ast@1.8.5
+│ │ │ └── UNMET DEPENDENCY mamacro@0.0.3
+│ │ ├─┬ UNMET DEPENDENCY @webassemblyjs/wasm-edit@1.8.5
+│ │ │ ├── UNMET DEPENDENCY @webassemblyjs/ast@1.8.5
+│ │ │ ├── UNMET DEPENDENCY @webassemblyjs/helper-buffer@1.8.5
+│ │ │ ├── UNMET DEPENDENCY @webassemblyjs/helper-wasm-bytecode@1.8.5
+│ │ │ ├─┬ UNMET DEPENDENCY @webassemblyjs/helper-wasm-section@1.8.5
+│ │ │ │ ├── UNMET DEPENDENCY @webassemblyjs/ast@1.8.5
+│ │ │ │ ├── UNMET DEPENDENCY @webassemblyjs/helper-buffer@1.8.5
+│ │ │ │ ├── UNMET DEPENDENCY @webassemblyjs/helper-wasm-bytecode@1.8.5
+│ │ │ │ └── UNMET DEPENDENCY @webassemblyjs/wasm-gen@1.8.5
+│ │ │ ├─┬ UNMET DEPENDENCY @webassemblyjs/wasm-gen@1.8.5
+│ │ │ │ ├── UNMET DEPENDENCY @webassemblyjs/ast@1.8.5
+│ │ │ │ ├── UNMET DEPENDENCY @webassemblyjs/helper-wasm-bytecode@1.8.5
+│ │ │ │ ├── UNMET DEPENDENCY @webassemblyjs/ieee754@1.8.5
+│ │ │ │ ├── UNMET DEPENDENCY @webassemblyjs/leb128@1.8.5
+│ │ │ │ └── UNMET DEPENDENCY @webassemblyjs/utf8@1.8.5
+│ │ │ ├─┬ UNMET DEPENDENCY @webassemblyjs/wasm-opt@1.8.5
+│ │ │ │ ├── UNMET DEPENDENCY @webassemblyjs/ast@1.8.5
+│ │ │ │ ├── UNMET DEPENDENCY @webassemblyjs/helper-buffer@1.8.5
+│ │ │ │ ├── UNMET DEPENDENCY @webassemblyjs/wasm-gen@1.8.5
+│ │ │ │ └── UNMET DEPENDENCY @webassemblyjs/wasm-parser@1.8.5
+│ │ │ ├── UNMET DEPENDENCY @webassemblyjs/wasm-parser@1.8.5
+│ │ │ └─┬ UNMET DEPENDENCY @webassemblyjs/wast-printer@1.8.5
+│ │ │   ├── UNMET DEPENDENCY @webassemblyjs/ast@1.8.5
+│ │ │   ├── UNMET DEPENDENCY @webassemblyjs/wast-parser@1.8.5
+│ │ │   └── UNMET DEPENDENCY @xtuc/long@4.2.2
+│ │ ├─┬ UNMET DEPENDENCY @webassemblyjs/wasm-parser@1.8.5
+│ │ │ ├── UNMET DEPENDENCY @webassemblyjs/ast@1.8.5
+│ │ │ ├── UNMET DEPENDENCY @webassemblyjs/helper-api-error@1.8.5
+│ │ │ ├── UNMET DEPENDENCY @webassemblyjs/helper-wasm-bytecode@1.8.5
+│ │ │ ├─┬ UNMET DEPENDENCY @webassemblyjs/ieee754@1.8.5
+│ │ │ │ └── UNMET DEPENDENCY @xtuc/ieee754@1.2.0
+│ │ │ ├─┬ UNMET DEPENDENCY @webassemblyjs/leb128@1.8.5
+│ │ │ │ └── UNMET DEPENDENCY @xtuc/long@4.2.2
+│ │ │ └── UNMET DEPENDENCY @webassemblyjs/utf8@1.8.5
+│ │ ├── UNMET DEPENDENCY acorn@6.4.1
+│ │ ├── UNMET DEPENDENCY ajv@6.12.0
+│ │ ├── UNMET DEPENDENCY ajv-keywords@3.4.1
+│ │ ├─┬ UNMET DEPENDENCY chrome-trace-event@1.0.2
+│ │ │ └── UNMET DEPENDENCY tslib@1.11.1
+│ │ ├─┬ UNMET DEPENDENCY enhanced-resolve@4.1.1
+│ │ │ ├── UNMET DEPENDENCY graceful-fs@4.2.3
+│ │ │ ├─┬ UNMET DEPENDENCY memory-fs@0.5.0
+│ │ │ │ ├── UNMET DEPENDENCY errno@0.1.7
+│ │ │ │ └── UNMET DEPENDENCY readable-stream@2.3.7
+│ │ │ └── UNMET DEPENDENCY tapable@1.1.3
+│ │ ├─┬ UNMET DEPENDENCY eslint-scope@4.0.3
+│ │ │ ├── UNMET DEPENDENCY esrecurse@4.2.1
+│ │ │ └── UNMET DEPENDENCY estraverse@4.3.0
+│ │ ├── UNMET DEPENDENCY json-parse-better-errors@1.0.2
+│ │ ├── UNMET DEPENDENCY loader-runner@2.4.0
+│ │ ├── UNMET DEPENDENCY loader-utils@1.2.3
+│ │ ├─┬ UNMET DEPENDENCY memory-fs@0.4.1
+│ │ │ ├── UNMET DEPENDENCY errno@0.1.7
+│ │ │ └── UNMET DEPENDENCY readable-stream@2.3.7
+│ │ ├── UNMET DEPENDENCY micromatch@3.1.10
+│ │ ├── UNMET DEPENDENCY mkdirp@0.5.1
+│ │ ├── UNMET DEPENDENCY neo-async@2.6.1
+│ │ ├─┬ UNMET DEPENDENCY node-libs-browser@2.2.1
+│ │ │ ├─┬ UNMET DEPENDENCY assert@1.5.0
+│ │ │ │ ├── UNMET DEPENDENCY object-assign@4.1.1
+│ │ │ │ └─┬ UNMET DEPENDENCY util@0.10.3
+│ │ │ │   └── UNMET DEPENDENCY inherits@2.0.1
+│ │ │ ├─┬ UNMET DEPENDENCY browserify-zlib@0.2.0
+│ │ │ │ └── UNMET DEPENDENCY pako@1.0.11
+│ │ │ ├─┬ UNMET DEPENDENCY buffer@4.9.2
+│ │ │ │ ├── UNMET DEPENDENCY base64-js@1.3.1
+│ │ │ │ ├── UNMET DEPENDENCY ieee754@1.1.13
+│ │ │ │ └── UNMET DEPENDENCY isarray@1.0.0
+│ │ │ ├── UNMET DEPENDENCY console-browserify@1.2.0
+│ │ │ ├── UNMET DEPENDENCY constants-browserify@1.0.0
+│ │ │ ├─┬ UNMET DEPENDENCY crypto-browserify@3.12.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY browserify-cipher@1.0.1
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY browserify-aes@1.2.0
+│ │ │ │ │ │ ├── UNMET DEPENDENCY buffer-xor@1.0.3
+│ │ │ │ │ │ ├── UNMET DEPENDENCY cipher-base@1.0.4
+│ │ │ │ │ │ ├── UNMET DEPENDENCY create-hash@1.2.0
+│ │ │ │ │ │ ├── UNMET DEPENDENCY evp_bytestokey@1.0.3
+│ │ │ │ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ │ │ └── UNMET DEPENDENCY safe-buffer@5.1.2
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY browserify-des@1.0.2
+│ │ │ │ │ │ ├── UNMET DEPENDENCY cipher-base@1.0.4
+│ │ │ │ │ │ ├─┬ UNMET DEPENDENCY des.js@1.0.1
+│ │ │ │ │ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ │ │ │ └── UNMET DEPENDENCY minimalistic-assert@1.0.1
+│ │ │ │ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ │ │ └── UNMET DEPENDENCY safe-buffer@5.1.2
+│ │ │ │ │ └─┬ UNMET DEPENDENCY evp_bytestokey@1.0.3
+│ │ │ │ │   ├── UNMET DEPENDENCY md5.js@1.3.5
+│ │ │ │ │   └── UNMET DEPENDENCY safe-buffer@5.1.2
+│ │ │ │ ├─┬ UNMET DEPENDENCY browserify-sign@4.0.4
+│ │ │ │ │ ├── UNMET DEPENDENCY bn.js@4.11.8
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY browserify-rsa@4.0.1
+│ │ │ │ │ │ ├── UNMET DEPENDENCY bn.js@4.11.8
+│ │ │ │ │ │ └── UNMET DEPENDENCY randombytes@2.1.0
+│ │ │ │ │ ├── UNMET DEPENDENCY create-hash@1.2.0
+│ │ │ │ │ ├── UNMET DEPENDENCY create-hmac@1.1.7
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY elliptic@6.5.2
+│ │ │ │ │ │ ├── UNMET DEPENDENCY bn.js@4.11.8
+│ │ │ │ │ │ ├── UNMET DEPENDENCY brorand@1.1.0
+│ │ │ │ │ │ ├─┬ UNMET DEPENDENCY hash.js@1.1.7
+│ │ │ │ │ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ │ │ │ └── UNMET DEPENDENCY minimalistic-assert@1.0.1
+│ │ │ │ │ │ ├─┬ UNMET DEPENDENCY hmac-drbg@1.0.1
+│ │ │ │ │ │ │ ├── UNMET DEPENDENCY hash.js@1.1.7
+│ │ │ │ │ │ │ ├── UNMET DEPENDENCY minimalistic-assert@1.0.1
+│ │ │ │ │ │ │ └── UNMET DEPENDENCY minimalistic-crypto-utils@1.0.1
+│ │ │ │ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ │ │ ├── UNMET DEPENDENCY minimalistic-assert@1.0.1
+│ │ │ │ │ │ └── UNMET DEPENDENCY minimalistic-crypto-utils@1.0.1
+│ │ │ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ │ └─┬ UNMET DEPENDENCY parse-asn1@5.1.5
+│ │ │ │ │   ├─┬ UNMET DEPENDENCY asn1.js@4.10.1
+│ │ │ │ │   │ ├── UNMET DEPENDENCY bn.js@4.11.8
+│ │ │ │ │   │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ │   │ └── UNMET DEPENDENCY minimalistic-assert@1.0.1
+│ │ │ │ │   ├── UNMET DEPENDENCY browserify-aes@1.2.0
+│ │ │ │ │   ├── UNMET DEPENDENCY create-hash@1.2.0
+│ │ │ │ │   ├── UNMET DEPENDENCY evp_bytestokey@1.0.3
+│ │ │ │ │   ├── UNMET DEPENDENCY pbkdf2@3.0.17
+│ │ │ │ │   └── UNMET DEPENDENCY safe-buffer@5.1.2
+│ │ │ │ ├─┬ UNMET DEPENDENCY create-ecdh@4.0.3
+│ │ │ │ │ ├── UNMET DEPENDENCY bn.js@4.11.8
+│ │ │ │ │ └── UNMET DEPENDENCY elliptic@6.5.2
+│ │ │ │ ├─┬ UNMET DEPENDENCY create-hash@1.2.0
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY cipher-base@1.0.4
+│ │ │ │ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ │ │ └── UNMET DEPENDENCY safe-buffer@5.1.2
+│ │ │ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY md5.js@1.3.5
+│ │ │ │ │ │ ├─┬ UNMET DEPENDENCY hash-base@3.0.4
+│ │ │ │ │ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ │ │ │ └── UNMET DEPENDENCY safe-buffer@5.1.2
+│ │ │ │ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ │ │ └── UNMET DEPENDENCY safe-buffer@5.1.2
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY ripemd160@2.0.2
+│ │ │ │ │ │ ├── UNMET DEPENDENCY hash-base@3.0.4
+│ │ │ │ │ │ └── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ │ └─┬ UNMET DEPENDENCY sha.js@2.4.11
+│ │ │ │ │   ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ │   └── UNMET DEPENDENCY safe-buffer@5.1.2
+│ │ │ │ ├─┬ UNMET DEPENDENCY create-hmac@1.1.7
+│ │ │ │ │ ├── UNMET DEPENDENCY cipher-base@1.0.4
+│ │ │ │ │ ├── UNMET DEPENDENCY create-hash@1.2.0
+│ │ │ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ │ ├── UNMET DEPENDENCY ripemd160@2.0.2
+│ │ │ │ │ ├── UNMET DEPENDENCY safe-buffer@5.1.2
+│ │ │ │ │ └── UNMET DEPENDENCY sha.js@2.4.11
+│ │ │ │ ├─┬ UNMET DEPENDENCY diffie-hellman@5.0.3
+│ │ │ │ │ ├── UNMET DEPENDENCY bn.js@4.11.8
+│ │ │ │ │ ├─┬ UNMET DEPENDENCY miller-rabin@4.0.1
+│ │ │ │ │ │ ├── UNMET DEPENDENCY bn.js@4.11.8
+│ │ │ │ │ │ └── UNMET DEPENDENCY brorand@1.1.0
+│ │ │ │ │ └── UNMET DEPENDENCY randombytes@2.1.0
+│ │ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ ├─┬ UNMET DEPENDENCY pbkdf2@3.0.17
+│ │ │ │ │ ├── UNMET DEPENDENCY create-hash@1.2.0
+│ │ │ │ │ ├── UNMET DEPENDENCY create-hmac@1.1.7
+│ │ │ │ │ ├── UNMET DEPENDENCY ripemd160@2.0.2
+│ │ │ │ │ ├── UNMET DEPENDENCY safe-buffer@5.1.2
+│ │ │ │ │ └── UNMET DEPENDENCY sha.js@2.4.11
+│ │ │ │ ├─┬ UNMET DEPENDENCY public-encrypt@4.0.3
+│ │ │ │ │ ├── UNMET DEPENDENCY bn.js@4.11.8
+│ │ │ │ │ ├── UNMET DEPENDENCY browserify-rsa@4.0.1
+│ │ │ │ │ ├── UNMET DEPENDENCY create-hash@1.2.0
+│ │ │ │ │ ├── UNMET DEPENDENCY parse-asn1@5.1.5
+│ │ │ │ │ ├── UNMET DEPENDENCY randombytes@2.1.0
+│ │ │ │ │ └── UNMET DEPENDENCY safe-buffer@5.1.2
+│ │ │ │ ├─┬ UNMET DEPENDENCY randombytes@2.1.0
+│ │ │ │ │ └── UNMET DEPENDENCY safe-buffer@5.1.2
+│ │ │ │ └─┬ UNMET DEPENDENCY randomfill@1.0.4
+│ │ │ │   ├── UNMET DEPENDENCY randombytes@2.1.0
+│ │ │ │   └── UNMET DEPENDENCY safe-buffer@5.1.2
+│ │ │ ├── UNMET DEPENDENCY domain-browser@1.2.0
+│ │ │ ├── UNMET DEPENDENCY events@3.1.0
+│ │ │ ├── UNMET DEPENDENCY https-browserify@1.0.0
+│ │ │ ├── UNMET DEPENDENCY os-browserify@0.3.0
+│ │ │ ├── UNMET DEPENDENCY path-browserify@0.0.1
+│ │ │ ├── UNMET DEPENDENCY process@0.11.10
+│ │ │ ├── UNMET DEPENDENCY punycode@1.4.1
+│ │ │ ├── UNMET DEPENDENCY querystring-es3@0.2.1
+│ │ │ ├── UNMET DEPENDENCY readable-stream@2.3.7
+│ │ │ ├─┬ UNMET DEPENDENCY stream-browserify@2.0.2
+│ │ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ └── UNMET DEPENDENCY readable-stream@2.3.7
+│ │ │ ├─┬ UNMET DEPENDENCY stream-http@2.8.3
+│ │ │ │ ├── UNMET DEPENDENCY builtin-status-codes@3.0.0
+│ │ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ ├── UNMET DEPENDENCY readable-stream@2.3.7
+│ │ │ │ ├── UNMET DEPENDENCY to-arraybuffer@1.0.1
+│ │ │ │ └── UNMET DEPENDENCY xtend@4.0.2
+│ │ │ ├─┬ UNMET DEPENDENCY string_decoder@1.1.1
+│ │ │ │ └── UNMET DEPENDENCY safe-buffer@5.1.2
+│ │ │ ├─┬ UNMET DEPENDENCY timers-browserify@2.0.11
+│ │ │ │ └── UNMET DEPENDENCY setimmediate@1.0.5
+│ │ │ ├── UNMET DEPENDENCY tty-browserify@0.0.0
+│ │ │ ├── UNMET DEPENDENCY url@0.11.0
+│ │ │ ├─┬ UNMET DEPENDENCY util@0.11.1
+│ │ │ │ └── UNMET DEPENDENCY inherits@2.0.3
+│ │ │ └── UNMET DEPENDENCY vm-browserify@1.1.2
+│ │ ├─┬ UNMET DEPENDENCY schema-utils@1.0.0
+│ │ │ ├── UNMET DEPENDENCY ajv@6.12.0
+│ │ │ ├── UNMET DEPENDENCY ajv-errors@1.0.1
+│ │ │ └── UNMET DEPENDENCY ajv-keywords@3.4.1
+│ │ ├── UNMET DEPENDENCY tapable@1.1.3
+│ │ ├── UNMET DEPENDENCY terser-webpack-plugin@1.4.3
+│ │ ├─┬ UNMET DEPENDENCY watchpack@1.6.0
+│ │ │ ├─┬ UNMET DEPENDENCY chokidar@2.1.8
+│ │ │ │ ├── UNMET DEPENDENCY anymatch@2.0.0
+│ │ │ │ ├── UNMET DEPENDENCY async-each@1.0.3
+│ │ │ │ ├── UNMET DEPENDENCY braces@2.3.2
+│ │ │ │ ├── UNMET OPTIONAL DEPENDENCY fsevents@1.2.11
+│ │ │ │ ├── UNMET DEPENDENCY glob-parent@3.1.0
+│ │ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ │ ├── UNMET DEPENDENCY is-binary-path@1.0.1
+│ │ │ │ ├── UNMET DEPENDENCY is-glob@4.0.1
+│ │ │ │ ├── UNMET DEPENDENCY normalize-path@3.0.0
+│ │ │ │ ├── UNMET DEPENDENCY path-is-absolute@1.0.1
+│ │ │ │ ├── UNMET DEPENDENCY readdirp@2.2.1
+│ │ │ │ └── UNMET DEPENDENCY upath@1.2.0
+│ │ │ ├── UNMET DEPENDENCY graceful-fs@4.2.3
+│ │ │ └── UNMET DEPENDENCY neo-async@2.6.1
+│ │ └── UNMET DEPENDENCY webpack-sources@1.4.3
+│ ├─┬ UNMET DEPENDENCY webpack-dev-middleware@3.7.2
+│ │ ├── UNMET DEPENDENCY memory-fs@0.4.1
+│ │ ├── UNMET DEPENDENCY mime@2.4.4
+│ │ ├── UNMET DEPENDENCY mkdirp@0.5.1
+│ │ ├── UNMET DEPENDENCY range-parser@1.2.1
+│ │ └─┬ UNMET DEPENDENCY webpack-log@2.0.0
+│ │   ├── UNMET DEPENDENCY ansi-colors@3.2.4
+│ │   └── UNMET DEPENDENCY uuid@3.4.0
+│ ├─┬ UNMET DEPENDENCY webpack-dev-server@3.10.3
+│ │ ├── UNMET DEPENDENCY ansi-html@0.0.7
+│ │ ├─┬ UNMET DEPENDENCY bonjour@3.5.0
+│ │ │ ├── UNMET DEPENDENCY array-flatten@2.1.2
+│ │ │ ├── UNMET DEPENDENCY deep-equal@1.1.1
+│ │ │ ├── UNMET DEPENDENCY dns-equal@1.0.0
+│ │ │ ├─┬ UNMET DEPENDENCY dns-txt@2.0.2
+│ │ │ │ └── UNMET DEPENDENCY buffer-indexof@1.1.1
+│ │ │ ├─┬ UNMET DEPENDENCY multicast-dns@6.2.3
+│ │ │ │ ├─┬ UNMET DEPENDENCY dns-packet@1.3.1
+│ │ │ │ │ ├── UNMET DEPENDENCY ip@1.1.5
+│ │ │ │ │ └── UNMET DEPENDENCY safe-buffer@5.1.2
+│ │ │ │ └── UNMET DEPENDENCY thunky@1.1.0
+│ │ │ └── UNMET DEPENDENCY multicast-dns-service-types@1.1.0
+│ │ ├─┬ UNMET DEPENDENCY chokidar@2.1.8
+│ │ │ ├── UNMET DEPENDENCY anymatch@2.0.0
+│ │ │ ├── UNMET DEPENDENCY async-each@1.0.3
+│ │ │ ├── UNMET DEPENDENCY braces@2.3.2
+│ │ │ ├── UNMET OPTIONAL DEPENDENCY fsevents@1.2.11
+│ │ │ ├── UNMET DEPENDENCY glob-parent@3.1.0
+│ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ ├── UNMET DEPENDENCY is-binary-path@1.0.1
+│ │ │ ├── UNMET DEPENDENCY is-glob@4.0.1
+│ │ │ ├── UNMET DEPENDENCY normalize-path@3.0.0
+│ │ │ ├── UNMET DEPENDENCY path-is-absolute@1.0.1
+│ │ │ ├── UNMET DEPENDENCY readdirp@2.2.1
+│ │ │ └── UNMET DEPENDENCY upath@1.2.0
+│ │ ├── UNMET DEPENDENCY compression@1.7.4
+│ │ ├── UNMET DEPENDENCY connect-history-api-fallback@1.6.0
+│ │ ├─┬ UNMET DEPENDENCY debug@4.1.1
+│ │ │ └── UNMET DEPENDENCY ms@2.1.2
+│ │ ├─┬ UNMET DEPENDENCY del@4.1.1
+│ │ │ ├── UNMET DEPENDENCY @types/glob@7.1.1
+│ │ │ ├─┬ UNMET DEPENDENCY globby@6.1.0
+│ │ │ │ ├── UNMET DEPENDENCY array-union@1.0.2
+│ │ │ │ ├── UNMET DEPENDENCY glob@7.1.6
+│ │ │ │ ├── UNMET DEPENDENCY object-assign@4.1.1
+│ │ │ │ ├── UNMET DEPENDENCY pify@2.3.0
+│ │ │ │ └─┬ UNMET DEPENDENCY pinkie-promise@2.0.1
+│ │ │ │   └── UNMET DEPENDENCY pinkie@2.0.4
+│ │ │ ├── UNMET DEPENDENCY is-path-cwd@2.2.0
+│ │ │ ├─┬ UNMET DEPENDENCY is-path-in-cwd@2.1.0
+│ │ │ │ └─┬ UNMET DEPENDENCY is-path-inside@2.1.0
+│ │ │ │   └── UNMET DEPENDENCY path-is-inside@1.0.2
+│ │ │ ├── UNMET DEPENDENCY p-map@2.1.0
+│ │ │ ├── UNMET DEPENDENCY pify@4.0.1
+│ │ │ └─┬ UNMET DEPENDENCY rimraf@2.7.1
+│ │ │   └── UNMET DEPENDENCY glob@7.1.6
+│ │ ├── UNMET DEPENDENCY express@4.17.1
+│ │ ├── UNMET DEPENDENCY html-entities@1.2.1
+│ │ ├─┬ UNMET DEPENDENCY http-proxy-middleware@0.19.1
+│ │ │ ├─┬ UNMET DEPENDENCY http-proxy@1.18.0
+│ │ │ │ ├── UNMET DEPENDENCY eventemitter3@4.0.0
+│ │ │ │ ├── UNMET DEPENDENCY follow-redirects@1.5.10
+│ │ │ │ └── UNMET DEPENDENCY requires-port@1.0.0
+│ │ │ ├── UNMET DEPENDENCY is-glob@4.0.1
+│ │ │ ├── UNMET DEPENDENCY lodash@4.17.15
+│ │ │ └── UNMET DEPENDENCY micromatch@3.1.10
+│ │ ├─┬ UNMET DEPENDENCY import-local@2.0.0
+│ │ │ ├── UNMET DEPENDENCY pkg-dir@3.0.0
+│ │ │ └── UNMET DEPENDENCY resolve-cwd@2.0.0
+│ │ ├─┬ UNMET DEPENDENCY internal-ip@4.3.0
+│ │ │ ├─┬ UNMET DEPENDENCY default-gateway@4.2.0
+│ │ │ │ ├─┬ UNMET DEPENDENCY execa@1.0.0
+│ │ │ │ │ ├── UNMET DEPENDENCY cross-spawn@6.0.5
+│ │ │ │ │ ├── UNMET DEPENDENCY get-stream@4.1.0
+│ │ │ │ │ ├── UNMET DEPENDENCY is-stream@1.1.0
+│ │ │ │ │ ├── UNMET DEPENDENCY npm-run-path@2.0.2
+│ │ │ │ │ ├── UNMET DEPENDENCY p-finally@1.0.0
+│ │ │ │ │ ├── UNMET DEPENDENCY signal-exit@3.0.2
+│ │ │ │ │ └── UNMET DEPENDENCY strip-eof@1.0.0
+│ │ │ │ └── UNMET DEPENDENCY ip-regex@2.1.0
+│ │ │ └── UNMET DEPENDENCY ipaddr.js@1.9.1
+│ │ ├── UNMET DEPENDENCY ip@1.1.5
+│ │ ├── UNMET DEPENDENCY is-absolute-url@3.0.3
+│ │ ├── UNMET DEPENDENCY killable@1.0.1
+│ │ ├── UNMET DEPENDENCY loglevel@1.6.7
+│ │ ├─┬ UNMET DEPENDENCY opn@5.5.0
+│ │ │ └── UNMET DEPENDENCY is-wsl@1.1.0
+│ │ ├─┬ UNMET DEPENDENCY p-retry@3.0.1
+│ │ │ └── UNMET DEPENDENCY retry@0.12.0
+│ │ ├─┬ UNMET DEPENDENCY portfinder@1.0.25
+│ │ │ ├─┬ UNMET DEPENDENCY async@2.6.3
+│ │ │ │ └── UNMET DEPENDENCY lodash@4.17.15
+│ │ │ ├── UNMET DEPENDENCY debug@3.2.6
+│ │ │ └── UNMET DEPENDENCY mkdirp@0.5.1
+│ │ ├─┬ UNMET DEPENDENCY schema-utils@1.0.0
+│ │ │ ├── UNMET DEPENDENCY ajv@6.12.0
+│ │ │ ├── UNMET DEPENDENCY ajv-errors@1.0.1
+│ │ │ └── UNMET DEPENDENCY ajv-keywords@3.4.1
+│ │ ├─┬ UNMET DEPENDENCY selfsigned@1.10.7
+│ │ │ └── UNMET DEPENDENCY node-forge@0.9.0
+│ │ ├── UNMET DEPENDENCY semver@6.3.0
+│ │ ├─┬ UNMET DEPENDENCY serve-index@1.9.1
+│ │ │ ├── UNMET DEPENDENCY accepts@1.3.7
+│ │ │ ├── UNMET DEPENDENCY batch@0.6.1
+│ │ │ ├─┬ UNMET DEPENDENCY debug@2.6.9
+│ │ │ │ └── UNMET DEPENDENCY ms@2.0.0
+│ │ │ ├── UNMET DEPENDENCY escape-html@1.0.3
+│ │ │ ├─┬ UNMET DEPENDENCY http-errors@1.6.3
+│ │ │ │ ├── UNMET DEPENDENCY depd@1.1.2
+│ │ │ │ ├── UNMET DEPENDENCY inherits@2.0.3
+│ │ │ │ ├── UNMET DEPENDENCY setprototypeof@1.1.0
+│ │ │ │ └── UNMET DEPENDENCY statuses@1.5.0
+│ │ │ ├── UNMET DEPENDENCY mime-types@2.1.26
+│ │ │ └── UNMET DEPENDENCY parseurl@1.3.3
+│ │ ├─┬ UNMET DEPENDENCY sockjs@0.3.19
+│ │ │ ├─┬ UNMET DEPENDENCY faye-websocket@0.10.0
+│ │ │ │ └── UNMET DEPENDENCY websocket-driver@0.7.3
+│ │ │ └── UNMET DEPENDENCY uuid@3.4.0
+│ │ ├─┬ UNMET DEPENDENCY sockjs-client@1.4.0
+│ │ │ ├── UNMET DEPENDENCY debug@3.2.6
+│ │ │ ├─┬ UNMET DEPENDENCY eventsource@1.0.7
+│ │ │ │ └── UNMET DEPENDENCY original@1.0.2
+│ │ │ ├── UNMET DEPENDENCY faye-websocket@0.11.3
+│ │ │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │ ├── UNMET DEPENDENCY json3@3.3.3
+│ │ │ └── UNMET DEPENDENCY url-parse@1.4.7
+│ │ ├─┬ UNMET DEPENDENCY spdy@4.0.1
+│ │ │ ├─┬ UNMET DEPENDENCY debug@4.1.1
+│ │ │ │ └── UNMET DEPENDENCY ms@2.1.2
+│ │ │ ├── UNMET DEPENDENCY handle-thing@2.0.0
+│ │ │ ├── UNMET DEPENDENCY http-deceiver@1.2.7
+│ │ │ ├── UNMET DEPENDENCY select-hose@2.0.0
+│ │ │ └─┬ UNMET DEPENDENCY spdy-transport@3.0.0
+│ │ │   ├─┬ UNMET DEPENDENCY debug@4.1.1
+│ │ │   │ └── UNMET DEPENDENCY ms@2.1.2
+│ │ │   ├── UNMET DEPENDENCY detect-node@2.0.4
+│ │ │   ├─┬ UNMET DEPENDENCY hpack.js@2.1.6
+│ │ │   │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │   │ ├── UNMET DEPENDENCY obuf@1.1.2
+│ │ │   │ ├── UNMET DEPENDENCY readable-stream@2.3.7
+│ │ │   │ └── UNMET DEPENDENCY wbuf@1.7.3
+│ │ │   ├── UNMET DEPENDENCY obuf@1.1.2
+│ │ │   ├─┬ UNMET DEPENDENCY readable-stream@3.6.0
+│ │ │   │ ├── UNMET DEPENDENCY inherits@2.0.4
+│ │ │   │ ├── UNMET DEPENDENCY string_decoder@1.1.1
+│ │ │   │ └── UNMET DEPENDENCY util-deprecate@1.0.2
+│ │ │   └─┬ UNMET DEPENDENCY wbuf@1.7.3
+│ │ │     └── UNMET DEPENDENCY minimalistic-assert@1.0.1
+│ │ ├── UNMET DEPENDENCY strip-ansi@3.0.1
+│ │ ├─┬ UNMET DEPENDENCY supports-color@6.1.0
+│ │ │ └── UNMET DEPENDENCY has-flag@3.0.0
+│ │ ├─┬ UNMET DEPENDENCY url@0.11.0
+│ │ │ ├── UNMET DEPENDENCY punycode@1.3.2
+│ │ │ └── UNMET DEPENDENCY querystring@0.2.0
+│ │ ├── UNMET DEPENDENCY webpack-dev-middleware@3.7.2
+│ │ ├── UNMET DEPENDENCY webpack-log@2.0.0
+│ │ ├─┬ UNMET DEPENDENCY ws@6.2.1
+│ │ │ └── UNMET DEPENDENCY async-limiter@1.0.1
+│ │ └─┬ UNMET DEPENDENCY yargs@12.0.5
+│ │   ├─┬ UNMET DEPENDENCY cliui@4.1.0
+│ │   │ ├── UNMET DEPENDENCY string-width@2.1.1
+│ │   │ ├─┬ UNMET DEPENDENCY strip-ansi@4.0.0
+│ │   │ │ └── UNMET DEPENDENCY ansi-regex@3.0.0
+│ │   │ └─┬ UNMET DEPENDENCY wrap-ansi@2.1.0
+│ │   │   ├─┬ UNMET DEPENDENCY string-width@1.0.2
+│ │   │   │ ├── UNMET DEPENDENCY code-point-at@1.1.0
+│ │   │   │ ├─┬ UNMET DEPENDENCY is-fullwidth-code-point@1.0.0
+│ │   │   │ │ └── UNMET DEPENDENCY number-is-nan@1.0.1
+│ │   │   │ └── UNMET DEPENDENCY strip-ansi@3.0.1
+│ │   │   └── UNMET DEPENDENCY strip-ansi@3.0.1
+│ │   ├── UNMET DEPENDENCY decamelize@1.2.0
+│ │   ├── UNMET DEPENDENCY find-up@3.0.0
+│ │   ├── UNMET DEPENDENCY get-caller-file@1.0.3
+│ │   ├── UNMET DEPENDENCY os-locale@3.1.0
+│ │   ├── UNMET DEPENDENCY require-directory@2.1.1
+│ │   ├── UNMET DEPENDENCY require-main-filename@1.0.1
+│ │   ├── UNMET DEPENDENCY set-blocking@2.0.0
+│ │   ├── UNMET DEPENDENCY string-width@2.1.1
+│ │   ├── UNMET DEPENDENCY which-module@2.0.0
+│ │   ├── UNMET DEPENDENCY y18n@4.0.0
+│ │   └─┬ UNMET DEPENDENCY yargs-parser@11.1.1
+│ │     ├── UNMET DEPENDENCY camelcase@5.3.1
+│ │     └── UNMET DEPENDENCY decamelize@1.2.0
+│ ├─┬ UNMET DEPENDENCY webpack-hot-middleware@2.25.0
+│ │ ├── UNMET DEPENDENCY ansi-html@0.0.7
+│ │ ├── UNMET DEPENDENCY html-entities@1.2.1
+│ │ ├── UNMET DEPENDENCY querystring@0.2.0
+│ │ └── UNMET DEPENDENCY strip-ansi@3.0.1
+│ ├─┬ UNMET DEPENDENCY webpack-merge@4.2.2
+│ │ └── UNMET DEPENDENCY lodash@4.17.15
+│ ├── UNMET DEPENDENCY webpack-stats-plugin@0.3.1
+│ ├── UNMET DEPENDENCY xstate@4.8.0
+│ └─┬ UNMET DEPENDENCY yaml-loader@0.5.0
+│   └── UNMET DEPENDENCY js-yaml@3.13.1
+├─┬ UNMET DEPENDENCY react@16.12.0
+│ ├─┬ UNMET DEPENDENCY loose-envify@1.4.0
+│ │ └── UNMET DEPENDENCY js-tokens@4.0.0
+│ ├── UNMET DEPENDENCY object-assign@4.1.1
+│ └── UNMET DEPENDENCY prop-types@15.7.2
+└─┬ UNMET DEPENDENCY react-dom@16.12.0
+  ├── UNMET DEPENDENCY loose-envify@1.4.0
+  ├── UNMET DEPENDENCY object-assign@4.1.1
+  ├── UNMET DEPENDENCY prop-types@15.7.2
+  └─┬ UNMET DEPENDENCY scheduler@0.18.0
+    ├── UNMET DEPENDENCY loose-envify@1.4.0
+    └── UNMET DEPENDENCY object-assign@4.1.1
+
